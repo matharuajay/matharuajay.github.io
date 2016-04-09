@@ -1,0 +1,20 @@
+---
+id: 74
+title: 'Listening &#8211; The first step in Communication'
+date: 2008-09-03T09:15:13+00:00
+author: Ajay Matharu
+layout: post
+guid: http://ajaymatharu.wordpress.com/?p=74
+permalink: /listening-the-first-step-in-communication/
+ljID:
+  - 13
+dsq_thread_id:
+  - 465380355
+categories:
+  - Relations
+---
+A mother was walking with her three-year-old son. Soon, they came across a street performer who was about to start his performance, so they took a place and started enjoying his performance. As the performance progressed, people started to congregate around the performer. After sometime, the three-year-old son started to cry and tug at his mother&#8217;s hand. The mother was enjoying the show, and got irritated by her son, who was now constantly distracting her.
+
+After some time, she bent down and started scolding her son for misbehaving. While she was bent on her knees and scolding her son, she realised that from that height, it was not possible to see the performer as some other people had come and taken their place, blocking her son&#8217;s view. She was fairly tall and could see, but the son couldn&#8217;t. Only then did she realise why he was crying, so she picked up her son, and he could enjoy it again.
+
+In our lives, we need to keep reminding ourselves that we need to be sensitive to others around us, so we can understand their position, and do what it takes to help them. Similarly, we need to do what we can to sensitise others of our situation, so they realise our situation, and do what they can to help us.
