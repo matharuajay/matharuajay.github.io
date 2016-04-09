@@ -81,7 +81,7 @@ body.video cite { color: #fff; }
 #masthead-no-image-header {
     height: 175px;
 }
-#masthead-no-image-header #logo img {
+#masthead-no-image-header #logo img, #masthead-no-image-header #logo span {
     margin-top: 60px;
 }
 
@@ -89,7 +89,7 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 @media #{$small-only} {
-    #logo img {
+    #logo img, #logo span {
         display: none;
     }
     #masthead {
@@ -116,7 +116,7 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 @media #{$medium-only} {
-    #logo img {
+    #logo img, #logo span {
         margin-top: 60px;
     }
     #masthead {
@@ -139,7 +139,7 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 @media #{$large-only} {
-    #logo img {
+    #logo img, #logo span {
         margin-top: 80px;
     }
     #masthead {
@@ -162,7 +162,7 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 @media #{$xlarge-up} {
-    #logo img {
+    #logo img, #logo span {
         margin-top: 110px;
     }
     #masthead {

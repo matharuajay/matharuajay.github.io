@@ -12,7 +12,7 @@ title: 'Ajay Matharu'
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A Flexible Theme for Jekyll'
+slogan: 'A developers perspective'
 
 # Name of your site (displayed in the header)
 name: Ajay Matharu
@@ -26,11 +26,12 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with 
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: Ajay Matharu
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'http://localhost:4000'
+url: 'http://matharuajay.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -49,6 +50,7 @@ urlimg: 'https://phlow.github.io/feeling-responsive/images/'
 # Logo size is 600x80 pixels
 logo: "logo.png"
 
+blogTitle: "Fundamental Provocation"
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
