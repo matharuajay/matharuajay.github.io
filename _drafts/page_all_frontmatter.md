@@ -15,7 +15,7 @@ tags:
 #
 header: no
 header:
-    image_fullwidth:
+    image_fullwidth: false
     image:
     pattern:
     color:
