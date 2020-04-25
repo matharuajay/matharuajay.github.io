@@ -1,0 +1,2 @@
+I":<p>Today I came across a requirement of showing an swf file in the webpart. So I thought I will upload the swf file in folder and give its url to the webpart. But then that will be hardcoded path. What will happen if the user deleted that folder or rather deleted that file itself? So my webpart will not run.</p>
+:ET

@@ -1,0 +1,130 @@
+I"�<p><strong>Web Development</strong></p>
+
+<hr />
+
+<p>With ASP.NET, Microsoft delivered a ground breaking</p>
+
+<p>productive development model that made web applications</p>
+
+<p>accessible to the traditional application developer. Over the last</p>
+
+<p>few releases, not only has the tooling in Visual Studio improved</p>
+
+<p>to provide developers with a more web standard set of tools,</p>
+
+<p>but leading features like CSS property grids and split view</p>
+
+<p>design surfaces have been provided.</p>
+
+<p>However the industry evolves, and so do the tool requirements</p>
+
+<p>and patterns that developers use. Web developers are leading</p>
+
+<p>the push to split content from data and to use a Test Driven</p>
+
+<p>Development (TDD) methodology. In Visual Studio 2010,</p>
+
+<p>the next generation of ASP.NET web tools that make it</p>
+
+<p>easy for developers to use TDD to build Model-View-Controller</p>
+
+<p>(MVC) based web sites.</p>
+
+<p>Many ASP.NET Developers have already experienced the</p>
+
+<p>preview release of ASP.NET MVC. All the features in that release</p>
+
+<p>are included in Visual Studio 2010. Ranging from Project</p>
+
+<p>Templates and Solutions that natively describe an ASP.NET MVC</p>
+
+<p>website, to automatic generation of test projects in the web</p>
+
+<p>solutions, to wizard support for common tasks like creating</p>
+
+<p>views from controllers and snippet support for HTML Markup,</p>
+
+<p>the Visual Studio IDE delivers all the support required.</p>
+
+<p>In Visual Studio 2008, was heavy in supporting</p>
+
+<p>JavaScript in the Visual Studio IDE and debugger. In Visual</p>
+
+<p>Studio 2010, there is higher</p>
+
+<p>performance, and standards – compliant JavaScript IntelliSense</p>
+
+<p>engine. These investments enabled Microsoft to announce their</p>
+
+<p>involvement with the JQuery group, and Visual Studio 2010 will</p>
+
+<p>be the first version of Visual Studio to ship JQuery as a native</p>
+
+<p>part of the ASP.NET solution set.</p>
+
+<p>Deployment of websites has been a challenge for developers for</p>
+
+<p>many years. Visual Studio 2010 has full IDE support for a simplified</p>
+
+<p>deployment process for ASP.NET websites. Called “One Click</p>
+
+<p>Deployment”, this process and IDE support provides a wizard,</p>
+
+<p>dialogs and design surfaces that make it simple for developers to</p>
+
+<p>identify the components of a website that need to be deployed,</p>
+
+<p>and handle the process of moving them from the development</p>
+
+<p>machine to the web server, whether that is an internal server for</p>
+
+<p>the organization or a server hosted by a 3rd party site.</p>
+
+<p>“One Click Deployment” also solves the problem of changing</p>
+
+<p>the settings of a website from the development machines to the</p>
+
+<p>final deployed site. Many times developers have sent websites</p>
+
+<p>to deployment with debug tracing turned on or the database</p>
+
+<p>connections set to the development servers. With web.config</p>
+
+<p>transformations, “One Click Deployment” enables a developer</p>
+
+<p>to create a custom set of transforms that will be applied to</p>
+
+<p>the website every time it is deployed and ensures that the</p>
+
+<p>appropriate settings are in the configuration files.</p>
+
+<p>Additionally, Microsoft has just released the Silverlight 2</p>
+
+<p>runtime and tooling for Visual Studio 2008. In Visual Studio</p>
+
+<p>2010, Silverlight is fully supported for developers wishing to</p>
+
+<p>build Silverlight content. Having design surfaces for Silverlight</p>
+
+<p>enables developers to either author original content or to</p>
+
+<p>modify content as part of the designer-developer workflow</p>
+
+<p>that Visual Studio enabled in the last release. Visual Studio</p>
+
+<p>2010 also provides full debugging support for Silverlight and</p>
+
+<p>provides project system integration for developers consuming</p>
+
+<p>this content in various applications types. For example, web</p>
+
+<p>developers building ASP.NET websites will be able to include</p>
+
+<p>existing Silverlight content, and Visual Studio will create the</p>
+
+<p>appropriate test pages and content includes to enable them to</p>
+
+<p>focus debugging on the Silverlight content in the context of the</p>
+
+<p>overall website solution.</p>
+:ET

@@ -1,0 +1,14 @@
+I"�<p>When Google launched offline GMail they promised it would act almost exactly like regular Gmail. From my early testing, it seems like that claim isn’t entirely true — in some ways, offline Gmail actually works better than the online version.</p>
+
+<p>The main difference is speed. Regular Gmail is generally fairly quick, but you can still find yourself waiting at times for it to check in with Google’s servers. In offline mode or the very cool Flaky Connection Mode, everything — opening messages, searching for information, labeling missives — happens almost instantly, since all the data is local.</p>
+
+<p>The tradeoff is that you don’t have access to all of your mail.</p>
+
+<p>Google says, in essence, that it downloads your 10,000 most recent messages (they estimate that will cover several years for average users). But they also say that they identify your most important email threads and sync those. That’s a fascinating idea that’s not terribly well explained.</p>
+
+<p>Here is what they say,</p>
+
+<p>“We try to download your most recent conversations along with any conversations that seem to be important (regardless of their age). We also try not to dowload uninteresting conversations. This process is done heuristically and as with any heuristic can and will miss things. We’ll continue to tune things up, but more importantly, we’ll eventually provide a UI that will allow you to change the settings. Here’s a sketch of how these messages are selected:</p>
+
+<p>Synchronization is based on the date of conversations. The system estimates a period of time to cover (at least 1 week in length) that results in approximately 10,000 messages being downloaded. For an average user, this means Gmail will end up downloading several years of mail.”</p>
+:ET

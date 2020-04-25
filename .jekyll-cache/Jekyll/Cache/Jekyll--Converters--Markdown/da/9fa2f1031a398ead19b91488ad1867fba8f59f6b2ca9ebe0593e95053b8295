@@ -1,0 +1,88 @@
+I"O<p><strong>Parallel Development</strong></p>
+
+<p>As demands for application performance increased, customers</p>
+
+<p>have traditionally solved the problem by simply increasing the</p>
+
+<p>underlying power of the hardware that the application is running</p>
+
+<p>on. Over the last several years developers have seen the CPUs</p>
+
+<p>that their applications run on start to include 2, 4 or more cores.</p>
+
+<p>While the power of the hardware has increased, the transition</p>
+
+<p>to a multi-core environment has impacted the applications that</p>
+
+<p>developers write. The majority of applications will not be able to</p>
+
+<p>automatically take advantage of this multi-core hardware change.</p>
+
+<p>Developers will need to modify the way they write applications</p>
+
+<p>and the architectures they use for these applications.</p>
+
+<p>Creating parallel capable code using current technologies is</p>
+
+<p>unfortunately not trivial. Multi-thread programming introduces</p>
+
+<p>not only application architecture challenges to complexity and</p>
+
+<p>robustness but also exposes the tooling developers use as being</p>
+
+<p>optimized for single-threaded development.</p>
+
+<p>Microsoft is making a major commitment to make parallel</p>
+
+<p>development accessible to a wide range of developers, whether</p>
+
+<p>they are using native code or the .NET Framework. With Visual</p>
+
+<p>Studio 2010 we are delivering:</p>
+
+<p>• Visual Studio IDE support for Parallel development</p>
+
+<p>• Native C++ libraries and compiler support</p>
+
+<p>for Parallel applications</p>
+
+<p>The .NET Framework 4.0 also provides the core framework</p>
+
+<p>support to build parallel applications through technologies such</p>
+
+<p>as P-LIINQ and parallel language semantics and framework</p>
+
+<p>components. Visual Studio 2010 provides integrated parallel</p>
+
+<p>development support. In Visual Studio 2010 the debugger is</p>
+
+<p>aware of the parallel nature of code and can present the state of</p>
+
+<p>the application execution during debugging across the different</p>
+
+<p>parallel execution units. The debugger also has custom displays</p>
+
+<p>for parallel code such as task &amp; thread windows and a “multi” or</p>
+
+<p>“cactus” stack view window that graphically shows the execution</p>
+
+<p>path of the individual tasks.</p>
+
+<p>Being able to develop and debug your application doesn’t</p>
+
+<p>mean that it takes advantage of all the available power. To</p>
+
+<p>help developers do this, Visual Studio 2010 also includes</p>
+
+<p>a parallel capable performance analyzer that enables you</p>
+
+<p>to extensively instrument you code to visually see the</p>
+
+<p>concurrency issues that are in your applications. Combine</p>
+
+<p>this with the features of the Visual Studio IDE, and developers</p>
+
+<p>have a highly productive, visual environment for building the</p>
+
+<p>best parallel capable applications available.</p>
+:ET

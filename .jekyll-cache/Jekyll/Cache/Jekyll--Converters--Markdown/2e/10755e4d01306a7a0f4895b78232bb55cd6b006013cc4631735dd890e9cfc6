@@ -1,0 +1,14 @@
+I"�<p>Following is the simple code to change the value of the appSettings key,</p>
+
+<pre name="code" class="c-sharp">private void UpdateConfig(string strKey, string strValue)
+{
+Configuration objConfig = WebConfigurationManager.OpenWebConfiguration(”~”); 
+AppSettingsSection objAppsettings = (AppSettingsSection)objConfig.GetSection(”appSettings”);
+if (objAppsettings != null)
+{
+objAppsettings.Settings[strKey].Value = strValue; 
+objConfig.Save();
+}
+}
+</pre>
+:ET

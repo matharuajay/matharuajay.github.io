@@ -1,0 +1,8 @@
+I"0<p>Sometimes your intellisence stops working in Visual Studio.</p>
+
+<p>The problem mostly arises when you install some add-in or uninstall the add-in. I faced this problem When I un-installed re-shareper. All you have to do to get back your intellisense is</p>
+
+<p>just close your Visual Studio.</p>
+
+<p>Navigate to Windows -&gt; run, and type “devenv /resetsettings” without double quotes. This will reset the settings completely. You can have your intellinsence back this way. You can also write “devenv /resetsettings” from your command prompt.</p>
+:ET

@@ -1,0 +1,6 @@
+I"�<p>While using BlogEngine.net you may run into “content encoding error” “The page you are trying to view cannot be shown because it uses an invalid or unsupported form of compression” this error, to resolve this, find</p>
+
+<p>&lt;add name=”CompressionModule” type=”BlogEngine.Core.Web.HttpModules.CompressionModule, BlogEngine.Core”/&gt;</p>
+
+<p>in your web.config file and comment this line of code. This error mostly arrives when you host blogengine.net site on GoDaddy.</p>
+:ET

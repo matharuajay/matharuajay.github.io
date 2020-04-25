@@ -1,0 +1,36 @@
+I"�<p>Assume in the master page, we have a user control which we need to access and set its visiblity from content page. We create a public property in the master page called controlVisiblity</p>
+
+<p>public bool LoginControlVisible</p>
+
+<p>{</p>
+
+<p>get</p>
+
+<p>{</p>
+
+<p>return LoginControl.Visible;</p>
+
+<p>}</p>
+
+<p>set</p>
+
+<p>{</p>
+
+<p>LoginControl.Visible = value;</p>
+
+<p>}</p>
+
+<p>}</p>
+
+<p>To gain access to the master page file from the content page, you just need to add the below directive to the content page</p>
+
+<p>&lt;%@ MasterType VirtualPath=”~/siteMaster.master”%&gt;</p>
+
+<p>When ASP.NET realizes the existance of this directive, it generates a strongly typed property “Master”. this property will give you access to the MasterPage file. So directly in the content page code behind you would use the below instead of trying to use the FindControl method.</p>
+
+<p>Master.LoginControlVisible = true;</p>
+
+<p>or</p>
+
+<p>Master.LoginControlVisible = false;</p>
+:ET

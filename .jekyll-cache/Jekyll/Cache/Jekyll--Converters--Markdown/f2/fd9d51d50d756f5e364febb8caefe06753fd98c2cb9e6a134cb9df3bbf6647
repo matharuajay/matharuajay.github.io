@@ -1,0 +1,20 @@
+I"6<p>Today I just got went though this, this helps you to execute a string in SQL. This is how you can execute a string in SQL,</p>
+
+<p>Declare @query Varchar(500)</p>
+
+<p>Set @query = ‘Select * From Employees’</p>
+
+<p>Exec (@query)</p>
+
+<p>OR</p>
+
+<p>EXEC (‘USE AdventureWorks; SELECT EmployeeID, Title FROM HumanResources.Employee;’)</p>
+
+<p>This way you can execute a string in SQL.</p>
+
+<p>This is extremely helpful when you need to add the Where clause based on some criteria. You can have your query in a string and based on that criteria you can append the clause in that string and finally execute the string at the end. This works perfectly.</p>
+
+<p>However this does not work if you want to execute the query and get the result in the Dataset in your .Net application. For that you need to create a #Temp table execute the string and get the result in the #Temp table and then fire the select again on your #Temp table.</p>
+
+<p>Note: Don’t forget to get the brackets ( &amp; ) around your query else SQL will throw an error, Unrecognized stored procedure.</p>
+:ET

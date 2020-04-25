@@ -1,0 +1,47 @@
+---
+toc: false
+id: 1250
+title: Being number one is not the end of the chase, its the beginning
+date: 2009-07-09T23:05:08+00:00
+author: Ajay Matharu
+layout: post
+guid: http://www.ajaymatharu.com/?p=1250
+permalink: /being-number-one-is-not-the-end-of-the-chase-its-the-beginning/
+ljID:
+  - 282
+dsq_thread_id:
+  - 465387542
+categories:
+  - life
+  - Management
+  - Motivation
+  - Self Development
+tags:
+  - Confidence
+  - Feelings
+  - Happiness
+  - Happy
+  - Inspiration
+  - life
+  - NUMEBR one
+  - personal
+  - Personality
+  - relaxation
+  - responsibility
+  - top
+---
+<p class="MsoNormal">
+  Often people strive to acquire the number one position. However, once they become number one and feel that hey have achieved everything, it marks the beginning of the rather strange life. Their mind gets totally occupied with retaining the number one position. They become cautious of the people just behind them and put extra effort in maintaining image.
+</p>
+
+<p class="MsoNormal">
+  The person at a number one position sleeps less, eats less and his peace of mind disappears. Blood pressure, sugar, anxiety, restlessness and palpitation, suddenly become a part of this rich man’s world. In addition, he is left with no inspiration and no one to look up to and achieve a different, much higher target. Not merely he, his entire family bears the brunt of him being at number one position. <span> </span>A self-acquired responsibility dominates his mind almost 24 hours a day, seven days a week and 52 weeks in a year.
+</p>
+
+<p class="MsoNormal">
+  On the other hand, imagine the condition of the person who is at number two position. Apart from a little pain of not being at number one position, he is much relaxed and happier. He knows that he can get away with few things as there is a senior above him to take responsibility. He has a well nourished ambition to become number one and he works hard for it. He has a strong credibility attached, as people around him know that still has to reach top and will not spoil his position or reputation. He enjoys an easy life with family and friends. All he needs is to concentrate on his present job, work hard, be honest and dedicated and things would automatically fall in his way. If you have played the game of chess, you would understand the value of ‘Vazir’ who is considered number two in the game but is sometimes even more important than the number one, the kind. Once the ‘Vazir’ is killed, half of the game is won by the opponent.<span> </span>The ranks are in the same order. At times, the number two play a far more important and stronger role in an organisation, than the number one.<span> </span>The dependency of number one on number two makes the later the ‘Vazir’ of the organization without which the ‘King’ is incomplete and fears losing a battle.
+</p>
+
+<p class="MsoNormal">
+  This does not imply that one should not strive to become number one. This article is for those who are aiming at becoming number one but they are somehow are not able to achieve the position. Do not worry. There is a famous ad line ‘We are at number two we work hard’. Your efforts are duly recognized by everyone and especially those who fear that someday you would become number one, so be happy.
+</p>

@@ -1,0 +1,50 @@
+I"�<p>Today I came across a requirement of showing an swf file in the webpart. So I thought I will upload the swf file in folder and give its url to the webpart. But then that will be hardcoded path. What will happen if the user deleted that folder or rather deleted that file itself? So my webpart will not run.</p>
+
+<p>So I found some alternative to this and thought of embedding my swf file and js file in webpart itself. I googled on how can I do this, and here are the steps for embedding the files in the webpart itself.</p>
+
+<p>I ll assume that you are ready with the Webpart and you just need to remove the hard coded file’s url’s in your webpart. And i ll be using swfobject.js file in this example you can change the file and the type though, as per your requirements.</p>
+
+<p>– Add swfobject.js file in the same project as webpart.</p>
+
+<p>– Right click on js file select properties and change build action to “Embedded Resource”.</p>
+
+<p>– Make an entry in AssemblyInfo.cs or AssemblyInfo.vb file like</p>
+
+<p>[assembly: WebResource(“ReadENote.swfobject.js”, “text/js”)]</p>
+
+<p>format : [assembly: WebResource(“<project namespace="">.<filename>.<extension>&#8221;, &#8220;<content type="">&#8221;)]</content></extension></filename></project></p>
+
+<p>Note : Make sure you specify the namespace along with filename else it will not recognize the file.</p>
+
+<p>– You can access this embedded resource in your webpart code like this</p>
+
+<p>Type t = typeof(<webpartname>); //e.g. Type t = typeof(ReadENote);</webpartname></p>
+
+<p>string js = “<namespace>.<filename>.<extension>&#8221;; //e.g. string js = &#8220;ReadENote.swfobject.js&#8221;;</extension></filename></namespace></p>
+
+<p>jslocation = Page.ClientScript.GetWebResourceUrl(t, js);</p>
+
+<p>Page.ClientScript.RegisterClientScriptResource(t, js);</p>
+
+<p>This code will embed the specified file, in this case swfobject.js file in my webpart.</p>
+
+<p>Note: you only need to use the last line “Page.ClientScript.RegisterClientScriptResource(t, js);” if you are using the javascript file. If you are using some other file like an image file or swf file, you can use the jslocation in place of your hard coded location.</p>
+
+<p>– my previous code to embed swf file looks like this</p>
+
+<p>strBody = strBody + “var so = new SWFObject(\”notes.swf\”, \”stickies\”, \”250\”, \”250\”, \”9\”, \”#FF6600\”);”;</p>
+
+<p>– my code after using these steps will look like this</p>
+
+<p>Type t = typeof(<webpartname>);</webpartname></p>
+
+<p>string js = “<namespace>.<filename>.<extension>&#8221;;</extension></filename></namespace></p>
+
+<p>jslocation = Page.ClientScript.GetWebResourceUrl(t, js);</p>
+
+<p>strBody = strBody + “var so = new SWFObject(\”” + swflocation + “\”, \”stickies\”, \”250\”, \”250\”, \”9\”, \”#FF6600\”);”;</p>
+
+<p>Make these changes, build and deploy your web part.</p>
+
+<p>Enjoy dynamic coding and prevent hard code.</p>
+:ET

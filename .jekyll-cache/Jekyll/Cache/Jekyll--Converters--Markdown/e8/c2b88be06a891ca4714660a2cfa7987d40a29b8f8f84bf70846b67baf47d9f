@@ -1,0 +1,26 @@
+I"�<p>Recently we were using HttpWebRequest. Things were working fine until we bumped into, “The Operation has timed out”.</p>
+
+<h2 id="error">ERROR</h2>
+
+<blockquote>
+  <h2 id="the-operation-has-timed-out"> The operation has timed out</h2>
+</blockquote>
+
+<p>It was running perfectly fine but all of a sudden it stopped working. Later we identified that the request URL was HTTPS. We just changed HTTPS to HTTP and the code worked again. But changing HTTPS to HTTP is not the solution. It is a quick fix.</p>
+
+<p>The site with HTTPS was working in the browser. We got all the responses from the browser. However, We get this error with HttpWebRequest. HttpWebRequest worked with Http URL but not with HTTPS.</p>
+
+<p>Later we started to look into the problem. We made sure our firewall was configured correctly. We contacted the third party guys they said they are not getting the request with HTTPS. It was clear there is some problem. We figured out that HttpWebRequest got stuck at a stage where it’s supposed to send back a client key exchange which it didn’t.</p>
+
+<h2 id="solution">Solution</h2>
+
+<p>Then we forced HttpWebRequest to use SSL3 instead of TLS. Although TLS automatically turns into SSL3 but it din’t happen. So the fix to the problem was</p>
+
+<blockquote>
+  <h2 id="servicepointmanagersecurityprotocol--securityprotocoltypessl3">ServicePointManager.SecurityProtocol = SecurityProtocolType.Ssl3;</h2>
+</blockquote>
+
+<p> Just place the above line before calling GetResponse() and that was it.</p>
+
+<p>To read more about ServicePointManager – http://msdn.microsoft.com/en-us/library/system.net.servicepointmanager.securityprotocol(v=vs.110).aspx</p>
+:ET

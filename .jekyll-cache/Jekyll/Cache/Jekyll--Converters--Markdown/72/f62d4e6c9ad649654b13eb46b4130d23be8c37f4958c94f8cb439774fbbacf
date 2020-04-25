@@ -1,0 +1,12 @@
+I"�<p>Here is the SQL statement that helps you to change the SQL account password,</p>
+
+<p>[cc lang=”sql”]</p>
+
+<p>ALTER LOGIN Account_Name WITH</p>
+
+<p>PASSWORD = ‘New_Password’</p>
+
+<p>OLD_PASSWORD = ‘Old_Password’;</p>
+
+<p>[/cc]</p>
+:ET

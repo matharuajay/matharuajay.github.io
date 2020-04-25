@@ -1,0 +1,70 @@
+I"*<p>Here is the sample code thar you can use to access Active Directory details from a sharepoint site,</p>
+
+<p>DirectoryEntry oDE;</p>
+
+<p>oDE = new DirectoryEntry(“LDAP://<ldapserver>,&#8221;ADusername&#8221;,&#8221;ADpassword&#8221;,AuthenticationTypes.Secure);</ldapserver></p>
+
+<p>DirectoryEntry de = oDE;</p>
+
+<p>DirectorySearcher deSearch = new DirectorySearcher();</p>
+
+<p>deSearch.Filter = “(&amp;(objectClass=user)(SAMAccountName=” + SPContext.Current.Web.CurrentUser.LoginName + “))”;</p>
+
+<p>deSearch.SearchScope = SearchScope.Subtree;</p>
+
+<p>SearchResult results = deSearch.FindOne();</p>
+
+<p>if (!(results == null))</p>
+
+<p>{</p>
+
+<p>de = new DirectoryEntry(results.Path,”AD username”,”AD password”,AuthenticationTypes.Secure);</p>
+
+<p>//if you know the propertyname you want to get value from you can use this</p>
+
+<p>de.Properties[“propertyname”].ToString();</p>
+
+<p>//this code will loop thru all the properties in active directory</p>
+
+<p>ResultPropertyCollection propertiesCollection;</p>
+
+<p>propertiesCollection = results.Properties;</p>
+
+<p>//loop thru all the properties in AD</p>
+
+<p>foreach (string currentProperty in propertiesCollection.PropertyNames)</p>
+
+<p>{</p>
+
+<p>Response.Write(“Property Name: ” + currentProperty);</p>
+
+<p>//loop thru all the sub properties</p>
+
+<p>foreach (Object thisCollection in propertiesCollection[currentProperty])</p>
+
+<p>{</p>
+
+<p>Response.Write(thisCollection.ToString() + “<br />”);</p>
+
+<p>}</p>
+
+<p>}</p>
+
+<p>}</p>
+
+<p>The above code reads and writes the values of the properties from the Active directory for the current user.</p>
+
+<p>But to be able to run the above code you need to make sure that you import System.DirectoryServices,</p>
+
+<p>&lt;%@ Import Namespace=”System.DirectoryServices” %&gt;</p>
+
+<p>Also you need to make sure Web.config has an entry for the System.DirectoryServices in its Assemblies Section,</p>
+
+<assemblies>
+  
+&lt;add assembly=&#8221;System.DirectoryServices, Version=2.0.0.0,
+  
+Culture=neutral, PublicKeyToken=b77a5c561934e089&#8243; /&gt;
+  
+</assemblies>
+:ET

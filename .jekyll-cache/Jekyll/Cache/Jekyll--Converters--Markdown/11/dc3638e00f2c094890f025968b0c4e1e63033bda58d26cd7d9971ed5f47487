@@ -1,0 +1,10 @@
+I"�<p>If you are addicted to your setting in Visual Studio, then you can even import and export your settings. Navigate to Tools – Options – Environment – Import / Export Settings.</p>
+
+<p>you can export your existing settings and save.</p>
+
+<p>Next time if you want your settings to be applied to Visual Studio you just need to have your exported settings file, you can then just import the settings file. And your settings will be there.</p>
+
+<p>This setting include all the settings e.g. you have set line number to be displayed, save solution location at time of creating the project and many other settings.</p>
+
+<p>Njoy Writing Code!!!</p>
+:ET

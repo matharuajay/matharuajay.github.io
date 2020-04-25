@@ -1,0 +1,12 @@
+I"\<p>Today while developing I ran into the problem saying something like <em>“the assembly exists at two location”</em>. I, normally used to solve this problem by deleting the files from <em>“Temporary ASP.NET Files”</em>, but this error started to appear too often. So I googled on this error and found someone saying you need to put the following code of line in web.config file if you are running accross this error too often,</p>
+
+<p><em>&lt;hostingEnvironment shadowCopyBinAssemblies=”false” /&gt;</em></p>
+
+<p><em>hostingEnvironment  :</em> Defines configuration settings that control the behavior of the application hosting environment.</p>
+
+<p><em>shadowCopyBinAssemblies :</em> Optional <span><span class="input">Boolean</span></span> attribute. Sets a Boolean value indicating whether the assemblies of an application in the Bin directory are shadow copied to the application’s ASP.NET Temporary Files directory.</p>
+
+<p>After placing this part of code in my web.config file, I got rid of the above problem, But I came accross another one which irritated me more. As my application had multiple projects, I frequently have to make changes in one of those, build it and then again add the refrence to my web application.</p>
+
+<p>But after placing this line in my web.config I was not able to remove the previously added reference. When I tried to add reference to new DLL it threw an error something like this <em>“cannot delete or modify as file is already is in use by another process. Access denied”</em> . Later when I removed this line from my web.config I was releaved of this error, phew!!!</p>
+:ET

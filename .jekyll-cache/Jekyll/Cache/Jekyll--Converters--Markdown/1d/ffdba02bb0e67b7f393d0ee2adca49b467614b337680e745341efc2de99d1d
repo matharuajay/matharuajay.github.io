@@ -1,0 +1,12 @@
+I"G<p>Millions of Windows computers have been infected by a new computer worm dubbed “Conficker.” The situation is “not getting better,” but rather is “getting worse,” according to security software vendor F-Secure.</p>
+
+<p>In a <a href="http://www.f-secure.com/weblog/archives/00001584.html">blog post</a>, F-Secure security researchers report that the number of machines infected by the Downadup worm has skyrocketed from roughly 2.4 million to over 8.9 million in the last four days alone.</p>
+
+<p>Downadup is a malicious worm that “uses computer or network resources to make complete copies of itself,” according to F-Secure. And it may also include code or other malware that damages both a computer and network. The worm also goes by the names “Kido” and “Conflicker.” Details on how it operates and how to remove it are <a href="http://www.f-secure.com/v-descs/worm_w32_downadup_al.shtml#details">here</a>.</p>
+
+<p>Once executed, Downadup disables a number of system services, including Windows Automatic Update, Windows Security Center, Windows Defender, and Windows Error Reporting. The worm then connects to a malicious server, where it downloads additional malware to install on the infected computer. Computerworld provides a more detailed report on Downadup’s potential dangers.</p>
+
+<p>Since Downadup uses random extension names to avoid detection, Windows users should make sure their security software is set to scan all files, rather than checking on specific extensions, F-Secure recommends.</p>
+
+<p>The alarmingly high number of Downadup infections led Microsoft last Tuesday to enable its anti-malware utility, Microsoft Software Removal Tool (MSRT), to detect the worm. So it’s important that Windows users, if they haven’t already, download the latest Microsoft security patch that went out earlier this week.</p>
+:ET

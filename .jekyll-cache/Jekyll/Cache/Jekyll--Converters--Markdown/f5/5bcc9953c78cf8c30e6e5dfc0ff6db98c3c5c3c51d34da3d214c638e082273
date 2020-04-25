@@ -1,0 +1,52 @@
+I"e<p><strong>Cloud Development</strong></p>
+
+<p>On October 27th 2008 Microsoft announced Windows® Azure™</p>
+
+<p>the comprehensive cloud environment from Microsoft. With</p>
+
+<p>Windows® Azure™ Tools for Microsoft® Visual Studio®</p>
+
+<p>you can build, debug and deploy services and applications</p>
+
+<p>for Windows Azure.</p>
+
+<p>Windows Azure offers a scalable hosting environment for</p>
+
+<p>the Internet, built on geographically distributed data centers.</p>
+
+<p>It handles load balancing and resource management, and</p>
+
+<p>automatically manages the life cycle of a service based on</p>
+
+<p>requirements that you establish. With the service, you include</p>
+
+<p>code specifications for the service topology, the number of</p>
+
+<p>instances to deploy, and any configuration settings. Windows®</p>
+
+<p>Azure™ deploys the service and manages upgrades and failures</p>
+
+<p>to maintain availability.</p>
+
+<p>The Windows Azure environment is designed as a utility</p>
+
+<p>computing model, so that you pay only for the resources</p>
+
+<p>used by your service, while benefitting from the reliability and</p>
+
+<p>performance provided by the hosting environment.</p>
+
+<p>Windows Azure Tools provide the means to create services</p>
+
+<p>and applications within the framework of Visual Studio. That</p>
+
+<p>includes a project model specifically for Windows Azure, as</p>
+
+<p>well as the debugging capabilities of Visual Studio. With Visual</p>
+
+<p>Studio, you can build a package containing your service, and</p>
+
+<p>use Windows Azure Tools to deploy the package to Windows</p>
+
+<p>Azure through the Windows Live Developer Portal.</p>
+:ET

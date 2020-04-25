@@ -1,0 +1,18 @@
+I"�<p>Turns out, in Word 2007 all you have to do is use =lorem() instead of =rand() and you’ll be able to insert the lorem text instead.</p>
+
+<p>Just type in =lorem() into your document, and hit the enter key…</p>
+
+<p><img src="http://www.howtogeek.com/wp-content/uploads/2007/09/image99.png" border="0" alt="image" width="605" height="312" /></p>
+
+<p>And just like that, Lorem Ipsum is inserted automatically!</p>
+
+<p><img src="http://www.howtogeek.com/wp-content/uploads/2007/09/image100.png" border="0" alt="image" width="620" height="404" /></p>
+
+<p>Just like the other tip, you can use the following syntax:</p>
+
+<p>=lorem(paragraphs,sentences)</p>
+
+<p>For instance, for 6 paragraphs of 20 sentences each, you would use:</p>
+
+<p>=lorem(6,20)</p>
+:ET

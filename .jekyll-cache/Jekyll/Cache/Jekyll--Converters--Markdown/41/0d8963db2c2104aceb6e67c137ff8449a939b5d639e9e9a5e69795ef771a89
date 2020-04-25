@@ -1,0 +1,16 @@
+I"S<p>It’s been very long, I have been finding a way to remove all the item level permission.</p>
+
+<p>My requirement was to set permission only to particular users and groups on an item and remove rest all. I almost spend 3 weeks in finding a way to remove all the permission on the item so that later I can add the permissions which I want. Atlast I found a way to remove all the permission set on item let it be user specific or group specific. Here is the code snippet that helps you to do that,</p>
+
+<p>for (int k = itm.RoleAssignments.Count – 1; k &gt;= 0; k–)</p>
+
+<p>{</p>
+
+<p>itm.RoleAssignments.Remove(k);</p>
+
+<p>}</p>
+
+<p>here itm is an SPListItem object from which you want to remove all permissions.</p>
+
+<p>You can loop through all the SPListCollection and then for each SPListItem you can remove all the permission on that item.</p>
+:ET
