@@ -5,7 +5,7 @@ title: Being a leader
 date: 2015-03-03T15:05:01+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2969
+guid: https://www.ajaymatharu.com/?p=2969
 permalink: /being-a-leader/
 pdrp_attributionLocation:
   - end
@@ -24,7 +24,7 @@ tags:
   </div>
   
   <div>
-     <img class="aligncenter size-full wp-image-2982" src="http://www.ajaymatharu.com/wp-content/uploads/2015/03/8443484430_56c4a9fe92.jpg" alt="8443484430_56c4a9fe92" width="453" height="396" srcset="http://www.ajaymatharu.com/wp-content/uploads/2015/03/8443484430_56c4a9fe92-300x262.jpg 300w, http://www.ajaymatharu.com/wp-content/uploads/2015/03/8443484430_56c4a9fe92.jpg 453w" sizes="(max-width: 453px) 100vw, 453px" />
+     <img class="aligncenter size-full wp-image-2982" src="https://www.ajaymatharu.com/wp-content/uploads/2015/03/8443484430_56c4a9fe92.jpg" alt="8443484430_56c4a9fe92" width="453" height="396" srcset="https://www.ajaymatharu.com/wp-content/uploads/2015/03/8443484430_56c4a9fe92-300x262.jpg 300w, https://www.ajaymatharu.com/wp-content/uploads/2015/03/8443484430_56c4a9fe92.jpg 453w" sizes="(max-width: 453px) 100vw, 453px" />
   </div>
   
   <div>

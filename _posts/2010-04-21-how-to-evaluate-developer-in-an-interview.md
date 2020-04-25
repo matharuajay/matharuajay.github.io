@@ -5,7 +5,7 @@ title: How to evaluate developer in an interview
 date: 2010-04-21T16:08:13+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2269
+guid: https://www.ajaymatharu.com/?p=2269
 permalink: /how-to-evaluate-developer-in-an-interview/
 aktt_notify_twitter:
   - no

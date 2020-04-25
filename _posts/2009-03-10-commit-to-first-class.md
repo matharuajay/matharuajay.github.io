@@ -5,7 +5,7 @@ title: Commit to First Class
 date: 2009-03-10T13:15:11+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=698
+guid: https://ajaymatharu.wordpress.com/?p=698
 permalink: /commit-to-first-class/
 ljID:
   - 199

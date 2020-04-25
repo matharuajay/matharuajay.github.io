@@ -5,7 +5,7 @@ title: Google Suggests Gmail Users Dump IE
 date: 2009-01-02T04:11:54+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=717
+guid: https://ajaymatharu.wordpress.com/?p=717
 permalink: /google-suggests-gmail-users-dump-ie/
 reddit:
   - 's:63:"s:55:"a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1231173618";}";";'

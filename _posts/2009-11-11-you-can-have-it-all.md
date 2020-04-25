@@ -5,7 +5,7 @@ title: You can have it all
 date: 2009-11-11T14:56:48+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1783
+guid: https://www.ajaymatharu.com/?p=1783
 permalink: /you-can-have-it-all/
 aktt_notify_twitter:
   - no

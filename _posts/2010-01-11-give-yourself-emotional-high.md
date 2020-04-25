@@ -5,7 +5,7 @@ title: Give yourself emotional high!
 date: 2010-01-11T15:03:00+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1970
+guid: https://www.ajaymatharu.com/?p=1970
 permalink: /give-yourself-emotional-high/
 aktt_notify_twitter:
   - no

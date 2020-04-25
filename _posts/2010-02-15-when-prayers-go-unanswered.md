@@ -5,7 +5,7 @@ title: When prayers go UnAnswered
 date: 2010-02-15T23:22:09+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2079
+guid: https://www.ajaymatharu.com/?p=2079
 permalink: /when-prayers-go-unanswered/
 aktt_notify_twitter:
   - no

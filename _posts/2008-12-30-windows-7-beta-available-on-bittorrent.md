@@ -5,7 +5,7 @@ title: Windows 7 Beta available on BitTorrent
 date: 2008-12-30T13:39:45+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=711
+guid: https://ajaymatharu.wordpress.com/?p=711
 permalink: /windows-7-beta-available-on-bittorrent/
 ljID:
   - 141

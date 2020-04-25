@@ -5,7 +5,7 @@ title: 'What if human don&#8217;t die?'
 date: 2010-01-09T10:00:25+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1967
+guid: https://www.ajaymatharu.com/?p=1967
 permalink: /what-if-human-dont-die/
 aktt_notify_twitter:
   - no

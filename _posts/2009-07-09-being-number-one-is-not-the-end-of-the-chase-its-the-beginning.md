@@ -5,7 +5,7 @@ title: Being number one is not the end of the chase, its the beginning
 date: 2009-07-09T23:05:08+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1250
+guid: https://www.ajaymatharu.com/?p=1250
 permalink: /being-number-one-is-not-the-end-of-the-chase-its-the-beginning/
 ljID:
   - 282

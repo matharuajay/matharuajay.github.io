@@ -5,7 +5,7 @@ title: Missing your loved one?
 date: 2010-01-28T16:47:43+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2029
+guid: https://www.ajaymatharu.com/?p=2029
 permalink: /missing-your-loved-one/
 aktt_notify_twitter:
   - no

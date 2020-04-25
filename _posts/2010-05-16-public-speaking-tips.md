@@ -5,7 +5,7 @@ title: Public Speaking Tips
 date: 2010-05-16T17:11:55+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=472
+guid: https://ajaymatharu.wordpress.com/?p=472
 permalink: /public-speaking-tips/
 dsq_thread_id:
   - 465358395

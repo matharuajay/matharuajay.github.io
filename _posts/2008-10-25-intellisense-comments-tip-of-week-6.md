@@ -5,7 +5,7 @@ title: 'IntelliSense Comments &#8211; Tip of week #6'
 date: 2008-10-25T08:16:05+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=255
+guid: https://ajaymatharu.wordpress.com/?p=255
 permalink: /intellisense-comments-tip-of-week-6/
 ljID:
   - 48
@@ -18,9 +18,9 @@ tags:
   - Tip of Week
   - Visual Studio tips
 ---
-[](http://ajaymatharu.files.wordpress.com/2008/10/intellisense.png)When comments exist for a method or class, they are displayed in the IntelliSense pop up shown in below figure
+[](https://ajaymatharu.files.wordpress.com/2008/10/intellisense.png)When comments exist for a method or class, they are displayed in the IntelliSense pop up shown in below figure
 
-<img class="aligncenter size-full wp-image-256" title="intellisense" src="http://ajaymatharu.files.wordpress.com/2008/10/intellisense.png" alt="" width="399" height="65" />
+<img class="aligncenter size-full wp-image-256" title="intellisense" src="https://ajaymatharu.files.wordpress.com/2008/10/intellisense.png" alt="" width="399" height="65" />
 
 <p class="docText">
   These comments can be created a number of different ways. If you are using C#, then these comments are pulled from the XML-based comments in your code, like the following example:
@@ -54,4 +54,4 @@ IntelliSense is one of the best features of Visual Studio, and using the shortcu
 
  
 
-<a href="http://ajaymatharu.files.wordpress.com/2008/10/shortcuttable.png"><img class="aligncenter size-full wp-image-257" title="shortcuttable" src="http://ajaymatharu.files.wordpress.com/2008/10/shortcuttable.png" alt="" width="450" height="65" /></a><a name="visualstudiohks-CHP-2-ITERM-2317"></a></pre>
+<a href="https://ajaymatharu.files.wordpress.com/2008/10/shortcuttable.png"><img class="aligncenter size-full wp-image-257" title="shortcuttable" src="https://ajaymatharu.files.wordpress.com/2008/10/shortcuttable.png" alt="" width="450" height="65" /></a><a name="visualstudiohks-CHP-2-ITERM-2317"></a></pre>

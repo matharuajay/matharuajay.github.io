@@ -5,7 +5,7 @@ title: 'Recession Hits Google &#8211; Google cuts costs'
 date: 2008-12-08T04:34:00+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=600
+guid: https://ajaymatharu.wordpress.com/?p=600
 permalink: /recession-hits-google-google-cuts-costs/
 dsq_thread_id:
   - 465387863

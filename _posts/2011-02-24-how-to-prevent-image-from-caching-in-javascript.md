@@ -5,7 +5,7 @@ title: How to prevent image from caching in javascript
 date: 2011-02-24T22:01:35+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2602
+guid: https://www.ajaymatharu.com/?p=2602
 permalink: /how-to-prevent-image-from-caching-in-javascript/
 dsq_thread_id:
   - 465379184

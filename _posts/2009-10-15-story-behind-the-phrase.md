@@ -7,7 +7,7 @@ title: Story behind the phrase
 date: 2009-10-15T11:50:11+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1554
+guid: https://www.ajaymatharu.com/?p=1554
 permalink: /story-behind-the-phrase/
 robotsmeta:
   - index,follow

@@ -5,7 +5,7 @@ title: Some unique ways to tie your Shoelaces
 date: 2008-10-25T06:35:58+00:00
 author: Ajay Matharu
 layout: post
-guid: http://matharuajay.wordpress.com/?p=5
+guid: https://matharuajay.wordpress.com/?p=5
 permalink: /some-unique-ways-to-tie-your-shoelaces/
 ljID:
   - 46
@@ -29,7 +29,7 @@ tags:
 
 4. Repeat steps (2) and (3) until both ends reach the top eyelets.
 
-[<img class="aligncenter size-full wp-image-6" title="twistie" src="http://matharuajay.files.wordpress.com/2008/10/twistie.png" alt="" width="204" height="314" />](http://matharuajay.files.wordpress.com/2008/10/twistie.png)
+[<img class="aligncenter size-full wp-image-6" title="twistie" src="https://matharuajay.files.wordpress.com/2008/10/twistie.png" alt="" width="204" height="314" />](https://matharuajay.files.wordpress.com/2008/10/twistie.png)
 
  
 
@@ -45,7 +45,7 @@ tags:
 
 4. At the top set of eyelets, the laces can once again cross over and pass under the straight section
 
-[<img class="aligncenter size-full wp-image-7" title="ladder" src="http://matharuajay.files.wordpress.com/2008/10/ladder.png" alt="" width="200" height="314" />](http://matharuajay.files.wordpress.com/2008/10/ladder.png)
+[<img class="aligncenter size-full wp-image-7" title="ladder" src="https://matharuajay.files.wordpress.com/2008/10/ladder.png" alt="" width="200" height="314" />](https://matharuajay.files.wordpress.com/2008/10/ladder.png)
 
  
 
@@ -65,7 +65,7 @@ tags:
 
 6. Cross the ends over, feed under and emerge from the top set of eyelets
 
-[<img class="aligncenter size-full wp-image-8" title="lattice1" src="http://matharuajay.files.wordpress.com/2008/10/lattice1.png" alt="" width="199" height="311" />](http://matharuajay.files.wordpress.com/2008/10/lattice1.png)
+[<img class="aligncenter size-full wp-image-8" title="lattice1" src="https://matharuajay.files.wordpress.com/2008/10/lattice1.png" alt="" width="199" height="311" />](https://matharuajay.files.wordpress.com/2008/10/lattice1.png)
 
 **Lacing Technique &#8211; Method 2 &#8211; Longer Laces:
   
@@ -79,7 +79,7 @@ tags:
 
 5. Complete the lacing by crossing over, feeding under and emerging from the top set of eyelets.
 
-[<img class="aligncenter size-full wp-image-9" title="lattice2" src="http://matharuajay.files.wordpress.com/2008/10/lattice2.png" alt="" width="200" height="311" />](http://matharuajay.files.wordpress.com/2008/10/lattice2.png)
+[<img class="aligncenter size-full wp-image-9" title="lattice2" src="https://matharuajay.files.wordpress.com/2008/10/lattice2.png" alt="" width="200" height="311" />](https://matharuajay.files.wordpress.com/2008/10/lattice2.png)
 
  
 
@@ -99,4 +99,4 @@ tags:
 
 6. Tuck all the loose ends of the laces into the shoe.
 
-[<img class="aligncenter size-full wp-image-10" title="checkerboard" src="http://matharuajay.files.wordpress.com/2008/10/checkerboard.png" alt="" width="201" height="309" />](http://matharuajay.files.wordpress.com/2008/10/checkerboard.png)
+[<img class="aligncenter size-full wp-image-10" title="checkerboard" src="https://matharuajay.files.wordpress.com/2008/10/checkerboard.png" alt="" width="201" height="309" />](https://matharuajay.files.wordpress.com/2008/10/checkerboard.png)

@@ -5,7 +5,7 @@ title: Visual Studio 2010 Parallel Development Overview
 date: 2008-12-17T11:22:23+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=512
+guid: https://ajaymatharu.wordpress.com/?p=512
 permalink: /visual-studio-2010-parallel-development-overview/
 ljID:
   - 126

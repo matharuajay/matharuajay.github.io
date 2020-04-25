@@ -5,7 +5,7 @@ title: Things to learn from Mahendra Singh Dhoni
 date: 2011-04-04T21:24:27+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2638
+guid: https://www.ajaymatharu.com/?p=2638
 permalink: /things-to-learn-from-mahendra-singh-dhoni/
 dsq_thread_id:
   - 465384105

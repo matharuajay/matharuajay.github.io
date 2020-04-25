@@ -5,7 +5,7 @@ title: 'Thought #1'
 date: 2008-10-28T10:46:25+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=333
+guid: https://ajaymatharu.wordpress.com/?p=333
 permalink: /good-thought/
 ljID:
   - 65

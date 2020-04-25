@@ -5,7 +5,7 @@ title: 'Fear &#8211; the enemy of your freedom'
 date: 2009-11-17T17:33:28+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1747
+guid: https://www.ajaymatharu.com/?p=1747
 permalink: /fear-the-enemy-of-your-freedom/
 aktt_notify_twitter:
   - no

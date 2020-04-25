@@ -5,7 +5,7 @@ title: 10 Proven techniques to build your ideal life
 date: 2008-10-01T18:38:57+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=132
+guid: https://ajaymatharu.wordpress.com/?p=132
 permalink: /10-proven-techniques-to-build-your-ideal-life/
 ljID:
   - 32

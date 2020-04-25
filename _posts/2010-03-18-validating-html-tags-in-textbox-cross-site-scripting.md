@@ -5,12 +5,12 @@ title: 'Validating html tags in textbox &#8211; Cross site scripting'
 date: 2010-03-18T04:26:26+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1169
+guid: https://www.ajaymatharu.com/?p=1169
 permalink: /validating-html-tags-in-textbox-cross-site-scripting/
 aktt_notify_twitter:
   - no
 thumbnail:
-  - http://www.ajaymatharu.com/wp-content/uploads/2009/05/hackers-300x85.jpg
+  - https://www.ajaymatharu.com/wp-content/uploads/2009/05/hackers-300x85.jpg
 dsq_thread_id:
   - 465384940
 categories:

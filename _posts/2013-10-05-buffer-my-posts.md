@@ -5,7 +5,7 @@ title: Buffer My Posts
 date: 2013-10-05T18:19:28+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2809
+guid: https://www.ajaymatharu.com/?p=2809
 permalink: /buffer-my-posts/
 dsq_thread_id:
   - 1827111608
@@ -31,7 +31,7 @@ Here&#8217;s how Buffer works,
 
 > There are a few simple steps to getting set up. First, connect your profiles on the left. Then, for each profile, hop into the &#8220;Schedule&#8221; tab to choose the days and times that your posts will go out. To add a post, click the &#8220;what do you want to share&#8221; box at the top of the page, and type or paste in your post. Then, click the avatars for your profiles to choose which profiles this post will go to. Once you add it to your Buffer, you will see it under the &#8220;Buffer&#8221; tab for each of those profiles.
 
-This is very much similar to my other plugin, <a title="Tweet Old Post" href="http://www.ajaymatharu.com/tweet-old-post/" target="_blank">Tweet Old Posts</a>, which posts it only to Twitter. Download _**<span style="text-decoration: underline;"><a title="Buffer My Post" href="http://www.ajaymatharu.com/Buffer-My-Post.zip" target="_blank">Buffer My Posts</a></span>**_ and start scheduling your posts to Buffer.
+This is very much similar to my other plugin, <a title="Tweet Old Post" href="https://www.ajaymatharu.com/tweet-old-post/" target="_blank">Tweet Old Posts</a>, which posts it only to Twitter. Download _**<span style="text-decoration: underline;"><a title="Buffer My Post" href="https://www.ajaymatharu.com/Buffer-My-Post.zip" target="_blank">Buffer My Posts</a></span>**_ and start scheduling your posts to Buffer.
 
 ## Features of Buffer My Posts
 
@@ -52,7 +52,7 @@ This is very much similar to my other plugin, <a title="Tweet Old Post" href="ht
 <span style="font-size: 1.5em;">Setting up Buffer My Posts</span>
 
 <div id="attachment_2811" style="width: 834px" class="wp-caption aligncenter">
-  <a href="http://www.ajaymatharu.com/wp-content/uploads/2013/10/Buffer-My-Post.png"><img class="size-full wp-image-2811" alt="Buffer My Post" src="http://www.ajaymatharu.com/wp-content/uploads/2013/10/Buffer-My-Post.png" width="824" height="705" /></a>
+  <a href="https://www.ajaymatharu.com/wp-content/uploads/2013/10/Buffer-My-Post.png"><img class="size-full wp-image-2811" alt="Buffer My Post" src="https://www.ajaymatharu.com/wp-content/uploads/2013/10/Buffer-My-Post.png" width="824" height="705" /></a>
   
   <p class="wp-caption-text">
     Buffer My Post
@@ -61,7 +61,7 @@ This is very much similar to my other plugin, <a title="Tweet Old Post" href="ht
 
 ### Buffer App Access Token :
 
-You need to create a Buffer App and enter the Access Token in this field. <a title="Create Buffer App" href="http://www.ajaymatharu.com/create-buffer-app/" target="_blank">Here&#8217;s how you can create the Buffer App and get the Access Token</a>.
+You need to create a Buffer App and enter the Access Token in this field. <a title="Create Buffer App" href="https://www.ajaymatharu.com/create-buffer-app/" target="_blank">Here&#8217;s how you can create the Buffer App and get the Access Token</a>.
 
 ### Post Format :
 

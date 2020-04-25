@@ -5,7 +5,7 @@ title: Gmail Gets Integrated Calendar and Docs
 date: 2008-10-28T20:23:10+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=369
+guid: https://ajaymatharu.wordpress.com/?p=369
 permalink: /gmail-gets-integrated-calendar-and-docs/
 ljID:
   - 69

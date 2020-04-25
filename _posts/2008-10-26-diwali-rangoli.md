@@ -5,7 +5,7 @@ title: Diwali Rangoli
 date: 2008-10-26T17:39:36+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=309
+guid: https://ajaymatharu.wordpress.com/?p=309
 permalink: /diwali-rangoli/
 dsq_thread_id:
   - 465386136
@@ -29,5 +29,5 @@ All over the southern part of India the Diwali festival is marked by gaiety and 
 The raw materials mainly used to make rangoli are edibles like rice flour, pulse and leaves. All over India, floor paintings are essentially white in color. White is a symbol of peace, purity and tranquility. The material used is rice flour or rice paste, because rice to all Indians is a sign of prosperity. Yet another symbol of prosperity is the color yellow. Turmeric yellow or ocher is also often used to fill in the white outlines. More often however, vermilion is used. **Vermilion**, is considered auspicious. Also used are pea green and rust brown.
 
 <div>
-  <a href="http://ajaymatharu.files.wordpress.com/2008/10/rangoli.png"><img class="aligncenter size-full wp-image-310" title="rangoli" src="http://ajaymatharu.files.wordpress.com/2008/10/rangoli.png" alt="" width="450" height="346" /></a>
+  <a href="https://ajaymatharu.files.wordpress.com/2008/10/rangoli.png"><img class="aligncenter size-full wp-image-310" title="rangoli" src="https://ajaymatharu.files.wordpress.com/2008/10/rangoli.png" alt="" width="450" height="346" /></a>
 </div>

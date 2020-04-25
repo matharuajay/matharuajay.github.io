@@ -5,7 +5,7 @@ title: Google Eye-Tracking
 date: 2009-02-11T17:15:42+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.com/?p=948
+guid: https://ajaymatharu.com/?p=948
 permalink: /google-eye-tracking/
 ljID:
   - 183
@@ -19,7 +19,7 @@ tags:
   - Google
   - Technology
 ---
-The site’s engineers are revealing a <a href="http://googleblog.blogspot.com/2009/02/eye-tracking-studies-more-than-meets.html" target="_blank">new line of eye-tracking</a> studies that aim to see where your eyes first land on a Web page &#8212; then make sure the content you want is in that same place.
+The site’s engineers are revealing a <a href="https://googleblog.blogspot.com/2009/02/eye-tracking-studies-more-than-meets.html" target="_blank">new line of eye-tracking</a> studies that aim to see where your eyes first land on a Web page &#8212; then make sure the content you want is in that same place.
 
 ## Basics {.articleBodyContentSubHed}
 

@@ -5,7 +5,7 @@ title: Google unevils Caffeine
 date: 2009-08-12T23:32:03+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1574
+guid: https://www.ajaymatharu.com/?p=1574
 permalink: /google-unevils-caffeine/
 dsq_thread_id:
   - 465390738
@@ -25,10 +25,10 @@ tags:
   - SEO
   - Technology
 ---
-Google has unveiled the preview version of [Caffeine](http://www2.sandbox.google.com/), a new search engine technology which promises to &#8220;push the envelope on size, indexing speed, accuracy, comprehensiveness and other dimensions.&#8221;
+Google has unveiled the preview version of [Caffeine](https://www2.sandbox.google.com/), a new search engine technology which promises to &#8220;push the envelope on size, indexing speed, accuracy, comprehensiveness and other dimensions.&#8221;
 
 <div id="logphoto" style="padding: 10px 10px 10px 0px; float: left;">
-  <a href="http://www2.sandbox.google.com/"><img title="Google Caffeine" src="http://ajaymatharu.wordpress.com/files/2009/08/caffeine.jpg" alt="Google Caffeine" width="194" height="287" /></a></p> 
+  <a href="https://www2.sandbox.google.com/"><img title="Google Caffeine" src="https://ajaymatharu.wordpress.com/files/2009/08/caffeine.jpg" alt="Google Caffeine" width="194" height="287" /></a></p> 
   
   <div style="width: 200px; line-height: 15px;">
     <span> </span>

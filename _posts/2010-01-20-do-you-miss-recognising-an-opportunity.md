@@ -5,7 +5,7 @@ title: Do you miss, recognising an opportunity?
 date: 2010-01-20T12:59:24+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1969
+guid: https://www.ajaymatharu.com/?p=1969
 permalink: /do-you-miss-recognising-an-opportunity/
 aktt_notify_twitter:
   - no

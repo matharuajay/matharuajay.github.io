@@ -5,7 +5,7 @@ title: Microsoft Web-Based Office Suite
 date: 2008-10-28T20:18:56+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=366
+guid: https://ajaymatharu.wordpress.com/?p=366
 permalink: /microsoft-web-based-office-suite/
 ljID:
   - 68

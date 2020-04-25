@@ -5,7 +5,7 @@ title: Top 3 mistakes of Microsoft in 2008
 date: 2009-01-03T03:10:09+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=704
+guid: https://ajaymatharu.wordpress.com/?p=704
 permalink: /top-3-mistakes-of-microsoft-in-2008/
 delicious:
   - 's:86:"s:78:"a:3:{s:5:"count";s:1:"0";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1231173616";}";";'

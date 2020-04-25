@@ -5,7 +5,7 @@ title: Insert multiple records with single Insert statement in SQL
 date: 2009-09-08T10:31:26+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1175
+guid: https://www.ajaymatharu.com/?p=1175
 permalink: /insert-multiple-records-with-single-insert-statement-in-sql/
 aktt_notify_twitter:
   - no

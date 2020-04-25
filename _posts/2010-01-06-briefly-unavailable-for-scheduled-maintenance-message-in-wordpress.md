@@ -5,7 +5,7 @@ title: 'Briefly unavailable for scheduled maintenance &#8211; message in wordpre
 date: 2010-01-06T11:30:48+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1978
+guid: https://www.ajaymatharu.com/?p=1978
 permalink: /briefly-unavailable-for-scheduled-maintenance-message-in-wordpress/
 aktt_notify_twitter:
   - no

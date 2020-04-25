@@ -5,7 +5,7 @@ title: How do I handle being sabotaged by a colleague?
 date: 2009-08-27T14:44:46+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1608
+guid: https://www.ajaymatharu.com/?p=1608
 permalink: /how-do-i-handle-being-sabotaged-by-a-colleague/
 dsq_thread_id:
   - 465389390

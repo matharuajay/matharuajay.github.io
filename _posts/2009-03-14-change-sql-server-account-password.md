@@ -5,7 +5,7 @@ title: Change SQL Server Account Password
 date: 2009-03-14T16:04:40+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1051
+guid: https://www.ajaymatharu.com/?p=1051
 permalink: /change-sql-server-account-password/
 ljID:
   - 202

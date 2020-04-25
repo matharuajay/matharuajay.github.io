@@ -5,7 +5,7 @@ title: Happy New Year with a BIG Smile
 date: 2010-01-02T16:35:51+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1959
+guid: https://www.ajaymatharu.com/?p=1959
 permalink: /happy-new-year-with-a-big-smile/
 aktt_notify_twitter:
   - no

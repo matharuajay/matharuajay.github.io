@@ -5,7 +5,7 @@ title: Improve your Communication Skills
 date: 2009-07-19T01:38:31+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=469
+guid: https://ajaymatharu.wordpress.com/?p=469
 permalink: /improve-your-communication-skills/
 ljID:
   - 287

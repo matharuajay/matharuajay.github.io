@@ -5,7 +5,7 @@ title: Should we give ADVICE?
 date: 2009-07-26T23:51:56+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=144
+guid: https://ajaymatharu.wordpress.com/?p=144
 permalink: /should-we-give-advice/
 bte_opp_original_pub_date:
   - 2008-09-22 17:51:32

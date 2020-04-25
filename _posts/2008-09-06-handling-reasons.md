@@ -5,7 +5,7 @@ title: Dealing with Reasons
 date: 2008-09-06T19:11:49+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=91
+guid: https://ajaymatharu.wordpress.com/?p=91
 permalink: /handling-reasons/
 ljID:
   - 16

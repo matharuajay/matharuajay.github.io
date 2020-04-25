@@ -5,7 +5,7 @@ title: Anger, a new age ailment?
 date: 2009-11-02T18:53:31+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1744
+guid: https://www.ajaymatharu.com/?p=1744
 permalink: /anger-a-new-age-ailment/
 aktt_notify_twitter:
   - no

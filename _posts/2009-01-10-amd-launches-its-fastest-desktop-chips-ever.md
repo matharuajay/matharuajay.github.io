@@ -5,7 +5,7 @@ title: AMD Launches Its Fastest Desktop Chips Ever
 date: 2009-01-10T00:00:25+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=763
+guid: https://ajaymatharu.wordpress.com/?p=763
 permalink: /amd-launches-its-fastest-desktop-chips-ever/
 ljID:
   - 154

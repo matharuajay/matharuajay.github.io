@@ -5,7 +5,7 @@ title: 'Team Building &#8211; exercise 1'
 date: 2009-07-25T12:03:35+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1193
+guid: https://www.ajaymatharu.com/?p=1193
 permalink: /team-building-exercise-1/
 bte_opp_original_pub_date:
   - 2009-05-08 10:02:38
@@ -67,4 +67,4 @@ Things team learn in this task,
 
 I&#8217;ll post the other two exercises that we had very soon. Keep checking.
 
-Njoy <img src="http://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Njoy <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

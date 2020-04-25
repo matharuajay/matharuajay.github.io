@@ -5,7 +5,7 @@ title: 'Google Vs Facebook Vs Yahoo: The war of Social Network has begun'
 date: 2008-12-06T16:46:30+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=544
+guid: https://ajaymatharu.wordpress.com/?p=544
 permalink: /google-vs-facebook-vs-yahoo-the-war-of-social-network-has-begun/
 ljID:
   - 113

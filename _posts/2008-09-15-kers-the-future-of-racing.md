@@ -5,7 +5,7 @@ title: 'KERS &#8211; The future of Racing'
 date: 2008-09-15T16:22:34+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=128
+guid: https://ajaymatharu.wordpress.com/?p=128
 permalink: /kers-the-future-of-racing/
 dsq_thread_id:
   - 465390362

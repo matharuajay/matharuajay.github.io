@@ -5,7 +5,7 @@ title: Signs that someone will make a good leader
 date: 2009-08-25T14:27:59+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1560
+guid: https://www.ajaymatharu.com/?p=1560
 permalink: /signs-that-someone-will-make-a-good-leader/
 dsq_thread_id:
   - 465391774

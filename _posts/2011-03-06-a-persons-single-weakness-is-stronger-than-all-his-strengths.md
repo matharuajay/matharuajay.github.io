@@ -5,7 +5,7 @@ title: A persons single weakness is stronger than all his strengths!
 date: 2011-03-06T18:31:18+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2584
+guid: https://www.ajaymatharu.com/?p=2584
 permalink: /a-persons-single-weakness-is-stronger-than-all-his-strengths/
 dsq_thread_id:
   - 465389438

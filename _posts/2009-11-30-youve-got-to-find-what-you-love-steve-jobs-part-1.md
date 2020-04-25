@@ -5,7 +5,7 @@ title: 'You&#8217;ve got to find what you love, Steve Jobs &#8211; Part 1'
 date: 2009-11-30T10:31:22+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1858
+guid: https://www.ajaymatharu.com/?p=1858
 permalink: /youve-got-to-find-what-you-love-steve-jobs-part-1/
 aktt_notify_twitter:
   - no
@@ -47,6 +47,6 @@ None of this had even a hope of any practical application in my life. But ten ye
 
 Again, you can&#8217;t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something — your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.
 
-[Read the second story](http://www.ajaymatharu.com/youve-got-to-find-what-you-love-steve-jobs-part-2/)
+[Read the second story](https://www.ajaymatharu.com/youve-got-to-find-what-you-love-steve-jobs-part-2/)
 
-[Read the third story](http://www.ajaymatharu.com/youve-got-to-find-what-you-love-steve-jobs-part-3/)
+[Read the third story](https://www.ajaymatharu.com/youve-got-to-find-what-you-love-steve-jobs-part-3/)

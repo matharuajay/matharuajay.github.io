@@ -5,7 +5,7 @@ title: Open Source Vs Free Softwares
 date: 2008-12-24T03:05:00+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=645
+guid: https://ajaymatharu.wordpress.com/?p=645
 permalink: /open-source-vs-free-softwares/
 dsq_thread_id:
   - 465389350

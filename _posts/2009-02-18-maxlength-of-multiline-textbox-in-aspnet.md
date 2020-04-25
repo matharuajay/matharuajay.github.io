@@ -5,7 +5,7 @@ title: Maxlength of multiline textbox in ASP.Net
 date: 2009-02-18T11:03:53+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=966
+guid: https://www.ajaymatharu.com/?p=966
 permalink: /maxlength-of-multiline-textbox-in-aspnet/
 ljID:
   - 189

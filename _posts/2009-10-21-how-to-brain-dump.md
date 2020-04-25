@@ -5,7 +5,7 @@ title: How to Brain Dump
 date: 2009-10-21T16:43:50+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1757
+guid: https://www.ajaymatharu.com/?p=1757
 permalink: /how-to-brain-dump/
 aktt_notify_twitter:
   - no

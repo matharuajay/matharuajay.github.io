@@ -5,7 +5,7 @@ title: module was built either with optimizations enabled or without debug infor
 date: 2010-10-20T07:13:27+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2059
+guid: https://www.ajaymatharu.com/?p=2059
 permalink: /module-was-built-either-with-optimizations-enabled-or-without-debug-information/
 aktt_notify_twitter:
   - no

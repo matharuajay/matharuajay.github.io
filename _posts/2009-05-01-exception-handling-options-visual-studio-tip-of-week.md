@@ -5,7 +5,7 @@ title: 'Exception Handling Options &#8211; Visual Studio Tip Of Week #20'
 date: 2009-05-01T23:27:21+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1158
+guid: https://www.ajaymatharu.com/?p=1158
 permalink: /exception-handling-options-visual-studio-tip-of-week/
 aktt_notify_twitter:
   - no
@@ -47,7 +47,7 @@ tags:
 
 <p class="docText" style="text-align: center;">
   <div style="width: 671px" class="wp-caption aligncenter">
-    <img title="Exception Dialog" src="http://ajaymatharu.files.wordpress.com/2009/05/exception.png" alt="Exception Dialog" width="661" height="331" />
+    <img title="Exception Dialog" src="https://ajaymatharu.files.wordpress.com/2009/05/exception.png" alt="Exception Dialog" width="661" height="331" />
     
     <p class="wp-caption-text">
       Exception Dialog

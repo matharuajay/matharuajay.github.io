@@ -5,7 +5,7 @@ title: Google Chrome to start PC in less than 7 sec
 date: 2009-11-22T14:57:16+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1843
+guid: https://www.ajaymatharu.com/?p=1843
 permalink: /google-chrome-to-start-pc-in-less-than-7-sec/
 aktt_notify_twitter:
   - no

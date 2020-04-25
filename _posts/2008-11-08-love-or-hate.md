@@ -5,7 +5,7 @@ title: Why Hate?
 date: 2008-11-08T18:55:49+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=425
+guid: https://ajaymatharu.wordpress.com/?p=425
 permalink: /love-or-hate/
 ljID:
   - 83

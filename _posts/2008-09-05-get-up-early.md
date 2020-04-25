@@ -7,7 +7,7 @@ title: Be wise, start early
 date: 2008-09-05T17:09:29+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=86
+guid: https://ajaymatharu.wordpress.com/?p=86
 permalink: /get-up-early/
 ljID:
   - 15

@@ -5,7 +5,7 @@ title: 'TWEET OLD POST &#8211; Update 3.2.7'
 date: 2011-11-06T21:09:39+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2663
+guid: https://www.ajaymatharu.com/?p=2663
 permalink: /tweet-old-post-update-3-2-7/
 dsq_thread_id:
   - 465386949
@@ -42,4 +42,4 @@ There were some other options that were confusing here is the explanation for th
 
 &nbsp;
 
-You can download the latest plugin from <a title="Tweet Old Post Download Link" href="http://wordpress.org/extend/plugins/tweet-old-post/" target="_blank">WordPress</a>
+You can download the latest plugin from <a title="Tweet Old Post Download Link" href="https://wordpress.org/extend/plugins/tweet-old-post/" target="_blank">WordPress</a>

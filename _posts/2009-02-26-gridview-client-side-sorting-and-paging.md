@@ -5,7 +5,7 @@ title: 'Gridview &#8211; Client side sorting and paging'
 date: 2009-02-26T19:00:27+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=842
+guid: https://ajaymatharu.wordpress.com/?p=842
 permalink: /gridview-client-side-sorting-and-paging/
 ljID:
   - 193
@@ -28,7 +28,7 @@ tags:
   - Visual Studio
   - vs.net
 ---
-<!-- {\rtf1\ansi\ansicpg\lang1024\noproof65001\uc1 \deff0{\fonttbl{\f0\fnil\fcharset0\fprq1 Courier New;}}{\colortbl;??\red0\green0\blue0;\red255\green238\blue98;\red0\green0\blue255;\red255\green255\blue255;\red163\green21\blue21;\red255\green0\blue0;\red43\green145\blue175;}??\fs20 \cb2\highlight2 <%\cf3\cb0\highlight0 @\cf0  \cf5 Page\cf0  \cf6 Language\cf3 ="C#"\cf0  \cf6 AutoEventWireup\cf3 ="true"\cf0  \cf6 CodeFile\cf3 ="Default.aspx.cs"\cf0  \cf6 Inherits\cf3 ="_Default"\cf0  \cb2\highlight2 %>\par ??\par ??\cf3\cb0\highlight0 <!\cf5 DOCTYPE\cf0  \cf6 html\cf0  \cf6 PUBLIC\cf0  \cf3 "-//W3C//DTD XHTML 1.0 Transitional//EN"\cf0  \cf3 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\par ??<\cf5 html\cf3 >\par ??<\cf5 head\cf0  \cf6 id\cf3 ="Head1"\cf0  \cf6 runat\cf3 ="server">\par ??\cf0     \cf3 <\cf5 title\cf3 >\cf0 Callback GridView\cf3 </\cf5 title\cf3 >\par ??</\cf5 head\cf3 >\par ??<\cf5 body\cf3 >\par ??\cf0     \cf3 <\cf5 form\cf0  \cf6 id\cf3 ="Form1"\cf0  \cf6 runat\cf3 ="server">\par ??\cf0     \cb2\highlight2 <%\cf3\cb0\highlight0 =\cf7 DateTime\cf0 .Now \cb2\highlight2 %>\par ??\cb0\highlight0     \cf3 <\cf5 asp\cf3 :\cf5 GridView\cf0  \cf6 ID\cf3 ="GridView1"\cf0  \cf6 DataSourceID\cf3 ="TitlesSource"\cf0  \cf6 EnableSortingAndPagingCallbacks\cf3 ="true"\par ??\cf0         \cf6 AllowPaging\cf3 ="true"\cf0  \cf6 AllowSorting\cf3 ="true"\cf0  \cf6 runat\cf3 ="Server"\cf0  \cf3 />\par ??\cf0     \cf3 <\cf5 asp\cf3 :\cf5 SqlDataSource\cf0  \cf6 ID\cf3 ="TitlesSource"\cf0  \cf6 ConnectionString\cf3 ="Server=localhost;Database=northwind;Trusted_Connection=true"\par ??\cf0         \cf6 SelectCommand\cf3 ="SELECT * FROM customers"\cf0  \cf6 runat\cf3 ="Server"\cf0  \cf3 />\par ??\cf0     \cf3 </\cf5 form\cf3 >\par ??</\cf5 body\cf3 >\par ??</\cf5 html\cf3 >\par ??} -->
+<!-- {\rtf1\ansi\ansicpg\lang1024\noproof65001\uc1 \deff0{\fonttbl{\f0\fnil\fcharset0\fprq1 Courier New;}}{\colortbl;??\red0\green0\blue0;\red255\green238\blue98;\red0\green0\blue255;\red255\green255\blue255;\red163\green21\blue21;\red255\green0\blue0;\red43\green145\blue175;}??\fs20 \cb2\highlight2 <%\cf3\cb0\highlight0 @\cf0  \cf5 Page\cf0  \cf6 Language\cf3 ="C#"\cf0  \cf6 AutoEventWireup\cf3 ="true"\cf0  \cf6 CodeFile\cf3 ="Default.aspx.cs"\cf0  \cf6 Inherits\cf3 ="_Default"\cf0  \cb2\highlight2 %>\par ??\par ??\cf3\cb0\highlight0 <!\cf5 DOCTYPE\cf0  \cf6 html\cf0  \cf6 PUBLIC\cf0  \cf3 "-//W3C//DTD XHTML 1.0 Transitional//EN"\cf0  \cf3 "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\par ??<\cf5 html\cf3 >\par ??<\cf5 head\cf0  \cf6 id\cf3 ="Head1"\cf0  \cf6 runat\cf3 ="server">\par ??\cf0     \cf3 <\cf5 title\cf3 >\cf0 Callback GridView\cf3 </\cf5 title\cf3 >\par ??</\cf5 head\cf3 >\par ??<\cf5 body\cf3 >\par ??\cf0     \cf3 <\cf5 form\cf0  \cf6 id\cf3 ="Form1"\cf0  \cf6 runat\cf3 ="server">\par ??\cf0     \cb2\highlight2 <%\cf3\cb0\highlight0 =\cf7 DateTime\cf0 .Now \cb2\highlight2 %>\par ??\cb0\highlight0     \cf3 <\cf5 asp\cf3 :\cf5 GridView\cf0  \cf6 ID\cf3 ="GridView1"\cf0  \cf6 DataSourceID\cf3 ="TitlesSource"\cf0  \cf6 EnableSortingAndPagingCallbacks\cf3 ="true"\par ??\cf0         \cf6 AllowPaging\cf3 ="true"\cf0  \cf6 AllowSorting\cf3 ="true"\cf0  \cf6 runat\cf3 ="Server"\cf0  \cf3 />\par ??\cf0     \cf3 <\cf5 asp\cf3 :\cf5 SqlDataSource\cf0  \cf6 ID\cf3 ="TitlesSource"\cf0  \cf6 ConnectionString\cf3 ="Server=localhost;Database=northwind;Trusted_Connection=true"\par ??\cf0         \cf6 SelectCommand\cf3 ="SELECT * FROM customers"\cf0  \cf6 runat\cf3 ="Server"\cf0  \cf3 />\par ??\cf0     \cf3 </\cf5 form\cf3 >\par ??</\cf5 body\cf3 >\par ??</\cf5 html\cf3 >\par ??} -->
 
 <div style="background:white none repeat scroll 0 0;font-family:Courier New;font-size:10pt;color:black;">
   <p>
@@ -53,7 +53,7 @@ tags:
     </p>
     
     <p style="margin:0;">
-      <span style="color:red;"> 3</span> <span style="color:blue;"><!</span><span style="color:#a31515;">DOCTYPE</span> <span style="color:red;">html</span> <span style="color:red;">PUBLIC</span> <span style="color:blue;">&#8220;-//W3C//DTD XHTML 1.0 Transitional//EN&#8221;</span> <span style="color:blue;">&#8220;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&#8221;></span>
+      <span style="color:red;"> 3</span> <span style="color:blue;"><!</span><span style="color:#a31515;">DOCTYPE</span> <span style="color:red;">html</span> <span style="color:red;">PUBLIC</span> <span style="color:blue;">&#8220;-//W3C//DTD XHTML 1.0 Transitional//EN&#8221;</span> <span style="color:blue;">&#8220;https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&#8221;></span>
     </p>
     
     <p style="margin:0;">

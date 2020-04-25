@@ -5,7 +5,7 @@ title: Dont be afraid to work with the BEST
 date: 2009-05-19T09:21:21+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1235
+guid: https://www.ajaymatharu.com/?p=1235
 permalink: /dont-be-afraid-to-work-with-the-best/
 ljID:
   - 236
@@ -35,4 +35,4 @@ And if you are clear baou twhat you want and strong about getting it, though the
 
 The chances of you coming away with a superior job is not guaranteed, but it&#8217;s greater than if you had worked with Mr. Average Nice Guy.
 
-So just move ahead with go get it attitude and you&#8217;ll get it <img src="http://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+So just move ahead with go get it attitude and you&#8217;ll get it <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

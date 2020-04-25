@@ -5,7 +5,7 @@ title: Where McCain scores over Obama
 date: 2008-10-27T06:55:09+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=324
+guid: https://ajaymatharu.wordpress.com/?p=324
 permalink: /where-mccain-scores-over-obama/
 categories:
   - Politics

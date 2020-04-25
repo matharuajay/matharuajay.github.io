@@ -5,7 +5,7 @@ title: 'Google Vs Bing &#8211; Has Google Lost?'
 date: 2009-07-04T09:54:22+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1413
+guid: https://www.ajaymatharu.com/?p=1413
 permalink: /google-vs-bing-has-google-lost/
 ljID:
   - 275

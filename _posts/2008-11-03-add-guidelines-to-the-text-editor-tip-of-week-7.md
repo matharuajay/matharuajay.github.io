@@ -5,7 +5,7 @@ title: 'Add Guidelines to the Text Editor &#8211; Tip of week #7'
 date: 2008-11-03T03:36:11+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=239
+guid: https://ajaymatharu.wordpress.com/?p=239
 permalink: /add-guidelines-to-the-text-editor-tip-of-week-7/
 ljID:
   - 77
@@ -79,11 +79,11 @@ tags:
 </p>
 
 <p class="docText">
-  After you have created your registry entry, you will see guidelines in the marks specified when you launch Visual Studio. <a class="docLink" href="http://ajaymatharu.wordpress.com/wp-admin/#visualstudiohks-CHP-2-FIG-21">Figure 2-21</a> shows an example of the results from the example settings.
+  After you have created your registry entry, you will see guidelines in the marks specified when you launch Visual Studio. <a class="docLink" href="https://ajaymatharu.wordpress.com/wp-admin/#visualstudiohks-CHP-2-FIG-21">Figure 2-21</a> shows an example of the results from the example settings.
 </p>
 
 <p class="docText">
-  <a href="http://ajaymatharu.files.wordpress.com/2008/10/guidelines.png"><img class="aligncenter size-full wp-image-240" title="guidelines" src="http://ajaymatharu.files.wordpress.com/2008/10/guidelines.png" alt="" width="450" height="285" /></a>
+  <a href="https://ajaymatharu.files.wordpress.com/2008/10/guidelines.png"><img class="aligncenter size-full wp-image-240" title="guidelines" src="https://ajaymatharu.files.wordpress.com/2008/10/guidelines.png" alt="" width="450" height="285" /></a>
 </p>
 
 <p class="docText">

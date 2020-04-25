@@ -5,7 +5,7 @@ title: Laws of attraction
 date: 2009-08-04T23:33:30+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1517
+guid: https://www.ajaymatharu.com/?p=1517
 permalink: /law-of-attraction/
 dsq_thread_id:
   - 465383677

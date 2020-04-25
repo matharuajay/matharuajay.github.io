@@ -5,7 +5,7 @@ title: How you can make your company great
 date: 2009-05-23T21:28:29+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1262
+guid: https://www.ajaymatharu.com/?p=1262
 permalink: /how-you-can-make-your-company-great/
 ljID:
   - 239

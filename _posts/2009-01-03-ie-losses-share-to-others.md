@@ -5,7 +5,7 @@ title: IE losses share to others
 date: 2009-01-03T17:18:08+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=740
+guid: https://ajaymatharu.wordpress.com/?p=740
 permalink: /ie-losses-share-to-others/
 delicious:
   - 's:86:"s:78:"a:3:{s:5:"count";s:1:"0";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1231563596";}";";'

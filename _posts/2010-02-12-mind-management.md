@@ -5,7 +5,7 @@ title: Mind Management
 date: 2010-02-12T10:09:01+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2035
+guid: https://www.ajaymatharu.com/?p=2035
 permalink: /mind-management/
 aktt_notify_twitter:
   - no

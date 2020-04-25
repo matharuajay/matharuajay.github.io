@@ -5,7 +5,7 @@ title: True meaning of Mahashivratri
 date: 2010-02-12T13:21:50+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2077
+guid: https://www.ajaymatharu.com/?p=2077
 permalink: /true-meaning-of-mahashivratri/
 aktt_notify_twitter:
   - no

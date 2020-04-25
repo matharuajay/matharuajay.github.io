@@ -5,7 +5,7 @@ title: Visual Studio Higher to Lower Version Converter
 date: 2008-10-21T18:36:49+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=229
+guid: https://ajaymatharu.wordpress.com/?p=229
 permalink: /visual-studio-higher-to-lower-version-converter/
 robotsmeta:
   - index,follow
@@ -31,9 +31,9 @@ Visual <a name="visualstudiohks-CHP-1-ITERM-2208"></a><a name="visualstudiohks-C
 
 One method would be to create a new solution in the old version, create an identical project structure, and then copy all the files over and add them to their respective projects.
 
-Thankfully, there is a better solution. There are project converter that helps you to convert the project. <a title="C# project version converter" href="http://www.box.net/shared/2940188png" target="_blank">Here</a> is converter for C# projects and <a title="VB project version converter" href="http://www.box.net/shared/egvnjoe9y1" target="_blank">here</a> is for VB projects.  The program can be launched as a normal windows application or it can be installed in order to get a new Explorer &#8220;shell extension&#8221; that adds ProjectConverter to the &#8220;Open With&#8221; option when right-clicking on a *.sln file.
+Thankfully, there is a better solution. There are project converter that helps you to convert the project. <a title="C# project version converter" href="https://www.box.net/shared/2940188png" target="_blank">Here</a> is converter for C# projects and <a title="VB project version converter" href="https://www.box.net/shared/egvnjoe9y1" target="_blank">here</a> is for VB projects.  The program can be launched as a normal windows application or it can be installed in order to get a new Explorer &#8220;shell extension&#8221; that adds ProjectConverter to the &#8220;Open With&#8221; option when right-clicking on a *.sln file.
 
-[<img class="aligncenter size-full wp-image-231" title="version" src="http://ajaymatharu.files.wordpress.com/2008/10/version.png" alt="" width="450" height="266" />](http://ajaymatharu.files.wordpress.com/2008/10/version.png)
+[<img class="aligncenter size-full wp-image-231" title="version" src="https://ajaymatharu.files.wordpress.com/2008/10/version.png" alt="" width="450" height="266" />](https://ajaymatharu.files.wordpress.com/2008/10/version.png)
 
 The solution file is a text-based file that contains information about one or more projects.  The solution file contains the target version of Visual Studio. You can change this version number to change the target Visual Studio Version, from higher to lower.
 
@@ -107,11 +107,11 @@ EndGlobal
   The next section in the solution file is the <tt>Global</tt><a name="visualstudiohks-CHP-1-ITERM-2166"></a> <a name="visualstudiohks-CHP-1-ITERM-2167"></a>section, which begins with a <tt>Global</tt> tag and ends with an <tt>EndGlobal</tt> tag. Inside these tags are a number of <tt>GlobalSection</tt><a name="visualstudiohks-CHP-1-ITERM-2168"></a> tags that store an array of different pieces of information, including the configuration settings for various projects as well as source control information.
 </p>
 
-[](http://ajaymatharu.files.wordpress.com/2008/10/solution.png)
+[](https://ajaymatharu.files.wordpress.com/2008/10/solution.png)
 
 The difference between the product version and the file format are displayed here,
 
-[<img class="aligncenter size-full wp-image-233" title="versiondiff" src="http://ajaymatharu.files.wordpress.com/2008/10/versiondiff.png" alt="" width="450" height="102" />](http://ajaymatharu.files.wordpress.com/2008/10/versiondiff.png)
+[<img class="aligncenter size-full wp-image-233" title="versiondiff" src="https://ajaymatharu.files.wordpress.com/2008/10/versiondiff.png" alt="" width="450" height="102" />](https://ajaymatharu.files.wordpress.com/2008/10/versiondiff.png)
 
  
 
@@ -122,7 +122,7 @@ The <tt>References</tt><a name="visualstudiohks-CHP-1-ITERM-2195"></a> <a name="
 Similarly projects .vbproj or .csproj is XML format file which looks like this,
 
 <pre style="font-size:x-small;font-family:Arial, Helvetica, sans-serif;background-color:#ffffff;border:1px solid;padding:1px 4px;">&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;Project <span class="style7"><span style="background-color:#ffff00;">ToolsVersion="3.5"</span></span> DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003"&gt;
+&lt;Project <span class="style7"><span style="background-color:#ffff00;">ToolsVersion="3.5"</span></span> DefaultTargets="Build" xmlns="https://schemas.microsoft.com/developer/msbuild/2003"&gt;
   &lt;PropertyGroup&gt;
     &lt;Configuration Condition=" '$(Configuration)' == '' "&gt;Debug&lt;/Configuration&gt;
     &lt;Platform Condition=" '$(Platform)' == '' "&gt;AnyCPU&lt;/Platform&gt;
@@ -243,7 +243,7 @@ Similarly projects .vbproj or .csproj is XML format file which looks like this,
 
 The diffrence in the two file formats are,
 
-[<img class="aligncenter size-full wp-image-234" title="diff" src="http://ajaymatharu.files.wordpress.com/2008/10/diff.png" alt="" width="450" height="145" />](http://ajaymatharu.files.wordpress.com/2008/10/diff.png)
+[<img class="aligncenter size-full wp-image-234" title="diff" src="https://ajaymatharu.files.wordpress.com/2008/10/diff.png" alt="" width="450" height="145" />](https://ajaymatharu.files.wordpress.com/2008/10/diff.png)
 
 The schema of the project file is pretty straightforward in case you need to edit it directly.
 

@@ -5,7 +5,7 @@ title: Do your emotions control your inner peace
 date: 2009-10-10T17:32:15+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1712
+guid: https://www.ajaymatharu.com/?p=1712
 permalink: /do-your-emotions-control-your-inner-peace/
 robotsmeta:
   - index,follow

@@ -5,7 +5,7 @@ title: A Free Defense Against the Conficker Worm
 date: 2009-02-10T00:48:19+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.com/?p=950
+guid: https://ajaymatharu.com/?p=950
 permalink: /a-free-defense-against-the-conficker-worm/
 ljID:
   - 182

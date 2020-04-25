@@ -5,7 +5,7 @@ title: Javascript and CSS Compressor
 date: 2009-06-29T11:46:01+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1396
+guid: https://www.ajaymatharu.com/?p=1396
 permalink: /javascript-and-css-compressor/
 ljID:
   - 270
@@ -28,8 +28,8 @@ Lately I&#8217;ve been working on performance issues. I could figure out some of
 
 There are various ways you can compress your Javascript. You can have a plugin installed, you can find HTTPHandlers and HTTPModules which will do the work for you.
 
-Just in case you are still not able to compress your Javascript files, here is the site that will do that for you, http://javascriptcompressor.com/ just paste your javascript file and the site will compress that for you.
+Just in case you are still not able to compress your Javascript files, here is the site that will do that for you, https://javascriptcompressor.com/ just paste your javascript file and the site will compress that for you.
 
-Similarly, you need to compress your CSS as well to improve your site performance. Here is the link for  CSS compressor, http://www.cssoptimiser.com/
+Similarly, you need to compress your CSS as well to improve your site performance. Here is the link for  CSS compressor, https://www.cssoptimiser.com/
 
-Hope this helps <img src="http://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Hope this helps <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

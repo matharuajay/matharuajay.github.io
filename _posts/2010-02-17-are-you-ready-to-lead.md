@@ -5,7 +5,7 @@ title: Are you ready to lead
 date: 2010-02-17T10:21:32+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2042
+guid: https://www.ajaymatharu.com/?p=2042
 permalink: /are-you-ready-to-lead/
 aktt_notify_twitter:
   - no

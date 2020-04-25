@@ -5,7 +5,7 @@ title: Gain Control on your Emotions
 date: 2008-10-08T07:02:30+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=178
+guid: https://ajaymatharu.wordpress.com/?p=178
 permalink: /gain-control-on-your-emotions/
 ljID:
   - 36

@@ -5,7 +5,7 @@ title: Gratitude
 date: 2009-11-06T15:39:13+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1786
+guid: https://www.ajaymatharu.com/?p=1786
 permalink: /gratitude/
 aktt_notify_twitter:
   - no

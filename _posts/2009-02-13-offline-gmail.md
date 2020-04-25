@@ -5,7 +5,7 @@ title: Offline GMail
 date: 2009-02-13T10:40:57+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=904
+guid: https://ajaymatharu.wordpress.com/?p=904
 permalink: /offline-gmail/
 ljID:
   - 184

@@ -5,7 +5,7 @@ title: Windows 7 war against Google
 date: 2008-10-28T06:27:11+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=329
+guid: https://ajaymatharu.wordpress.com/?p=329
 permalink: /windows-7-war-against-google/
 ljID:
   - 64

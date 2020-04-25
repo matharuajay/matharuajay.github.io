@@ -5,7 +5,7 @@ title: 'Sarah Palin&#8217;s attitude'
 date: 2009-07-22T10:18:39+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=291
+guid: https://ajaymatharu.wordpress.com/?p=291
 permalink: /sarah-palins-attitude/
 bte_opp_original_pub_date:
   - 2008-10-26 07:24:12

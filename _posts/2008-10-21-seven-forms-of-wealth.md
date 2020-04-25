@@ -5,7 +5,7 @@ title: Seven forms of wealth
 date: 2008-10-21T04:22:36+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=161
+guid: https://ajaymatharu.wordpress.com/?p=161
 permalink: /seven-forms-of-wealth/
 ljID:
   - 44

@@ -7,7 +7,7 @@ title: Keep it simple, silly
 date: 2010-08-15T23:36:59+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2324
+guid: https://www.ajaymatharu.com/?p=2324
 permalink: /keep-it-simple-silly/
 dsq_thread_id:
   - 465384003

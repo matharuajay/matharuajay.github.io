@@ -5,7 +5,7 @@ title: Beauty of existence
 date: 2009-03-17T10:00:16+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=702
+guid: https://ajaymatharu.wordpress.com/?p=702
 permalink: /beauty-of-existence/
 ljID:
   - 204

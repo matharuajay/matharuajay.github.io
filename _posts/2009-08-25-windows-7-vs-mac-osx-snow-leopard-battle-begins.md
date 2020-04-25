@@ -5,7 +5,7 @@ title: Windows 7 VS Mac OSX Snow Leopard Battle Begins
 date: 2009-08-25T22:43:38+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1601
+guid: https://www.ajaymatharu.com/?p=1601
 permalink: /windows-7-vs-mac-osx-snow-leopard-battle-begins/
 dsq_thread_id:
   - 465387563

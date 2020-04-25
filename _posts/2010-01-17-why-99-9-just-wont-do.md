@@ -5,7 +5,7 @@ title: why 99.9% just wont do
 date: 2010-01-17T15:25:41+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1998
+guid: https://www.ajaymatharu.com/?p=1998
 permalink: /why-99-9-just-wont-do/
 aktt_notify_twitter:
   - no

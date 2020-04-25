@@ -5,7 +5,7 @@ title: Love your life
 date: 2010-02-19T10:56:41+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2091
+guid: https://www.ajaymatharu.com/?p=2091
 permalink: /love-your-life/
 aktt_notify_twitter:
   - no

@@ -5,7 +5,7 @@ title: Losing sleep in Tech World?
 date: 2008-10-27T05:59:13+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=322
+guid: https://ajaymatharu.wordpress.com/?p=322
 permalink: /losing-sleep-in-tech-world/
 ljID:
   - 61

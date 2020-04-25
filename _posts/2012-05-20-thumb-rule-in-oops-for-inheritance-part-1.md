@@ -5,7 +5,7 @@ title: 'Thumb rule in OOPS for Inheritance &#8211; Part 1'
 date: 2012-05-20T17:00:36+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2674
+guid: https://www.ajaymatharu.com/?p=2674
 permalink: /thumb-rule-in-oops-for-inheritance-part-1/
 dsq_thread_id:
   - 697286181
@@ -32,7 +32,7 @@ Lets look at the very important rule in OOPS for inheritance.
 This rule is used to design loosely coupled system. So that we can optimize the code, thereby improving the system. Consider the following system,
 
 <div id="attachment_2678" style="width: 696px" class="wp-caption aligncenter">
-  <a href="http://www.ajaymatharu.com/thumb-rule-in-oops-for-inheritance-part-1/tightlycoupledsystem/" rel="attachment wp-att-2678"><img class="size-full wp-image-2678" title="TightlyCoupledSystem" src="http://www.ajaymatharu.com/wp-content/uploads/2012/05/TightlyCoupledSystem.png" alt="TightlyCoupledSystem" width="686" height="183" srcset="http://www.ajaymatharu.com/wp-content/uploads/2012/05/TightlyCoupledSystem-300x80.png 300w, http://www.ajaymatharu.com/wp-content/uploads/2012/05/TightlyCoupledSystem.png 686w" sizes="(max-width: 686px) 100vw, 686px" /></a>
+  <a href="https://www.ajaymatharu.com/thumb-rule-in-oops-for-inheritance-part-1/tightlycoupledsystem/" rel="attachment wp-att-2678"><img class="size-full wp-image-2678" title="TightlyCoupledSystem" src="https://www.ajaymatharu.com/wp-content/uploads/2012/05/TightlyCoupledSystem.png" alt="TightlyCoupledSystem" width="686" height="183" srcset="https://www.ajaymatharu.com/wp-content/uploads/2012/05/TightlyCoupledSystem-300x80.png 300w, https://www.ajaymatharu.com/wp-content/uploads/2012/05/TightlyCoupledSystem.png 686w" sizes="(max-width: 686px) 100vw, 686px" /></a>
   
   <p class="wp-caption-text">
     Tightly Coupled System
@@ -54,7 +54,7 @@ Although the function does same thing it is defined in all three classes and tak
 We declare a new class called Employee and inherit these classes from employee class.
 
 <div id="attachment_2679" style="width: 696px" class="wp-caption aligncenter">
-  <a href="http://www.ajaymatharu.com/thumb-rule-in-oops-for-inheritance-part-1/looselycoupledsystem/" rel="attachment wp-att-2679"><img class="size-full wp-image-2679" title="LooselyCoupledSystem" src="http://www.ajaymatharu.com/wp-content/uploads/2012/05/LooselyCoupledSystem.png" alt="LooselyCoupledSystem" width="686" height="361" /></a>
+  <a href="https://www.ajaymatharu.com/thumb-rule-in-oops-for-inheritance-part-1/looselycoupledsystem/" rel="attachment wp-att-2679"><img class="size-full wp-image-2679" title="LooselyCoupledSystem" src="https://www.ajaymatharu.com/wp-content/uploads/2012/05/LooselyCoupledSystem.png" alt="LooselyCoupledSystem" width="686" height="361" /></a>
   
   <p class="wp-caption-text">
     Loosely Coupled System

@@ -5,7 +5,7 @@ title: Seven steps to sharpen IT managers resume
 date: 2009-11-19T12:20:39+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1670
+guid: https://www.ajaymatharu.com/?p=1670
 permalink: /seven-steps-to-sharpen-it-managers-resume/
 aktt_notify_twitter:
   - no

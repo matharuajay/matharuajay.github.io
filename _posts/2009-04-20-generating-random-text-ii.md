@@ -5,7 +5,7 @@ title: 'Generating random text &#8211; II'
 date: 2009-04-20T11:00:15+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=476
+guid: https://ajaymatharu.wordpress.com/?p=476
 permalink: /generating-random-text-ii/
 aktt_notify_twitter:
   - no
@@ -27,11 +27,11 @@ Turns out, in Word 2007 all you have to do is use =lorem() instead of =rand() an
 
 Just type in =lorem() into your document, and hit the enter key…
 
-<img src="http://www.howtogeek.com/wp-content/uploads/2007/09/image99.png" border="0" alt="image" width="605" height="312" />
+<img src="https://www.howtogeek.com/wp-content/uploads/2007/09/image99.png" border="0" alt="image" width="605" height="312" />
 
 And just like that, Lorem Ipsum is inserted automatically!
 
-<img src="http://www.howtogeek.com/wp-content/uploads/2007/09/image100.png" border="0" alt="image" width="620" height="404" />
+<img src="https://www.howtogeek.com/wp-content/uploads/2007/09/image100.png" border="0" alt="image" width="620" height="404" />
 
 Just like the other tip, you can use the following syntax:
 

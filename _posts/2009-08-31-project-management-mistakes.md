@@ -5,7 +5,7 @@ title: Project management mistakes
 date: 2009-08-31T12:04:29+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1624
+guid: https://www.ajaymatharu.com/?p=1624
 permalink: /project-management-mistakes/
 dsq_thread_id:
   - 465387481

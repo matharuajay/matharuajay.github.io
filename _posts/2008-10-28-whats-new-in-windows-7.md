@@ -5,7 +5,7 @@ title: 'What&#8217;s new in Windows 7'
 date: 2008-10-28T20:33:37+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=372
+guid: https://ajaymatharu.wordpress.com/?p=372
 permalink: /whats-new-in-windows-7/
 ljID:
   - 70
@@ -24,8 +24,8 @@ From new User Account Control options to performance improvements, the next vers
 
 Microsoft has killed the Sidebar in Windows 7, but the Gadgets it contained live on. They simply sit wherever you choose to place them on your desktop.
 
-[<img class="aligncenter size-full wp-image-373" title="windows7" src="http://ajaymatharu.files.wordpress.com/2008/10/windows7.png" alt="" width="450" height="341" />](http://ajaymatharu.files.wordpress.com/2008/10/windows7.png)[](http://www.pcworld.com/article/152898-2/in_pictures_whats_new_in_windows_7.html)
+[<img class="aligncenter size-full wp-image-373" title="windows7" src="https://ajaymatharu.files.wordpress.com/2008/10/windows7.png" alt="" width="450" height="341" />](https://ajaymatharu.files.wordpress.com/2008/10/windows7.png)[](https://www.pcworld.com/article/152898-2/in_pictures_whats_new_in_windows_7.html)
 
 Here is the Taskbar preview,
 
-[<img class="aligncenter size-full wp-image-374" title="taskbarpreview" src="http://ajaymatharu.files.wordpress.com/2008/10/taskbarpreview.png" alt="" width="368" height="108" />](http://ajaymatharu.files.wordpress.com/2008/10/taskbarpreview.png)
+[<img class="aligncenter size-full wp-image-374" title="taskbarpreview" src="https://ajaymatharu.files.wordpress.com/2008/10/taskbarpreview.png" alt="" width="368" height="108" />](https://ajaymatharu.files.wordpress.com/2008/10/taskbarpreview.png)

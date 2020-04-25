@@ -5,7 +5,7 @@ title: 'Yahoo&#8217;s Developer Platform to Launch Next Week'
 date: 2008-10-26T18:05:52+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=312
+guid: https://ajaymatharu.wordpress.com/?p=312
 permalink: /yahoos-developer-platform-to-launch-next-week/
 ljID:
   - 58
@@ -29,7 +29,7 @@ The search company is making the data it stores about users &#8212; such as thei
 
 It&#8217;s an ambitious project that required Yahoo to &#8220;rewire&#8221; its properties to create a single underlying platform that connects them all. Those services existed in the past as &#8220;silos&#8221; that allowed for little interaction between them.
   
-Yahoo launched the first piece of the puzzle last week, a site called <a href="http://profiles.yahoo.com/intro/?s=201" target="_blank">Yahoo Profiles </a>where end users can manage their activities, interests and social connections in one place. Next week will mark the launch of the developer component. It&#8217;s built on top of Yahoo&#8217;s existing network infrastructure and consists broadly of three layers.
+Yahoo launched the first piece of the puzzle last week, a site called <a href="https://profiles.yahoo.com/intro/?s=201" target="_blank">Yahoo Profiles </a>where end users can manage their activities, interests and social connections in one place. Next week will mark the launch of the developer component. It&#8217;s built on top of Yahoo&#8217;s existing network infrastructure and consists broadly of three layers.
 
 The first is the Yahoo Social Platform, a repository where Yahoo stores the personal data about its users, along with their &#8220;social graph,&#8221; or information about who their friends are. Above that is the Application Platform, which provides the development framework. And above that is the Yahoo Query Language, which developers will use to pull personal user data from Yahoo&#8217;s servers and write their programs. YQL is very similar to the widely used SQL database language, according to Yahoo.
 

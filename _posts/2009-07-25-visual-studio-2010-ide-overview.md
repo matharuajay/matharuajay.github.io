@@ -5,7 +5,7 @@ title: Visual Studio 2010 IDE Overview
 date: 2009-07-25T12:03:37+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=509
+guid: https://ajaymatharu.wordpress.com/?p=509
 permalink: /visual-studio-2010-ide-overview/
 bte_opp_original_pub_date:
   - 2008-12-04 17:23:07

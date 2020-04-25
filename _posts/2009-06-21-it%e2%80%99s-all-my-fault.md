@@ -5,7 +5,7 @@ title: It’s all my fault
 date: 2009-06-21T02:48:22+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1313
+guid: https://www.ajaymatharu.com/?p=1313
 permalink: /it%e2%80%99s-all-my-fault/
 ljID:
   - 262

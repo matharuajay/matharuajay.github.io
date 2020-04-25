@@ -5,7 +5,7 @@ title: Be proactive and volunteer your time and services
 date: 2010-04-05T10:57:04+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2252
+guid: https://www.ajaymatharu.com/?p=2252
 permalink: /be-proactive-and-volunteer-your-time-and-services/
 aktt_notify_twitter:
   - no

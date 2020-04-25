@@ -5,7 +5,7 @@ title: Relationship triats of GenNext
 date: 2009-09-15T11:17:30+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1657
+guid: https://www.ajaymatharu.com/?p=1657
 permalink: /relationship-triats-of-gennext/
 dsq_thread_id:
   - 465385610

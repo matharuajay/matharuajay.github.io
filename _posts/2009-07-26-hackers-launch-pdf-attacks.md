@@ -5,7 +5,7 @@ title: Hackers Launch PDF Attacks
 date: 2009-07-26T23:51:53+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=434
+guid: https://ajaymatharu.wordpress.com/?p=434
 permalink: /hackers-launch-pdf-attacks/
 bte_opp_original_pub_date:
   - 2008-11-09 16:39:17

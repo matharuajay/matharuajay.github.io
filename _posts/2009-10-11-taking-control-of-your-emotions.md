@@ -5,7 +5,7 @@ title: Taking control of your emotions
 date: 2009-10-11T12:14:16+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1709
+guid: https://www.ajaymatharu.com/?p=1709
 permalink: /taking-control-of-your-emotions/
 robotsmeta:
   - index,follow

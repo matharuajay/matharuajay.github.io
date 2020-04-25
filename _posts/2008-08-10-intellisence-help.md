@@ -7,7 +7,7 @@ title: Intellisence help in user-defined functions, properties etc in Visual Stu
 date: 2008-08-10T12:48:57+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=25
+guid: https://ajaymatharu.wordpress.com/?p=25
 permalink: /intellisence-help/
 ljID:
   - 9
@@ -27,7 +27,7 @@ This is just because they have commented their code. You can also have your func
  
 
 <div id="attachment_34" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://ajaymatharu.files.wordpress.com/2008/08/intellisencexml.png"><img class="size-medium wp-image-34" src="http://ajaymatharu.files.wordpress.com/2008/08/intellisencexml.png?w=300" alt="Intellisence Help" width="300" height="139" /></a>
+  <a href="https://ajaymatharu.files.wordpress.com/2008/08/intellisencexml.png"><img class="size-medium wp-image-34" src="https://ajaymatharu.files.wordpress.com/2008/08/intellisencexml.png?w=300" alt="Intellisence Help" width="300" height="139" /></a>
   
   <p class="wp-caption-text">
     Intellisence Help

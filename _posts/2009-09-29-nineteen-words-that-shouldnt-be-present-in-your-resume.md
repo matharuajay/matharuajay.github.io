@@ -5,7 +5,7 @@ title: 'Nineteen words that shouldn&#8217;t be present in your resume'
 date: 2009-09-29T11:14:07+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1674
+guid: https://www.ajaymatharu.com/?p=1674
 permalink: /nineteen-words-that-shouldnt-be-present-in-your-resume/
 dsq_thread_id:
   - 465392774

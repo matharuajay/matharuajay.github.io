@@ -5,7 +5,7 @@ title: Not being promoted?
 date: 2010-03-01T21:01:20+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1680
+guid: https://www.ajaymatharu.com/?p=1680
 permalink: /not-being-promoted/
 aktt_notify_twitter:
   - no

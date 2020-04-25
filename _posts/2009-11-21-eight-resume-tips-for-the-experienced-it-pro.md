@@ -5,7 +5,7 @@ title: Eight resume tips for the experienced IT pro
 date: 2009-11-21T00:33:30+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1672
+guid: https://www.ajaymatharu.com/?p=1672
 permalink: /eight-resume-tips-for-the-experienced-it-pro/
 aktt_notify_twitter:
   - no

@@ -5,7 +5,7 @@ title: 'Clipboard Ring in Visual Studio &#8211; Tip of Week #3'
 date: 2008-10-10T03:49:03+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=184
+guid: https://ajaymatharu.wordpress.com/?p=184
 permalink: /clipboard-ring-in-visual-studio-tip3/
 ljID:
   - 38
@@ -59,11 +59,11 @@ tags:
 </p>
 
 <p class="docText">
-  You can also view the current contents of the clipboard ring by selecting the Clipboard Ring tab in the Toolbox dialog. This tab, shown in <a class="docLink" href="http://ajaymatharu.wordpress.com/wp-admin/#visualstudiohks-CHP-2-FIG-1">Figure 2-1</a>, displays all of the selections currently living in the clipboard ring and allows you to drag the selections to paste them into your document.
+  You can also view the current contents of the clipboard ring by selecting the Clipboard Ring tab in the Toolbox dialog. This tab, shown in <a class="docLink" href="https://ajaymatharu.wordpress.com/wp-admin/#visualstudiohks-CHP-2-FIG-1">Figure 2-1</a>, displays all of the selections currently living in the clipboard ring and allows you to drag the selections to paste them into your document.
 </p>
 
 <p class="docText">
-  <a href="http://ajaymatharu.files.wordpress.com/2008/10/clipboardring.png"><img class="aligncenter size-medium wp-image-186" title="Clipboard Ring" src="http://ajaymatharu.files.wordpress.com/2008/10/clipboardring.png?w=300" alt="" width="300" height="128" /></a>
+  <a href="https://ajaymatharu.files.wordpress.com/2008/10/clipboardring.png"><img class="aligncenter size-medium wp-image-186" title="Clipboard Ring" src="https://ajaymatharu.files.wordpress.com/2008/10/clipboardring.png?w=300" alt="" width="300" height="128" /></a>
 </p>
 
 <p class="docText">

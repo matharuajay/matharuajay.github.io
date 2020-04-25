@@ -5,7 +5,7 @@ title: Every Crises Has an Opportunity Hidden in it
 date: 2010-02-01T10:36:53+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2033
+guid: https://www.ajaymatharu.com/?p=2033
 permalink: /every-crises-has-an-opportunity-hidden-in-it/
 aktt_notify_twitter:
   - no

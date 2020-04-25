@@ -7,7 +7,7 @@ title: The operation has timed out with HttpWebRequest
 date: 2013-12-30T14:42:15+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2827
+guid: https://www.ajaymatharu.com/?p=2827
 permalink: /the-operation-has-timed-out/
 dsq_thread_id:
   - 2081442091
@@ -35,4 +35,4 @@ Then we forced HttpWebRequest to use SSL3 instead of TLS. Although TLS automatic
 
  Just place the above line before calling GetResponse() and that was it.
 
-To read more about ServicePointManager &#8211; http://msdn.microsoft.com/en-us/library/system.net.servicepointmanager.securityprotocol(v=vs.110).aspx
+To read more about ServicePointManager &#8211; https://msdn.microsoft.com/en-us/library/system.net.servicepointmanager.securityprotocol(v=vs.110).aspx

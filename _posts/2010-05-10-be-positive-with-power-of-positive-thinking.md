@@ -5,7 +5,7 @@ title: Be positive with power of positive thinking
 date: 2010-05-10T22:14:55+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2305
+guid: https://www.ajaymatharu.com/?p=2305
 permalink: /be-positive-with-power-of-positive-thinking/
 dsq_thread_id:
   - 465385488
@@ -29,7 +29,7 @@ tags:
   - single moment
 ---
 <div id="attachment_2307" style="width: 784px" class="wp-caption aligncenter">
-  <img src="http://www.ajaymatharu.com/wp-content/uploads/2010/05/Positive_thinking.6055125.jpg" alt="Power of positive thinking" title="Power of positive thinking" width="774" height="519" class="size-full wp-image-2307" srcset="http://www.ajaymatharu.com/wp-content/uploads/2010/05/Positive_thinking.6055125-300x201.jpg 300w, http://www.ajaymatharu.com/wp-content/uploads/2010/05/Positive_thinking.6055125.jpg 774w" sizes="(max-width: 774px) 100vw, 774px" />
+  <img src="https://www.ajaymatharu.com/wp-content/uploads/2010/05/Positive_thinking.6055125.jpg" alt="Power of positive thinking" title="Power of positive thinking" width="774" height="519" class="size-full wp-image-2307" srcset="https://www.ajaymatharu.com/wp-content/uploads/2010/05/Positive_thinking.6055125-300x201.jpg 300w, https://www.ajaymatharu.com/wp-content/uploads/2010/05/Positive_thinking.6055125.jpg 774w" sizes="(max-width: 774px) 100vw, 774px" />
   
   <p class="wp-caption-text">
     Power of positive thinking

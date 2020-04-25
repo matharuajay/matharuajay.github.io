@@ -5,7 +5,7 @@ title: Are you an evangelist?
 date: 2009-03-16T14:52:58+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=777
+guid: https://ajaymatharu.wordpress.com/?p=777
 permalink: /are-you-an-evangelist/
 ljID:
   - 203

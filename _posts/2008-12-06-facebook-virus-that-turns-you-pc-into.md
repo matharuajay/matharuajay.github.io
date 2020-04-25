@@ -5,7 +5,7 @@ title: Facebook virus that turns you PC into Zombie
 date: 2008-12-06T18:22:30+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=594
+guid: https://ajaymatharu.wordpress.com/?p=594
 permalink: /facebook-virus-that-turns-you-pc-into/
 ljID:
   - 114

@@ -5,7 +5,7 @@ title: Adding URL shortner to Tweet Old Post wordpress plugin
 date: 2010-03-25T10:51:03+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2218
+guid: https://www.ajaymatharu.com/?p=2218
 permalink: /adding-url-shortner-to-tweet-old-post-wordpress-plugin/
 aktt_notify_twitter:
   - no
@@ -21,7 +21,7 @@ tags:
   - Tweet Old Post
   - URL Shortener
 ---
-This is small tutorial showing you how to integrate new URL shortner to [Tweet Old Post wordpress plugin](http://www.ajaymatharu.com/wordpress-plugin-tweet-old-posts/)
+This is small tutorial showing you how to integrate new URL shortner to [Tweet Old Post wordpress plugin](https://www.ajaymatharu.com/wordpress-plugin-tweet-old-posts/)
 
 Make the following changes in top-admin.php file
 
@@ -51,7 +51,7 @@ Make the below changes in top-core.php file,
 1 &#8211; find the function shorten_url(), and add an elseif block of new shortner api like below code,
 
 <pre class="php" name="code">elseif ($shortener=="urlshortner") {
-		$url = "http://u.nu/unu-api-simple?url={$the_url}";
+		$url = "https://u.nu/unu-api-simple?url={$the_url}";
 		$response = send_request($url, 'GET');
 	}
 </pre>
@@ -61,11 +61,11 @@ Make the below changes in top-core.php file,
 2 -Some API may require additional parameters like API key. So it will look somewhat like this,
 
 <pre class="php" name="code">elseif ($shortener=="urlshortner") {
-		$url = "http://yourshortnerapiurl/api?url={$the_url}&api=xxxxxx";
+		$url = "https://yourshortnerapiurl/api?url={$the_url}&api=xxxxxx";
 		$response = send_request($url, 'GET');
 	}
 </pre>
 
 **Note &#8211;** replace urlshortner with new shortner name, it should be same as in point 2 of top-admin.php changes. In the URL section change the API URL with your shortner API URL and pass the required parameters. The above have the URL parameter and API key replace xxxxxx with your API Key value.
 
-That&#8217;s it and you are ready to go. In case you find it difficult to implement the above code feel free to drop by a comment I&#8217;ll add it for everyone  <img src="http://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />and you can always drop me a mail.
+That&#8217;s it and you are ready to go. In case you find it difficult to implement the above code feel free to drop by a comment I&#8217;ll add it for everyone  <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />and you can always drop me a mail.

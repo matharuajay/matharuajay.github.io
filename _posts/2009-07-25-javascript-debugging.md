@@ -7,7 +7,7 @@ title: Javascript Debugging in Visual Studio
 date: 2009-07-25T12:03:34+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=36
+guid: https://ajaymatharu.wordpress.com/?p=36
 permalink: /javascript-debugging/
 bte_opp_original_pub_date:
   - 2008-08-10 14:31:53

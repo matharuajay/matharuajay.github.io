@@ -5,7 +5,7 @@ title: Windows 7 beta download delayed
 date: 2009-01-11T06:21:37+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=784
+guid: https://ajaymatharu.wordpress.com/?p=784
 permalink: /windows-7-beta-download-delayed/
 delicious:
   - 's:86:"s:78:"a:3:{s:5:"count";s:1:"0";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1231711568";}";";'

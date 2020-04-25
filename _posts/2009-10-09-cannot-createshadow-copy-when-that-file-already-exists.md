@@ -5,7 +5,7 @@ title: Cannot create/shadow copy when that file already exists
 date: 2009-10-09T12:49:21+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1593
+guid: https://www.ajaymatharu.com/?p=1593
 permalink: /cannot-createshadow-copy-when-that-file-already-exists/
 robotsmeta:
   - index,follow
@@ -31,4 +31,4 @@ Shadow copy is enabled on every appdomain created by ASP.NET by default. By defa
 &lt;/hostingenvironment>
 </pre>
 
-But this may create <a title="Side effects of shadow copy bin assemblies" href="http://www.ajaymatharu.com/side-effect-of-shadowcopybinassemblies/" target="_blank">problem</a> sometimes.
+But this may create <a title="Side effects of shadow copy bin assemblies" href="https://www.ajaymatharu.com/side-effect-of-shadowcopybinassemblies/" target="_blank">problem</a> sometimes.

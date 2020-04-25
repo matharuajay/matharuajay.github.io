@@ -5,7 +5,7 @@ title: 4 skills of leaders
 date: 2009-03-22T00:25:31+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1080
+guid: https://www.ajaymatharu.com/?p=1080
 permalink: /4-skills-of-leaders/
 ljID:
   - 206

@@ -5,7 +5,7 @@ title: MD5 Encryption in .Net and PHP
 date: 2009-06-12T10:32:32+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1273
+guid: https://www.ajaymatharu.com/?p=1273
 permalink: /md5-encryption-in-net-and-php/
 ljID:
   - 254

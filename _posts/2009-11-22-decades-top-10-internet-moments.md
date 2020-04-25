@@ -5,7 +5,7 @@ title: 'Decade&#8217;s Top 10 Internet Moments'
 date: 2009-11-22T02:07:57+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1845
+guid: https://www.ajaymatharu.com/?p=1845
 permalink: /decades-top-10-internet-moments/
 aktt_notify_twitter:
   - no

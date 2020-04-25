@@ -5,7 +5,7 @@ title: 'Good Times, Bad Times: What&#8217;s the difference'
 date: 2009-12-13T22:23:20+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1904
+guid: https://www.ajaymatharu.com/?p=1904
 permalink: /good-times-bad-times-whats-the-difference/
 aktt_notify_twitter:
   - no

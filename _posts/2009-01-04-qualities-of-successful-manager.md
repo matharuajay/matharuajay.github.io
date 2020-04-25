@@ -5,7 +5,7 @@ title: Qualities of Successful Manager
 date: 2009-01-04T07:54:45+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=680
+guid: https://ajaymatharu.wordpress.com/?p=680
 permalink: /qualities-of-successful-manager/
 reddit:
   - 's:63:"s:55:"a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1233798475";}";";'

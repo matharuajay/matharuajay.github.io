@@ -5,7 +5,7 @@ title: 'You&#8217;ve got to find what you love, Steve Jobs &#8211; Part 2'
 date: 2009-12-01T10:28:42+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1860
+guid: https://www.ajaymatharu.com/?p=1860
 permalink: /youve-got-to-find-what-you-love-steve-jobs-part-2/
 aktt_notify_twitter:
   - no
@@ -27,7 +27,7 @@ tags:
   - Pixar
   - Steve Jobs
 ---
-This is in continuation of my previous post, [You&#8217;ve got to find what you love, Steve Jobs &#8211; Part 1](http://www.ajaymatharu.com/youve-got-to-find-what-you-love-steve-jobs-part-1/)
+This is in continuation of my previous post, [You&#8217;ve got to find what you love, Steve Jobs &#8211; Part 1](https://www.ajaymatharu.com/youve-got-to-find-what-you-love-steve-jobs-part-1/)
 
 My second story is about love and loss.
 
@@ -41,4 +41,4 @@ During the next five years, I started a company named NeXT, another company name
 
 I&#8217;m pretty sure none of this would have happened if I hadn&#8217;t been fired from Apple. It was awful tasting medicine, but I guess the patient needed it. Sometimes life hits you in the head with a brick. Don&#8217;t lose faith. I&#8217;m convinced that the only thing that kept me going was that I loved what I did. You&#8217;ve got to find what you love. And that is as true for your work as it is for your lovers. Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven&#8217;t found it yet, keep looking. Don&#8217;t settle. As with all matters of the heart, you&#8217;ll know when you find it. And, like any great relationship, it just gets better and better as the years roll on. So keep looking until you find it. Don&#8217;t settle.
 
-[You&#8217;ve got to find what you love, Steve Jobs &#8211; Part 3](http://www.ajaymatharu.com/youve-got-to-find-what-you-love-steve-jobs-part-3/)
+[You&#8217;ve got to find what you love, Steve Jobs &#8211; Part 3](https://www.ajaymatharu.com/youve-got-to-find-what-you-love-steve-jobs-part-3/)

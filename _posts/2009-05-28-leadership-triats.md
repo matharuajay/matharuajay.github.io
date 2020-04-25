@@ -5,7 +5,7 @@ title: Leadership Triats
 date: 2009-05-28T10:11:37+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=867
+guid: https://ajaymatharu.wordpress.com/?p=867
 permalink: /leadership-triats/
 ljID:
   - 243

@@ -5,7 +5,7 @@ title: Microsoft may discontinue its free Popfly service
 date: 2009-02-15T15:24:38+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=889
+guid: https://ajaymatharu.wordpress.com/?p=889
 permalink: /microsoft-may-discontinue-its-free-popfly-service/
 ljID:
   - 186
@@ -19,7 +19,7 @@ tags:
   - Web
   - Web 2.0
 ---
-Microsoft on Friday said that it  <a href="http://www.popfly.com/" target="_blank">may discontinue its free Popfly service </a> that lets non-programmers build Web 2.0 apps.
+Microsoft on Friday said that it  <a href="https://www.popfly.com/" target="_blank">may discontinue its free Popfly service </a> that lets non-programmers build Web 2.0 apps.
 
 Popfly &#8220;is in a transitional phase,&#8221; said a Microsoft spokeswoman on Friday. &#8220;We have no other details at the moment.&#8221;
 

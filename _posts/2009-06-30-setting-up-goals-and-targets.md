@@ -5,7 +5,7 @@ title: Setting up goals and targets
 date: 2009-06-30T09:58:51+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1284
+guid: https://www.ajaymatharu.com/?p=1284
 permalink: /setting-up-goals-and-targets/
 ljID:
   - 271

@@ -5,7 +5,7 @@ title: Know your clients aim
 date: 2009-06-03T09:54:38+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1321
+guid: https://www.ajaymatharu.com/?p=1321
 permalink: /know-your-clients-aim/
 ljID:
   - 246

@@ -5,7 +5,7 @@ title: Microsoft Launches New Open XML-interop Tools
 date: 2008-12-10T03:44:10+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=602
+guid: https://ajaymatharu.wordpress.com/?p=602
 permalink: /microsoft-launches-new-open-xml-interop-tools/
 ljID:
   - 119
@@ -30,7 +30,7 @@ Open XML Document Viewer translates Open XML documents to an HTML (Hypertext Mar
 
 Another new tool unveiled at the meeting is the Open XML/ODF (Open Document Format) Translators Version 2.5, which improves translations between Open XML and ODF through templates and is available now on SourceForge as an add-in for Microsoft Office 2003, 2007 and XP.
 
-Microsoft also has posted video demonstrations of these tools on YouTube. The Open XML Document Viewer video is available [here](http://in.youtube.com/watch?v=NKSF6w0EK0s), and the Open XML/ODF Translators demo is available [here](http://in.youtube.com/watch?v=cKF1KYNY1uo).
+Microsoft also has posted video demonstrations of these tools on YouTube. The Open XML Document Viewer video is available [here](https://in.youtube.com/watch?v=NKSF6w0EK0s), and the Open XML/ODF Translators demo is available [here](https://in.youtube.com/watch?v=cKF1KYNY1uo).
 
 ODF is a document format that was approved by the ISO as a global technology standard before Open XML was. In fact, Microsoft&#8217;s decision to create Open XML and then submit it as a standard rather than support ODF was a controversial one, which led the company to create the DII in March as well as undertake other interoperability efforts around the format. The ISO eventually made Open XML an international standard in April after a long, controversial approval process.
 

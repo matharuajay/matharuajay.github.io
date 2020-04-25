@@ -5,7 +5,7 @@ title: 'Parser Error Message: Could not load type'
 date: 2009-04-21T15:43:35+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1146
+guid: https://www.ajaymatharu.com/?p=1146
 permalink: /parser-error-message-could-not-load-type/
 aktt_notify_twitter:
   - no

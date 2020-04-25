@@ -5,7 +5,7 @@ title: 'Pasting into Visual Studio &#8211; Tip of week #8'
 date: 2008-10-25T07:27:46+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=243
+guid: https://ajaymatharu.wordpress.com/?p=243
 permalink: /pasting-into-visual-studio-tip-of-week-6/
 ljID:
   - 47
@@ -25,7 +25,7 @@ tags:
 <a name="visualstudiohks-CHP-2-ITERM-2260"></a>
 
 <p class="docText">
-  SmartPaster is a plug-in for Visual Studio .NET 2008 that allows text on the clipboard to be pasted in a format compatible with C# and Visual Basic code. <a name="visualstudiohks-CHP-2-ITERM-2261"></a>SmartPaster can be downloaded from <a href="http://www.box.net/shared/qn4g3ehvv4" target="_blank">here</a>.
+  SmartPaster is a plug-in for Visual Studio .NET 2008 that allows text on the clipboard to be pasted in a format compatible with C# and Visual Basic code. <a name="visualstudiohks-CHP-2-ITERM-2261"></a>SmartPaster can be downloaded from <a href="https://www.box.net/shared/qn4g3ehvv4" target="_blank">here</a>.
 </p>
 
 To install it, un-zip above to:
@@ -34,10 +34,10 @@ Vista/2008: C:\Users\<user-name>\Documents\Visual Studio 2008\Addins
   
 Earlier Windows: C:\Documents and Settings\All Users\Shared Documents\Visual Studio 2008\Addins
 
-Then restart Visual Studio 2008 and update settings for the Add-In in the Tools menu / Add-In Manager. After downloading and installing SmartPaster, you will see a new item on the right-click (context) menu, which is shown in [Figure 2-4](http://ajaymatharu.wordpress.com/wp-admin/#visualstudiohks-CHP-2-FIG-4){.docLink}.
+Then restart Visual Studio 2008 and update settings for the Add-In in the Tools menu / Add-In Manager. After downloading and installing SmartPaster, you will see a new item on the right-click (context) menu, which is shown in [Figure 2-4](https://ajaymatharu.wordpress.com/wp-admin/#visualstudiohks-CHP-2-FIG-4){.docLink}.
 
 <p class="docText">
-  <a href="http://ajaymatharu.files.wordpress.com/2008/10/paster.png"><img class="aligncenter size-full wp-image-244" title="paster" src="http://ajaymatharu.files.wordpress.com/2008/10/paster.png" alt="" width="379" height="248" /></a>
+  <a href="https://ajaymatharu.files.wordpress.com/2008/10/paster.png"><img class="aligncenter size-full wp-image-244" title="paster" src="https://ajaymatharu.files.wordpress.com/2008/10/paster.png" alt="" width="379" height="248" /></a>
 </p>
 
 <p class="docText">
@@ -163,11 +163,11 @@ sqlBuilder.AppendFormat(@"ORDER BY Products.UnitPrice DESC");</pre>
 }</pre>
     
     <p class="docText">
-      Then select Paste As &#8211; Region, and you will see the dialog shown in <a class="docLink" href="http://ajaymatharu.wordpress.com/wp-admin/#visualstudiohks-CHP-2-FIG-5">Figure 2-5</a>.
+      Then select Paste As &#8211; Region, and you will see the dialog shown in <a class="docLink" href="https://ajaymatharu.wordpress.com/wp-admin/#visualstudiohks-CHP-2-FIG-5">Figure 2-5</a>.
     </p>
     
     <p class="docText">
-      <a href="http://ajaymatharu.files.wordpress.com/2008/10/region.png"><img class="aligncenter size-full wp-image-245" title="region" src="http://ajaymatharu.files.wordpress.com/2008/10/region.png" alt="" width="397" height="191" /></a>
+      <a href="https://ajaymatharu.files.wordpress.com/2008/10/region.png"><img class="aligncenter size-full wp-image-245" title="region" src="https://ajaymatharu.files.wordpress.com/2008/10/region.png" alt="" width="397" height="191" /></a>
     </p>
     
     <p class="docText">
@@ -192,9 +192,9 @@ private void DoSomething( )
       </p>
       
       <p class="docText">
-        SmartPaster offers a number of configuration options to make the add-in work best for you. The SmartPaster configuration dialog is shown in <a class="docLink" href="http://ajaymatharu.wordpress.com/wp-admin/#visualstudiohks-CHP-2-FIG-6">Figure 2-6</a> and can be accessed through Paste As &#8211; Configure.
+        SmartPaster offers a number of configuration options to make the add-in work best for you. The SmartPaster configuration dialog is shown in <a class="docLink" href="https://ajaymatharu.wordpress.com/wp-admin/#visualstudiohks-CHP-2-FIG-6">Figure 2-6</a> and can be accessed through Paste As &#8211; Configure.
       </p>
       
       <p>
-        <a href="http://ajaymatharu.files.wordpress.com/2008/10/configuration.png"><img class="aligncenter size-full wp-image-246" title="configuration" src="http://ajaymatharu.files.wordpress.com/2008/10/configuration.png" alt="" width="450" height="261" /></a>
+        <a href="https://ajaymatharu.files.wordpress.com/2008/10/configuration.png"><img class="aligncenter size-full wp-image-246" title="configuration" src="https://ajaymatharu.files.wordpress.com/2008/10/configuration.png" alt="" width="450" height="261" /></a>
       </p>

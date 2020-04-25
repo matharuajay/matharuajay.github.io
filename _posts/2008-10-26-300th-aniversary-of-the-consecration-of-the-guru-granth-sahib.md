@@ -5,7 +5,7 @@ title: 300th Aniversary of the consecration of the Guru Granth Sahib
 date: 2008-10-26T07:44:27+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=293
+guid: https://ajaymatharu.wordpress.com/?p=293
 permalink: /300th-aniversary-of-the-consecration-of-the-guru-granth-sahib/
 dsq_thread_id:
   - 465386265

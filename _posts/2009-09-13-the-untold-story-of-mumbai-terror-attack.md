@@ -5,7 +5,7 @@ title: The untold story of Mumbai Terror Attack
 date: 2009-09-13T13:39:30+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1662
+guid: https://www.ajaymatharu.com/?p=1662
 permalink: /the-untold-story-of-mumbai-terror-attack/
 dsq_thread_id:
   - 465388154
@@ -23,9 +23,9 @@ tags:
 ---
 The untold story of 2008&#8217;s terrorist attack on the Indian city of Mumbai. The story is told in the words of its victims and the gunmen.
 
-[kml\_flashembed publishmethod=&#8221;static&#8221; fversion=&#8221;8.0.0&#8243; movie=&#8221;http://www.liveleak.com/e/1e4\_1246490858&#8243; width=&#8221;600&#8243; height=&#8221;600&#8243; targetclass=&#8221;flashmovie&#8221;]
+[kml\_flashembed publishmethod=&#8221;static&#8221; fversion=&#8221;8.0.0&#8243; movie=&#8221;https://www.liveleak.com/e/1e4\_1246490858&#8243; width=&#8221;600&#8243; height=&#8221;600&#8243; targetclass=&#8221;flashmovie&#8221;]
 
-[![Get Adobe Flash player](http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif)](http://adobe.com/go/getflashplayer)
+[![Get Adobe Flash player](https://www.adobe.com/images/shared/download_buttons/get_flash_player.gif)](https://adobe.com/go/getflashplayer)
 
 [/kml_flashembed]
 

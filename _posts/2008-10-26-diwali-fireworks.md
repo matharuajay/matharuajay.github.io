@@ -5,7 +5,7 @@ title: Diwali Fireworks
 date: 2008-10-26T17:30:18+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=303
+guid: https://ajaymatharu.wordpress.com/?p=303
 permalink: /diwali-fireworks/
 dsq_thread_id:
   - 465385930
@@ -30,4 +30,4 @@ Diwali is incomplete without fireworks. Old and young alike love the splendor an
 
  
 
-[youtube=http://www.youtube.com/watch?v=BLCBBl1yBR4]
+[youtube=https://www.youtube.com/watch?v=BLCBBl1yBR4]

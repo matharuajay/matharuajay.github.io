@@ -5,7 +5,7 @@ title: Not all leaders are the same
 date: 2008-11-30T08:10:35+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=486
+guid: https://ajaymatharu.wordpress.com/?p=486
 permalink: /not-all-leaders-are-the-same/
 ljID:
   - 101

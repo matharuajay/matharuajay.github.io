@@ -5,7 +5,7 @@ title: Begin with an end in mind
 date: 2009-02-17T13:22:29+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.com/?p=959
+guid: https://ajaymatharu.com/?p=959
 permalink: /begin-with-an-end-in-mind/
 ljID:
   - 188

@@ -5,7 +5,7 @@ title: Make the best of the opportunity
 date: 2010-04-06T15:27:50+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2254
+guid: https://www.ajaymatharu.com/?p=2254
 permalink: /as-is-a-tale-so-is-life/
 aktt_notify_twitter:
   - no

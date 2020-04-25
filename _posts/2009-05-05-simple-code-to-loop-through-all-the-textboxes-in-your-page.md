@@ -5,7 +5,7 @@ title: Simple code to loop through all the textboxes in your page
 date: 2009-05-05T10:15:22+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1188
+guid: https://www.ajaymatharu.com/?p=1188
 permalink: /simple-code-to-loop-through-all-the-textboxes-in-your-page/
 ljID:
   - 228
@@ -43,4 +43,4 @@ _**&#8220;(ctrl is Textbox)&#8221;**_ to the control you&#8217;ll like to loop i
 }
 </pre>
 
-Njoy coding <img src="http://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Njoy coding <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

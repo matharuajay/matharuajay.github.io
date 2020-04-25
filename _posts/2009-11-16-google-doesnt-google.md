@@ -5,7 +5,7 @@ title: 'Google doesn&#8217;t google?'
 date: 2009-11-16T00:04:38+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1829
+guid: https://www.ajaymatharu.com/?p=1829
 permalink: /google-doesnt-google/
 aktt_notify_twitter:
   - no

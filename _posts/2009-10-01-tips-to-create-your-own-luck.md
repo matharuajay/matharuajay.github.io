@@ -5,7 +5,7 @@ title: Tips to create your own luck
 date: 2009-10-01T15:33:23+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1706
+guid: https://www.ajaymatharu.com/?p=1706
 permalink: /tips-to-create-your-own-luck/
 dsq_thread_id:
   - 465388179

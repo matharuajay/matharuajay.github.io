@@ -5,7 +5,7 @@ title: 'Impersonation in Sharepoint &#8211; MOSS/WSS'
 date: 2009-06-10T10:42:12+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1349
+guid: https://www.ajaymatharu.com/?p=1349
 permalink: /impersonation-in-sharepoint-mosswss/
 ljID:
   - 252
@@ -37,4 +37,4 @@ web = site.OpenWeb();
 
 Here username is the name username of the user who you want to impersonate as.
 
-Hope this helps <img src="http://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Hope this helps <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

@@ -5,7 +5,7 @@ title: Changing appSettings value in web.config
 date: 2009-05-14T10:32:05+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1177
+guid: https://www.ajaymatharu.com/?p=1177
 permalink: /changing-appsettings-value-in-webconfig/
 aktt_notify_twitter:
   - no

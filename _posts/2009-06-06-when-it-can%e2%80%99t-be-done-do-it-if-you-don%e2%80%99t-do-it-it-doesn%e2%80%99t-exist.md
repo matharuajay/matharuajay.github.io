@@ -5,7 +5,7 @@ title: When it can’t be done do it. If you don’t do it, it doesn’t exist
 date: 2009-06-06T10:25:58+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1326
+guid: https://www.ajaymatharu.com/?p=1326
 permalink: /when-it-can%e2%80%99t-be-done-do-it-if-you-don%e2%80%99t-do-it-it-doesn%e2%80%99t-exist/
 ljID:
   - 248

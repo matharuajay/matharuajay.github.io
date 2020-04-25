@@ -5,7 +5,7 @@ title: Debug SQL Server (Stored Procedures or Functions)
 date: 2009-03-02T10:08:26+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=978
+guid: https://www.ajaymatharu.com/?p=978
 permalink: /debug-sql-server-stored-procedures-or-functions/
 ljID:
   - 194
@@ -38,12 +38,12 @@ SQL <a name="visualstudiohks-CHP-5-ITERM-2858"></a><a name="visualstudiohks-CHP-
 
 You will then see the stored procedures and functions of your database listed in the Server Explorer.
 
-<img class="aligncenter" title="Step 1" src="http://ajaymatharu.files.wordpress.com/2009/03/stp1.png?w=311&h=330" alt="" width="222" height="185" />
+<img class="aligncenter" title="Step 1" src="https://ajaymatharu.files.wordpress.com/2009/03/stp1.png?w=311&h=330" alt="" width="222" height="185" />
 
 From the Server Explorer, you can right-click on a stored procedure or function and you will see a menu item named Step Into Stored Procedure,
 
 <p style="text-align: left;">
-  <img class="aligncenter" title="Step 2" src="http://ajaymatharu.files.wordpress.com/2009/03/stp2.png?w=311&h=330" alt="" width="222" height="185" />
+  <img class="aligncenter" title="Step 2" src="https://ajaymatharu.files.wordpress.com/2009/03/stp2.png?w=311&h=330" alt="" width="222" height="185" />
 </p>
 
 <p style="text-align: left;">
@@ -51,7 +51,7 @@ From the Server Explorer, you can right-click on a stored procedure or function 
 </p>
 
 <p style="text-align: left;">
-  <img class="aligncenter" title="Step 3" src="http://ajaymatharu.files.wordpress.com/2009/03/stp3.png?w=311&h=330" alt="" width="311" height="146" />After specifying the values for any parameters the stored procedure has, click the OK button. Visual Studio will now execute the stored procedure and open it in the document window, stopping in the first line of execution.
+  <img class="aligncenter" title="Step 3" src="https://ajaymatharu.files.wordpress.com/2009/03/stp3.png?w=311&h=330" alt="" width="311" height="146" />After specifying the values for any parameters the stored procedure has, click the OK button. Visual Studio will now execute the stored procedure and open it in the document window, stopping in the first line of execution.
 </p>
 
 <p style="text-align: left;">

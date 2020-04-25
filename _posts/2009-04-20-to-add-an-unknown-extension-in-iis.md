@@ -5,7 +5,7 @@ title: To add an unknown extension in IIS
 date: 2009-04-20T19:54:18+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1143
+guid: https://www.ajaymatharu.com/?p=1143
 permalink: /to-add-an-unknown-extension-in-iis/
 aktt_notify_twitter:
   - no

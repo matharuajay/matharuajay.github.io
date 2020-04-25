@@ -5,7 +5,7 @@ title: Visual Studio 2010 Cloud Development Overview
 date: 2008-12-15T07:21:01+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=518
+guid: https://ajaymatharu.wordpress.com/?p=518
 permalink: /visual-studio-2010-cloud-development-overview/
 ljID:
   - 123

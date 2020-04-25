@@ -5,7 +5,7 @@ title: Keep sharing, did you shared anything today?
 date: 2010-05-06T23:35:49+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2291
+guid: https://www.ajaymatharu.com/?p=2291
 permalink: /keep-sharing-did-you-shared-anything-today/
 dsq_thread_id:
   - 465389253

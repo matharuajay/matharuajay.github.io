@@ -5,7 +5,7 @@ title: Destiny is not a matter of chance, but of choice
 date: 2010-03-12T17:52:03+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2117
+guid: https://www.ajaymatharu.com/?p=2117
 permalink: /destiny-is-not-a-matter-of-chance-but-of-choice/
 aktt_notify_twitter:
   - no

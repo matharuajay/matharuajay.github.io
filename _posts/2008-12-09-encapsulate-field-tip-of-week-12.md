@@ -5,7 +5,7 @@ title: 'Encapsulate Field &#8211; Tip of week #12'
 date: 2008-12-09T03:00:05+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=500
+guid: https://ajaymatharu.wordpress.com/?p=500
 permalink: /encapsulate-field-tip-of-week-12/
 ljID:
   - 118
@@ -30,9 +30,9 @@ Encapsulation is very essintial part of OOPS. You can eaily encapsulate your fie
 
 Its very simple to Encapsulate the field in VS.net you just need to right click on field &#8211; refactor &#8211; encapsulate field.
 
-[<img class="aligncenter size-full wp-image-501" title="encapsulate" src="http://ajaymatharu.files.wordpress.com/2008/11/encapsulate.jpg" alt="encapsulate" width="500" height="128" />](http://ajaymatharu.files.wordpress.com/2008/11/encapsulate.jpg)
+[<img class="aligncenter size-full wp-image-501" title="encapsulate" src="https://ajaymatharu.files.wordpress.com/2008/11/encapsulate.jpg" alt="encapsulate" width="500" height="128" />](https://ajaymatharu.files.wordpress.com/2008/11/encapsulate.jpg)
 
-[<img class="aligncenter size-full wp-image-502" title="encapsulate1" src="http://ajaymatharu.files.wordpress.com/2008/11/encapsulate1.jpg" alt="encapsulate1" width="352" height="275" />](http://ajaymatharu.files.wordpress.com/2008/11/encapsulate1.jpg)
+[<img class="aligncenter size-full wp-image-502" title="encapsulate1" src="https://ajaymatharu.files.wordpress.com/2008/11/encapsulate1.jpg" alt="encapsulate1" width="352" height="275" />](https://ajaymatharu.files.wordpress.com/2008/11/encapsulate1.jpg)
 
 After this the output is like,
 

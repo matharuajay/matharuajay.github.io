@@ -5,7 +5,7 @@ title: Need of being multi-tasking
 date: 2009-07-24T09:34:46+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1075
+guid: https://www.ajaymatharu.com/?p=1075
 permalink: /need-of-being-multi-tasking/
 bte_opp_original_pub_date:
   - 2009-03-18 23:50:40

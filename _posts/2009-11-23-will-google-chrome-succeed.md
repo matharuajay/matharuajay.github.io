@@ -5,7 +5,7 @@ title: Will Google Chrome Succeed?
 date: 2009-11-23T14:53:34+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1848
+guid: https://www.ajaymatharu.com/?p=1848
 permalink: /will-google-chrome-succeed/
 aktt_notify_twitter:
   - no

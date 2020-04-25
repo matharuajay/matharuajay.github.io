@@ -5,7 +5,7 @@ title: Five Mistakes managers make too often
 date: 2009-08-30T11:34:43+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1616
+guid: https://www.ajaymatharu.com/?p=1616
 permalink: /five-mistakes-managers-make-too-often/
 dsq_thread_id:
   - 465383418

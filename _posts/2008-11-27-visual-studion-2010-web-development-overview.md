@@ -5,7 +5,7 @@ title: Visual Studio 2010 Web Development Overview
 date: 2008-11-27T14:31:14+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=507
+guid: https://ajaymatharu.wordpress.com/?p=507
 permalink: /visual-studion-2010-web-development-overview/
 ljID:
   - 99

@@ -7,7 +7,7 @@ title: 'Undercover Shopper &#8211; Mystery Shopper'
 date: 2008-09-13T07:30:50+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=125
+guid: https://ajaymatharu.wordpress.com/?p=125
 permalink: /undercover-shopper-mystery-shopper/
 ljID:
   - 21

@@ -5,7 +5,7 @@ title: Seven S Framework of Management
 date: 2009-09-25T10:02:55+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1690
+guid: https://www.ajaymatharu.com/?p=1690
 permalink: /seven-s-framework-of-management/
 dsq_thread_id:
   - 465392437

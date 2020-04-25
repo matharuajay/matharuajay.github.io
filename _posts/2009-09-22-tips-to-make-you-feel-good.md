@@ -5,7 +5,7 @@ title: Tips to make you feel good
 date: 2009-09-22T09:59:01+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1676
+guid: https://www.ajaymatharu.com/?p=1676
 permalink: /tips-to-make-you-feel-good/
 dsq_thread_id:
   - 465384858

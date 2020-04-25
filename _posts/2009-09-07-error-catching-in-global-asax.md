@@ -5,7 +5,7 @@ title: Error catching in Global.asax
 date: 2009-09-07T09:53:22+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1635
+guid: https://www.ajaymatharu.com/?p=1635
 permalink: /error-catching-in-global-asax/
 dsq_thread_id:
   - 465392190
@@ -54,4 +54,4 @@ And add this code in your global.asax file to catch the error,
  }
  } </pre>
 
-Hope this helps <img src="http://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Hope this helps <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

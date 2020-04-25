@@ -5,7 +5,7 @@ title: Who will win Presidentship? Barack Obama or John McCain
 date: 2008-10-28T14:20:18+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=346
+guid: https://ajaymatharu.wordpress.com/?p=346
 permalink: /who-will-win-presidentship/
 dsq_thread_id:
   - 465388700

@@ -5,7 +5,7 @@ title: Strategy helps you succeed
 date: 2009-04-09T09:33:42+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=770
+guid: https://ajaymatharu.wordpress.com/?p=770
 permalink: /strategy-helps-you-succeed/
 aktt_notify_twitter:
   - no

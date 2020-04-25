@@ -5,7 +5,7 @@ title: How to get connected to the universe
 date: 2010-01-15T10:23:01+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1964
+guid: https://www.ajaymatharu.com/?p=1964
 permalink: /how-to-get-connected-to-the-universe/
 aktt_notify_twitter:
   - no

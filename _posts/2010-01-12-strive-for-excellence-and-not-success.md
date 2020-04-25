@@ -5,7 +5,7 @@ title: Strive for EXCELLENCE and not SUCCESS
 date: 2010-01-12T10:30:23+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1950
+guid: https://www.ajaymatharu.com/?p=1950
 permalink: /strive-for-excellence-and-not-success/
 aktt_notify_twitter:
   - no
@@ -32,4 +32,4 @@ Aamir Khan, has stressed on choosing a profession, in which you have passion. If
 
 If you choose a profession in which you have the passion, you will have fun, you will enjoy working, you will strive for excellence, you&#8217;ll be happy and this is what real success is.
 
-So don&#8217;t run behind success, run behind excellence and success will run behind you <img src="http://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+So don&#8217;t run behind success, run behind excellence and success will run behind you <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

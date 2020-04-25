@@ -5,7 +5,7 @@ title: Accept Change, Move On
 date: 2009-10-19T21:24:19+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1753
+guid: https://www.ajaymatharu.com/?p=1753
 permalink: /accept-change-move-on/
 aktt_notify_twitter:
   - no

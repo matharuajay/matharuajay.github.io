@@ -5,7 +5,7 @@ title: Javascript libraries
 date: 2009-08-22T10:20:38+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1399
+guid: https://www.ajaymatharu.com/?p=1399
 permalink: /javascript-libraries/
 dsq_thread_id:
   - 465387098
@@ -21,17 +21,17 @@ tags:
   - Performance
   - Web
 ---
-Lots of Javascript libraries and frameworks have come up. It has been made to make the life of developer really easy. Here is the list of all available Javascript frameworks, http://www.javascriptlibraries.com/
+Lots of Javascript libraries and frameworks have come up. It has been made to make the life of developer really easy. Here is the list of all available Javascript frameworks, https://www.javascriptlibraries.com/
 
 But, I have got a very big question to ask, _**&#8220;are these framework making the life of Developer really easy?&#8221;**_
 
 With the increase in the speed and number of the javascript framework, its getting difficult for the developers to decide which framework is to be used where.
 
-Here, http://mootools.net/slickspeed/, you can test the speed/validity selector test for some of the major frameworks available.
+Here, https://mootools.net/slickspeed/, you can test the speed/validity selector test for some of the major frameworks available.
 
 You can get comparison matrix for most of the Javascript framework here,
 
-http://en.wikipedia.org/wiki/Comparison\_of\_JavaScript_frameworks
+https://en.wikipedia.org/wiki/Comparison\_of\_JavaScript_frameworks
 
 The following guidelines might help you to decide which framework you should go for,
 

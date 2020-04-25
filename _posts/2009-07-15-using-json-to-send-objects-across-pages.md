@@ -5,7 +5,7 @@ title: Using JSON to send objects across pages
 date: 2009-07-15T21:20:17+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1489
+guid: https://www.ajaymatharu.com/?p=1489
 permalink: /using-json-to-send-objects-across-pages/
 ljID:
   - 284
@@ -34,7 +34,7 @@ Recently our team came across a situation where our job was to retrieve ArrayLis
   
 ** 
   
-Request objects always returns data in string format, so there was no point in trying that solution, so we were looking for some reliable and optimal solution. Googling around I came across JSON (Javascript Object Notation).JSON can be used in various languages, you can find the list of langauges and the resources requied to use [JSON](http://json.org/) over here.
+Request objects always returns data in string format, so there was no point in trying that solution, so we were looking for some reliable and optimal solution. Googling around I came across JSON (Javascript Object Notation).JSON can be used in various languages, you can find the list of langauges and the resources requied to use [JSON](https://json.org/) over here.
 
 JSON allows us to serialize a object and send across a page in string format.All we need to do is to perform Deserialization on the requested page.
 
@@ -61,6 +61,6 @@ The code below Deserialize and typecast the object to JavaScriptArray.
 JavaScriptArray list = (JavaScriptArray)JavaScriptConvert.DeserializeObject(arrayList);
 </pre>
 
-You can download sample code from [here](http://www.box.net/shared/g0nahe7979).
+You can download sample code from [here](https://www.box.net/shared/g0nahe7979).
 
-Enjoy Coding <img src="http://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Enjoy Coding <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

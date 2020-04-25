@@ -5,7 +5,7 @@ title: Three Management rules that will help you
 date: 2009-09-23T10:05:50+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1694
+guid: https://www.ajaymatharu.com/?p=1694
 permalink: /three-management-rules-that-will-help-you/
 dsq_thread_id:
   - 465390801

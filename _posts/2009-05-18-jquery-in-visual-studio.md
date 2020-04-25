@@ -5,7 +5,7 @@ title: JQuery in Visual Studio
 date: 2009-05-18T00:00:45+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=279
+guid: https://ajaymatharu.wordpress.com/?p=279
 permalink: /jquery-in-visual-studio/
 ljID:
   - 235
@@ -43,14 +43,14 @@ Visual Studio figures out external script references, such as to JQuery, by foll
 
 <pre>/// &lt;reference path="jquery-1.2.3.js" /&gt;</pre>
 
-You can download the JQuery from <a href="http://code.google.com/p/jqueryjs/downloads/detail?name=jquery-1.2.6.js&downloadBtn=%3CSPAN%3EDownload%3C%2FSPAN%3E" target="_blank">here</a>. You can get more details on JQuery from [http://jquery.com/](http://jquery.com/api/) .
+You can download the JQuery from <a href="https://code.google.com/p/jqueryjs/downloads/detail?name=jquery-1.2.6.js&downloadBtn=%3CSPAN%3EDownload%3C%2FSPAN%3E" target="_blank">here</a>. You can get more details on JQuery from [https://jquery.com/](https://jquery.com/api/) .
 
 For intellisense support for JQuery you need to install this <a href="https://connect.microsoft.com/VisualStudio/Downloads/DownloadDetails.aspx?DownloadID=10826" target="_blank">Hotfix</a>.
 
 Comment for javascript is written inside for intellisense support. JavaScript has the interesting feature that calling toString on a function returns the code of this function including the comments and thus the doc comments. Here&#8217;s a similar example in JavaScript where the documentation is written inside of a class constructor:
 
-[<img class="aligncenter size-full wp-image-280" title="jsintellisense" src="http://ajaymatharu.files.wordpress.com/2008/10/jsintellisense.png" alt="" width="450" height="59" />](http://ajaymatharu.files.wordpress.com/2008/10/jsintellisense.png)
+[<img class="aligncenter size-full wp-image-280" title="jsintellisense" src="https://ajaymatharu.files.wordpress.com/2008/10/jsintellisense.png" alt="" width="450" height="59" />](https://ajaymatharu.files.wordpress.com/2008/10/jsintellisense.png)
 
 Another difference with C# or VB.NET is that property and event accessors are two different entities in JavaScript. For this reason, to choose where the documentation should be for those members. Properties should be documented in the getter and events in the &#8220;adder&#8221; for this reason:
 
-[<img class="aligncenter size-full wp-image-281" title="js" src="http://ajaymatharu.files.wordpress.com/2008/10/js.png" alt="" width="450" height="133" />](http://ajaymatharu.files.wordpress.com/2008/10/js.png)
+[<img class="aligncenter size-full wp-image-281" title="js" src="https://ajaymatharu.files.wordpress.com/2008/10/js.png" alt="" width="450" height="133" />](https://ajaymatharu.files.wordpress.com/2008/10/js.png)

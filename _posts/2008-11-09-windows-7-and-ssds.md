@@ -5,7 +5,7 @@ title: 'Windows 7 and SSD&#8217;s'
 date: 2008-11-09T16:29:57+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=432
+guid: https://ajaymatharu.wordpress.com/?p=432
 permalink: /windows-7-and-ssds/
 ljID:
   - 85

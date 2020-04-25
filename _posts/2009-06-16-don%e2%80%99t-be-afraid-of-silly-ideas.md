@@ -5,7 +5,7 @@ title: Don’t be afraid of silly ideas
 date: 2009-06-16T10:09:55+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1334
+guid: https://www.ajaymatharu.com/?p=1334
 permalink: /don%e2%80%99t-be-afraid-of-silly-ideas/
 ljID:
   - 256

@@ -5,7 +5,7 @@ title: Opera turns your computer to server
 date: 2009-12-07T14:38:04+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1914
+guid: https://www.ajaymatharu.com/?p=1914
 permalink: /opera-turns-your-computer-to-server/
 aktt_notify_twitter:
   - no

@@ -5,7 +5,7 @@ title: Focus on Good and Good will Follow
 date: 2010-05-24T19:47:47+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2311
+guid: https://www.ajaymatharu.com/?p=2311
 permalink: /focus-on-good-and-good-will-follow/
 dsq_thread_id:
   - 465391515

@@ -7,14 +7,14 @@ title: THE NECESSITY OF ONLINE WALLET
 date: 2015-02-15T15:46:25+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2965
+guid: https://www.ajaymatharu.com/?p=2965
 permalink: /the-necessity-of-online-wallet/
 dsq_thread_id:
   - 3517475030
 categories:
   - Web
 ---
-<img class="aligncenter size-full wp-image-2966" src="http://www.ajaymatharu.com/wp-content/uploads/2015/02/Optimized-57b4dd5c_smush_wallet.jpg" alt="online wallet" width="500" height="500" srcset="http://www.ajaymatharu.com/wp-content/uploads/2015/02/Optimized-57b4dd5c_smush_wallet-100x100.jpg 100w, http://www.ajaymatharu.com/wp-content/uploads/2015/02/Optimized-57b4dd5c_smush_wallet-300x300.jpg 300w, http://www.ajaymatharu.com/wp-content/uploads/2015/02/Optimized-57b4dd5c_smush_wallet.jpg 500w" sizes="(max-width: 500px) 100vw, 500px" />
+<img class="aligncenter size-full wp-image-2966" src="https://www.ajaymatharu.com/wp-content/uploads/2015/02/Optimized-57b4dd5c_smush_wallet.jpg" alt="online wallet" width="500" height="500" srcset="https://www.ajaymatharu.com/wp-content/uploads/2015/02/Optimized-57b4dd5c_smush_wallet-100x100.jpg 100w, https://www.ajaymatharu.com/wp-content/uploads/2015/02/Optimized-57b4dd5c_smush_wallet-300x300.jpg 300w, https://www.ajaymatharu.com/wp-content/uploads/2015/02/Optimized-57b4dd5c_smush_wallet.jpg 500w" sizes="(max-width: 500px) 100vw, 500px" />
 
 The use of mobile phones has increased tremendously over the past few years and more and more people are opting this easy way of communication. From making phone calls to accessing your internet, your mobile needs to be recharged to be used in an effective way. Mobile recharge is the task that every mobile user has to do on a daily basis, to keep balance in their phones.
 

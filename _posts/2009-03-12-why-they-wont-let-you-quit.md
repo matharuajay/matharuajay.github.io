@@ -5,7 +5,7 @@ title: Why they wont let you quit
 date: 2009-03-12T10:12:26+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=976
+guid: https://www.ajaymatharu.com/?p=976
 permalink: /why-they-wont-let-you-quit/
 ljID:
   - 200

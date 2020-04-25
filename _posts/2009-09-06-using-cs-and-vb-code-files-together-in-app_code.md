@@ -5,7 +5,7 @@ title: Using CS and VB code files together in App_Code
 date: 2009-09-06T11:48:06+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1465
+guid: https://www.ajaymatharu.com/?p=1465
 permalink: /using-cs-and-vb-code-files-together-in-app_code/
 dsq_thread_id:
   - 465390579

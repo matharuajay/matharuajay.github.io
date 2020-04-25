@@ -5,7 +5,7 @@ title: Windows Vs Linux
 date: 2008-12-24T03:26:48+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=672
+guid: https://ajaymatharu.wordpress.com/?p=672
 permalink: /windows-vs-linux/
 ljID:
   - 136

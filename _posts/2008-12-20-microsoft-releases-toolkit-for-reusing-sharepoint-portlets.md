@@ -5,7 +5,7 @@ title: Microsoft Releases Toolkit for Reusing SharePoint Portlets
 date: 2008-12-20T03:41:34+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=652
+guid: https://ajaymatharu.wordpress.com/?p=652
 permalink: /microsoft-releases-toolkit-for-reusing-sharepoint-portlets/
 ljID:
   - 129
@@ -29,7 +29,7 @@ tags:
   </p>
   
   <p>
-    The WSRP (Web Services for Remote Portlets) Toolkit for SharePoint provides sample code for producing WSRP-conformant data from SharePoint lists and libraries, according to a <a href="http://blogs.msdn.com/sharepoint/archive/2008/12/05/announcing-the-wsrp-toolkit-for-sharepoint.aspx" target="_blank">blog post</a> on the Microsoft SharePoint Team Blog.
+    The WSRP (Web Services for Remote Portlets) Toolkit for SharePoint provides sample code for producing WSRP-conformant data from SharePoint lists and libraries, according to a <a href="https://blogs.msdn.com/sharepoint/archive/2008/12/05/announcing-the-wsrp-toolkit-for-sharepoint.aspx" target="_blank">blog post</a> on the Microsoft SharePoint Team Blog.
   </p>
   
   <p>
@@ -49,4 +49,4 @@ tags:
   </p>
   
   <p>
-    The new SharePoint toolkit is available <a href="http://code.msdn.microsoft.com/WSRPToolkit" target="_blank">online</a> for download now from the Microsoft Developer Network site.</div>
+    The new SharePoint toolkit is available <a href="https://code.msdn.microsoft.com/WSRPToolkit" target="_blank">online</a> for download now from the Microsoft Developer Network site.</div>

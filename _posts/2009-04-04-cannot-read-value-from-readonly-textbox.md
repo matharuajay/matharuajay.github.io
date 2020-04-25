@@ -5,7 +5,7 @@ title: Cannot read value from readonly textbox
 date: 2009-04-04T17:37:09+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=667
+guid: https://ajaymatharu.wordpress.com/?p=667
 permalink: /cannot-read-value-from-readonly-textbox/
 ljID:
   - 212

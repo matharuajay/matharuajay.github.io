@@ -5,7 +5,7 @@ title: What is Microsoft Azure
 date: 2008-12-31T03:42:35+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=708
+guid: https://ajaymatharu.wordpress.com/?p=708
 permalink: /what-is-microsoft-azure/
 ljID:
   - 142
@@ -30,7 +30,7 @@ From a developer standpoint, Azure will be an open platform in which developers 
 
 The underlying services are very familiar to network admins and they include Live Services, .Net Services, SQL Services, SharePoint Services, and Microsoft Dynamics CRM Services &#8212; all residing on Windows Azure, the cloud services operating system.
 
-Microsoft is certainly putting quite a bit behind Azure with a fancy new <a href="http://www.microsoft.com/azure/default.mspx" target="_blank">Web site and resources </a> that are quite helpful. Resources to support developers and decisionmakers are growing with the online site providing the SDKs for developers to work with it, as well as case studies, white papers, videos, datasheets, and more.
+Microsoft is certainly putting quite a bit behind Azure with a fancy new <a href="https://www.microsoft.com/azure/default.mspx" target="_blank">Web site and resources </a> that are quite helpful. Resources to support developers and decisionmakers are growing with the online site providing the SDKs for developers to work with it, as well as case studies, white papers, videos, datasheets, and more.
 
 Microsoft isn&#8217;t the only one aiming for the clouds. As mentioned earlier, Google Apps is an impressive SaaS solution that includes messaging (with Gmail, Google Calendar, Google Talk, etc.); collaboration (with Google Docs, Google Video, and Google Sites); and security for on-premise e-mail. IBM has a very solid reputation for providing both the cloud infrastructure as well as the services and applications.
 

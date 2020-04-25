@@ -5,7 +5,7 @@ title: Understanding declarative class and instantiating class in .net
 date: 2012-05-24T18:02:48+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2671
+guid: https://www.ajaymatharu.com/?p=2671
 permalink: /understanding-declarative-class-and-instantiating-class-in-net/
 dsq_thread_id:
   - 702033756
@@ -29,7 +29,7 @@ While creating an object of any class, the class which is on the left of declara
 Taking an hypothetical example, consider the following class diagram,
 
 <div style="width: 288px" class="wp-caption aligncenter">
-  <img title="Inheritance" src="http://www.ajaymatharu.com/wp-content/uploads/2012/05/inheritance.png" alt="Inheritance" width="278" height="352" />
+  <img title="Inheritance" src="https://www.ajaymatharu.com/wp-content/uploads/2012/05/inheritance.png" alt="Inheritance" width="278" height="352" />
   
   <p class="wp-caption-text">
     Man inheriting from Emotions
@@ -69,7 +69,7 @@ For the above class when we create object like this,
 The above object &#8220;e&#8221; shows following intellisense ,
 
 <div style="width: 379px" class="wp-caption aligncenter">
-  <img title="Void Main" src="http://www.ajaymatharu.com/wp-content/uploads/2012/05/VoidMain.png" alt="Void Main" width="369" height="241" />
+  <img title="Void Main" src="https://www.ajaymatharu.com/wp-content/uploads/2012/05/VoidMain.png" alt="Void Main" width="369" height="241" />
   
   <p class="wp-caption-text">
     Void Main

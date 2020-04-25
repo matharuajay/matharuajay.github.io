@@ -5,7 +5,7 @@ title: Sharepoint on Windows Vista
 date: 2009-03-29T22:53:38+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1109
+guid: https://www.ajaymatharu.com/?p=1109
 permalink: /sharepoint-on-windows-vista/
 aktt_notify_twitter:
   - no
@@ -39,18 +39,18 @@ All you need to install Sharepoint, WSS or MOSS, on Vista is
     </div>
 
   * <div class="MsoNormal" style="margin: 0in 0in 10pt; line-height: normal;">
-      If you want to run on SQLExpress, manually install it first.  <a class="null" title="SQL Server 2005 Express download" href="http://msdn.microsoft.com/en-us/express/bb410792.aspx" target="_blank">Get it here</a>.
+      If you want to run on SQLExpress, manually install it first.  <a class="null" title="SQL Server 2005 Express download" href="https://msdn.microsoft.com/en-us/express/bb410792.aspx" target="_blank">Get it here</a>.
     </div>
 
   * <div class="MsoNormal" style="margin: 0in 0in 10pt; line-height: normal;">
       You have to manually enable IIS7 with the proper options. <span style="font-family: 'Century Gothic','sans-serif';"><strong>Web Management Tools</strong> and <strong>World Wide Web Services</strong>. Enable at least the following options in IIS. </span>
     </div>
 
-Download Vista Helper file from <a title="VistaSharepoint" href="http://www.box.net/shared/z0gl37bakh" target="_blank"><strong>here</strong></a>, and run the setup file <span style="font-family: 'Century Gothic','sans-serif';"><strong>WssVista.msi</strong></span>.
+Download Vista Helper file from <a title="VistaSharepoint" href="https://www.box.net/shared/z0gl37bakh" target="_blank"><strong>here</strong></a>, and run the setup file <span style="font-family: 'Century Gothic','sans-serif';"><strong>WssVista.msi</strong></span>.
 
 <p style="text-align: center;">
   <div style="width: 535px" class="wp-caption aligncenter">
-    <img title="Sharepoint on Vista" src="http://ajaymatharu.files.wordpress.com/2009/03/wssvista02.jpg" alt="Vista on Sharepoint" width="525" height="426" />
+    <img title="Sharepoint on Vista" src="https://ajaymatharu.files.wordpress.com/2009/03/wssvista02.jpg" alt="Vista on Sharepoint" width="525" height="426" />
     
     <p class="wp-caption-text">
       Sharepoint on Vista
@@ -58,7 +58,7 @@ Download Vista Helper file from <a title="VistaSharepoint" href="http://www.box.
   </div>
   
   <p>
-    <span style="font-family: 'Century Gothic','sans-serif';">You will see an <a class="null" href="http://en.wikipedia.org/wiki/User_Account_Control" target="_blank">UAC prompt</a> select Continue to proceed with the installation. </span>
+    <span style="font-family: 'Century Gothic','sans-serif';">You will see an <a class="null" href="https://en.wikipedia.org/wiki/User_Account_Control" target="_blank">UAC prompt</a> select Continue to proceed with the installation. </span>
   </p>
   
   <p class="MsoNormal" style="margin: 0in 0in 10pt;">
@@ -70,7 +70,7 @@ Download Vista Helper file from <a title="VistaSharepoint" href="http://www.box.
   </p>
   
   <div style="width: 562px" class="wp-caption aligncenter">
-    <strong><strong><img title="Sharepoint on Vista" src="http://ajaymatharu.files.wordpress.com/2009/03/wsslocation.jpg" alt="Sharepoint on Vista" width="552" height="434" /></strong></strong>
+    <strong><strong><img title="Sharepoint on Vista" src="https://ajaymatharu.files.wordpress.com/2009/03/wsslocation.jpg" alt="Sharepoint on Vista" width="552" height="434" /></strong></strong>
     
     <p class="wp-caption-text">
       Sharepoint on Vista
@@ -91,7 +91,7 @@ Download Vista Helper file from <a title="VistaSharepoint" href="http://www.box.
   
   <p class="MsoNormal" style="margin: 0in 0in 10pt;">
     <div style="width: 479px" class="wp-caption aligncenter">
-      <img title="Sharepoint on Vista" src="http://ajaymatharu.files.wordpress.com/2009/03/wssiisfeatures.jpg" alt="Sharepoint on Vista" width="469" height="692" />
+      <img title="Sharepoint on Vista" src="https://ajaymatharu.files.wordpress.com/2009/03/wssiisfeatures.jpg" alt="Sharepoint on Vista" width="469" height="692" />
       
       <p class="wp-caption-text">
         Sharepoint on Vista
@@ -104,7 +104,7 @@ Download Vista Helper file from <a title="VistaSharepoint" href="http://www.box.
     
     <p class="MsoNormal" style="margin: 0in 0in 10pt;">
       <div style="width: 535px" class="wp-caption aligncenter">
-        <img title="Sharepoint on Vista" src="http://ajaymatharu.files.wordpress.com/2009/03/wssvistalauncher1.png" alt="Sharepoint on Vista" width="525" height="396" />
+        <img title="Sharepoint on Vista" src="https://ajaymatharu.files.wordpress.com/2009/03/wssvistalauncher1.png" alt="Sharepoint on Vista" width="525" height="396" />
         
         <p class="wp-caption-text">
           Sharepoint on Vista
@@ -117,7 +117,7 @@ Download Vista Helper file from <a title="VistaSharepoint" href="http://www.box.
       
       <p class="MsoNormal" style="margin: 0in 0in 10pt;">
         <div style="width: 567px" class="wp-caption aligncenter">
-          <img title="Sharepoint on Vista" src="http://ajaymatharu.files.wordpress.com/2009/03/wssextract.jpg" alt="Sharepoint on Vista" width="557" height="488" />
+          <img title="Sharepoint on Vista" src="https://ajaymatharu.files.wordpress.com/2009/03/wssextract.jpg" alt="Sharepoint on Vista" width="557" height="488" />
           
           <p class="wp-caption-text">
             Sharepoint on Vista
@@ -130,7 +130,7 @@ Download Vista Helper file from <a title="VistaSharepoint" href="http://www.box.
         
         <p class="MsoNormal" style="margin: 0in 0in 10pt;">
           <div style="width: 513px" class="wp-caption aligncenter">
-            <img title="Sharepoint on Vista" src="http://ajaymatharu.files.wordpress.com/2009/03/wssadvanced.jpg" alt="Sharepoint on Vista" width="503" height="268" />
+            <img title="Sharepoint on Vista" src="https://ajaymatharu.files.wordpress.com/2009/03/wssadvanced.jpg" alt="Sharepoint on Vista" width="503" height="268" />
             
             <p class="wp-caption-text">
               Sharepoint on Vista
@@ -151,7 +151,7 @@ Download Vista Helper file from <a title="VistaSharepoint" href="http://www.box.
           
           <p class="MsoNormal" style="margin: 0in 0in 10pt;">
             <div style="width: 494px" class="wp-caption aligncenter">
-              <img title="Sharepoint on Vista" src="http://ajaymatharu.files.wordpress.com/2009/03/wssconfig.png" alt="Sharepoint on Vista" width="484" height="414" />
+              <img title="Sharepoint on Vista" src="https://ajaymatharu.files.wordpress.com/2009/03/wssconfig.png" alt="Sharepoint on Vista" width="484" height="414" />
               
               <p class="wp-caption-text">
                 Sharepoint on Vista
@@ -164,7 +164,7 @@ Download Vista Helper file from <a title="VistaSharepoint" href="http://www.box.
             
             <p class="MsoNormal" style="margin: 0in 0in 10pt;">
               <div style="width: 500px" class="wp-caption aligncenter">
-                <img title="Sharepoint on Vista" src="http://ajaymatharu.files.wordpress.com/2009/03/wssconfig1.png" alt="Sharepoint on Vista" width="490" height="423" />
+                <img title="Sharepoint on Vista" src="https://ajaymatharu.files.wordpress.com/2009/03/wssconfig1.png" alt="Sharepoint on Vista" width="490" height="423" />
                 
                 <p class="wp-caption-text">
                   Sharepoint on Vista
@@ -177,7 +177,7 @@ Download Vista Helper file from <a title="VistaSharepoint" href="http://www.box.
               
               <p class="MsoNormal" style="margin: 0in 0in 10pt;">
                 <div style="width: 604px" class="wp-caption aligncenter">
-                  <img title="Sharepoint on Vista" src="http://ajaymatharu.files.wordpress.com/2009/03/sharepointonvista.png" alt="Sharepoint on Vista" width="594" height="449" />
+                  <img title="Sharepoint on Vista" src="https://ajaymatharu.files.wordpress.com/2009/03/sharepointonvista.png" alt="Sharepoint on Vista" width="594" height="449" />
                   
                   <p class="wp-caption-text">
                     Sharepoint on Vista
@@ -190,7 +190,7 @@ Download Vista Helper file from <a title="VistaSharepoint" href="http://www.box.
                   </p>
                   
                   <p class="MsoNormal" style="margin: 0in 0in 10pt;">
-                    <a href="http://community.bamboosolutions.com/blogs/bambooteamblog/archive/2008/05/21/how-to-install-windows-sharepoint-services-3-0-sp1-on-vista-x64-x86.aspx" target="_blank">Bamboo Solutions</a>
+                    <a href="https://community.bamboosolutions.com/blogs/bambooteamblog/archive/2008/05/21/how-to-install-windows-sharepoint-services-3-0-sp1-on-vista-x64-x86.aspx" target="_blank">Bamboo Solutions</a>
                   </p>
                   
                   <p>

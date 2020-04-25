@@ -5,7 +5,7 @@ title: 10 Tips for leading your team to peak performance
 date: 2009-07-24T09:34:39+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1136
+guid: https://www.ajaymatharu.com/?p=1136
 permalink: /10-tips-for-leading-your-team-to-peak-performance/
 aktt_notify_twitter:
   - no

@@ -5,7 +5,7 @@ title: A visit to Orphanage
 date: 2008-12-01T13:28:05+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=527
+guid: https://ajaymatharu.wordpress.com/?p=527
 permalink: /a-visit-to-orphanage/
 dsq_thread_id:
   - 465386626
@@ -16,7 +16,7 @@ tags:
   - Social
 ---
 <p style="text-align:justify;">
-  <span style="color:black;font-family:Verdana;"><span style="font-size:small;"><a href="http://ajaymatharu.files.wordpress.com/2008/12/000_00021.jpg"></a><a href="http://ajaymatharu.files.wordpress.com/2008/12/000_0004.jpg"></a>It was August the 15th, our Independence day. The day on which we had planned to do something special, something different, something we haven&#8217;t done so far. So we started thinking about what can be done which could make us and others happy. And suddenly this idea popped up in our mind, to visit an Orphanage and donate groceries, clothing’s, stationeries etc. </span></span>
+  <span style="color:black;font-family:Verdana;"><span style="font-size:small;"><a href="https://ajaymatharu.files.wordpress.com/2008/12/000_00021.jpg"></a><a href="https://ajaymatharu.files.wordpress.com/2008/12/000_0004.jpg"></a>It was August the 15th, our Independence day. The day on which we had planned to do something special, something different, something we haven&#8217;t done so far. So we started thinking about what can be done which could make us and others happy. And suddenly this idea popped up in our mind, to visit an Orphanage and donate groceries, clothing’s, stationeries etc. </span></span>
 </p>
 
 <p style="text-align:justify;">
@@ -36,7 +36,7 @@ tags:
 </p>
 
 <p style="text-align:justify;">
-  <span style="color:black;font-family:Verdana;"><span style="font-size:small;"><img class="aligncenter size-full wp-image-534" title="000_00021" src="http://ajaymatharu.files.wordpress.com/2008/12/000_00021.jpg" alt="000_00021" width="499" height="374" /></span></span>
+  <span style="color:black;font-family:Verdana;"><span style="font-size:small;"><img class="aligncenter size-full wp-image-534" title="000_00021" src="https://ajaymatharu.files.wordpress.com/2008/12/000_00021.jpg" alt="000_00021" width="499" height="374" /></span></span>
 </p>
 
 <p style="text-align:justify;">
@@ -44,7 +44,7 @@ tags:
 </p>
 
 <p style="text-align:justify;">
-  <span style="color:black;font-family:Verdana;"><span style="font-size:small;"><a href="http://ajaymatharu.files.wordpress.com/2008/12/000_0003.jpg"><img class="aligncenter size-full wp-image-535" title="000_0003" src="http://ajaymatharu.files.wordpress.com/2008/12/000_0003.jpg" alt="000_0003" width="499" height="374" /></a></span></span>
+  <span style="color:black;font-family:Verdana;"><span style="font-size:small;"><a href="https://ajaymatharu.files.wordpress.com/2008/12/000_0003.jpg"><img class="aligncenter size-full wp-image-535" title="000_0003" src="https://ajaymatharu.files.wordpress.com/2008/12/000_0003.jpg" alt="000_0003" width="499" height="374" /></a></span></span>
 </p>
 
 <p style="text-align:justify;">
@@ -52,7 +52,7 @@ tags:
 </p>
 
 <p style="text-align:justify;">
-  <span style="color:black;font-family:Verdana;"><span style="font-size:small;"><img class="aligncenter size-full wp-image-536" title="000_0004" src="http://ajaymatharu.files.wordpress.com/2008/12/000_0004.jpg" alt="000_0004" width="499" height="374" /></span></span>
+  <span style="color:black;font-family:Verdana;"><span style="font-size:small;"><img class="aligncenter size-full wp-image-536" title="000_0004" src="https://ajaymatharu.files.wordpress.com/2008/12/000_0004.jpg" alt="000_0004" width="499" height="374" /></span></span>
 </p>
 
 <p style="text-align:justify;">

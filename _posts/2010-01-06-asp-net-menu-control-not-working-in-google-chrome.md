@@ -5,7 +5,7 @@ title: ASP.Net menu control not working in Google Chrome
 date: 2010-01-06T13:01:40+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1980
+guid: https://www.ajaymatharu.com/?p=1980
 permalink: /asp-net-menu-control-not-working-in-google-chrome/
 aktt_notify_twitter:
   - yes
@@ -39,4 +39,4 @@ Also some times the hover menus don&#8217;t work on IE8 to make it work on IE8 y
 
 in DynamicMenuStyle property of the menu control.
 
-Hope this helps <img src="http://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Hope this helps <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

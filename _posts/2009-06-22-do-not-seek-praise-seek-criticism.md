@@ -5,7 +5,7 @@ title: Do not seek praise. Seek criticism.
 date: 2009-06-22T10:24:26+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1309
+guid: https://www.ajaymatharu.com/?p=1309
 permalink: /do-not-seek-praise-seek-criticism/
 ljID:
   - 264

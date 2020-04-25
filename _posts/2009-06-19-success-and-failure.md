@@ -5,7 +5,7 @@ title: Success and Failure
 date: 2009-06-19T23:33:54+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1328
+guid: https://www.ajaymatharu.com/?p=1328
 permalink: /success-and-failure/
 ljID:
   - 260

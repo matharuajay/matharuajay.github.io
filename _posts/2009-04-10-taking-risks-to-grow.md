@@ -5,7 +5,7 @@ title: Taking Risks to Grow
 date: 2009-04-10T00:20:26+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1135
+guid: https://www.ajaymatharu.com/?p=1135
 permalink: /taking-risks-to-grow/
 aktt_notify_twitter:
   - no

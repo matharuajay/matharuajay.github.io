@@ -5,7 +5,7 @@ title: Disable User Account Control (UAC) in Vista
 date: 2009-07-07T10:19:05+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1224
+guid: https://www.ajaymatharu.com/?p=1224
 permalink: /disable-user-account-control-uac-in-vista/
 ljID:
   - 278
@@ -43,7 +43,7 @@ protect your computer and click OK
 5. Restart when prompted
 
 <div style="width: 566px" class="wp-caption aligncenter">
-  <img title="Turn off user Account Control(UAC)" src="http://ajaymatharu.files.wordpress.com/2009/05/1.gif" alt="Turn off user Account Control(UAC)" width="556" height="214" />
+  <img title="Turn off user Account Control(UAC)" src="https://ajaymatharu.files.wordpress.com/2009/05/1.gif" alt="Turn off user Account Control(UAC)" width="556" height="214" />
   
   <p class="wp-caption-text">
     Turn off user Account Control(UAC)
@@ -51,7 +51,7 @@ protect your computer and click OK
 </div>
 
 <div style="width: 584px" class="wp-caption aligncenter">
-  <img title="Turn off user Account Control(UAC)" src="http://ajaymatharu.wordpress.com/files/2009/05/2.gif" alt="Turn off user Account Control(UAC)" width="574" height="290" />
+  <img title="Turn off user Account Control(UAC)" src="https://ajaymatharu.wordpress.com/files/2009/05/2.gif" alt="Turn off user Account Control(UAC)" width="574" height="290" />
   
   <p class="wp-caption-text">
     Turn off user Account Control(UAC)

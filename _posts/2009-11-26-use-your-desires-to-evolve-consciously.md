@@ -5,7 +5,7 @@ title: Use your DESIRES to evolve CONSCIOUSLY
 date: 2009-11-26T10:32:54+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1836
+guid: https://www.ajaymatharu.com/?p=1836
 permalink: /use-your-desires-to-evolve-consciously/
 aktt_notify_twitter:
   - no

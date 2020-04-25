@@ -5,7 +5,7 @@ title: Add another application as child of BlogEngine.net
 date: 2009-08-28T23:48:52+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1632
+guid: https://www.ajaymatharu.com/?p=1632
 permalink: /add-another-application-as-child-of-blogengine-net/
 dsq_thread_id:
   - 465393227
@@ -28,7 +28,7 @@ tags:
   - VS
   - vs.net
 ---
-I have been getting good response for my post <a href="http://www.ajaymatharu.com/integrating-blogengine-into-an-existing-site/" target="_blank">Integrating blog engine into existing site</a>. One of the guy asked me this question on how can we do the opposite? He had a BlogEngine as parent site and needed some other site to be child of BlogEngine. So He posted on that and this is the answer he got for his question.
+I have been getting good response for my post <a href="https://www.ajaymatharu.com/integrating-blogengine-into-an-existing-site/" target="_blank">Integrating blog engine into existing site</a>. One of the guy asked me this question on how can we do the opposite? He had a BlogEngine as parent site and needed some other site to be child of BlogEngine. So He posted on that and this is the answer he got for his question.
 
 You need to make this change in your web.config file. If you want to have a website as child of BlogEngine
 

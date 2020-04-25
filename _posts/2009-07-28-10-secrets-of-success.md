@@ -7,7 +7,7 @@ title: 10 Secrets of SUCCESS
 date: 2009-07-28T11:51:19+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1526
+guid: https://www.ajaymatharu.com/?p=1526
 permalink: /10-secrets-of-success/
 dsq_thread_id:
   - 465390663

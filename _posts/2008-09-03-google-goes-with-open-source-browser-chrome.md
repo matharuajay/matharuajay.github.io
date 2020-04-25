@@ -7,7 +7,7 @@ title: Google goes with open-source browser Chrome
 date: 2008-09-03T07:20:17+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=70
+guid: https://ajaymatharu.wordpress.com/?p=70
 permalink: /google-goes-with-open-source-browser-chrome/
 ljID:
   - 12
@@ -15,7 +15,7 @@ categories:
   - Chrome
   - Technical
 ---
-Google Inc released the trial version of its open source web browser Chrome on Tuesday, 2nd October 2008. Beta is currently available for Windows with Mac and Linux versions in the pipeline. It can be downloaded from <http://www.google.com/chrome>. Chrome organises information into tabbed pages similar like Firefox and IE 7.
+Google Inc released the trial version of its open source web browser Chrome on Tuesday, 2nd October 2008. Beta is currently available for Windows with Mac and Linux versions in the pipeline. It can be downloaded from <https://www.google.com/chrome>. Chrome organises information into tabbed pages similar like Firefox and IE 7.
 
 It is assumed that Chrome will be faster then other browsers as the individual tabs run in seperate processes which are killed when the tab is closed, allowing the Pc to get its memory back. I really wonder about this feature, So this is like each tab is like another browser window that runs in seperate process?
 

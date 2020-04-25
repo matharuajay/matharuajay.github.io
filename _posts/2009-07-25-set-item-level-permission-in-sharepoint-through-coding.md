@@ -5,7 +5,7 @@ title: Set Item level permission in sharepoint through coding
 date: 2009-07-25T12:03:31+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=417
+guid: https://ajaymatharu.wordpress.com/?p=417
 permalink: /set-item-level-permission-in-sharepoint-through-coding/
 bte_opp_original_pub_date:
   - 2008-11-07 15:54:21

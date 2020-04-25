@@ -5,7 +5,7 @@ title: What is the secret of Life?
 date: 2009-08-09T00:04:44+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1551
+guid: https://www.ajaymatharu.com/?p=1551
 permalink: /what-is-the-secret-of-life/
 dsq_thread_id:
   - 465385387

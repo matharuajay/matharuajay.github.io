@@ -5,7 +5,7 @@ title: New Features in SQL 2008
 date: 2008-09-10T11:40:41+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=106
+guid: https://ajaymatharu.wordpress.com/?p=106
 permalink: /new-features-in-sql-2008/
 ljID:
   - 19

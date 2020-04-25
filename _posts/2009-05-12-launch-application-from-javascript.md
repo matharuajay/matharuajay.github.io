@@ -5,7 +5,7 @@ title: Launch application from javascript
 date: 2009-05-12T17:02:28+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1208
+guid: https://www.ajaymatharu.com/?p=1208
 permalink: /launch-application-from-javascript/
 ljID:
   - 231

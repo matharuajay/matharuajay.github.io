@@ -5,7 +5,7 @@ title: Ride your EGO
 date: 2009-08-16T23:48:38+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1580
+guid: https://www.ajaymatharu.com/?p=1580
 permalink: /ride-your-ego/
 dsq_thread_id:
   - 465392955

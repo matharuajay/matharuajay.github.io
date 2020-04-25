@@ -5,7 +5,7 @@ title: Are you a true buddy?
 date: 2009-09-21T10:48:17+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1678
+guid: https://www.ajaymatharu.com/?p=1678
 permalink: /are-you-a-true-buddy/
 dsq_thread_id:
   - 465389768

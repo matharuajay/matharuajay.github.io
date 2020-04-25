@@ -5,7 +5,7 @@ title: Tackle problems in your sleep
 date: 2009-08-21T10:36:55+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1587
+guid: https://www.ajaymatharu.com/?p=1587
 permalink: /tackle-problems-in-your-sleep/
 dsq_thread_id:
   - 465386419

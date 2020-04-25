@@ -5,7 +5,7 @@ title: IPhone or Omnia
 date: 2008-10-12T18:20:20+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=195
+guid: https://ajaymatharu.wordpress.com/?p=195
 permalink: /iphone-or-omnio/
 ljID:
   - 39
@@ -43,4 +43,4 @@ Here are some of its specs:
   * Plays audio and video
   * Has an FM radio
 
- [<img class="aligncenter size-full wp-image-196" title="omnio" src="http://ajaymatharu.files.wordpress.com/2008/10/omnio.png" alt="" width="449" height="247" />](http://ajaymatharu.files.wordpress.com/2008/10/omnio.png)
+ [<img class="aligncenter size-full wp-image-196" title="omnio" src="https://ajaymatharu.files.wordpress.com/2008/10/omnio.png" alt="" width="449" height="247" />](https://ajaymatharu.files.wordpress.com/2008/10/omnio.png)

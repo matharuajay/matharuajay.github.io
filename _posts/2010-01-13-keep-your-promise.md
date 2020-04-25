@@ -5,7 +5,7 @@ title: Keep your promise
 date: 2010-01-13T23:23:41+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1966
+guid: https://www.ajaymatharu.com/?p=1966
 permalink: /keep-your-promise/
 aktt_notify_twitter:
   - no

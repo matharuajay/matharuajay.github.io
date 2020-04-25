@@ -5,7 +5,7 @@ title: Supreme power that resides in you
 date: 2009-04-08T10:08:11+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1085
+guid: https://www.ajaymatharu.com/?p=1085
 permalink: /supreme-power-that-resides-in-you/
 aktt_notify_twitter:
   - no

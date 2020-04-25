@@ -5,7 +5,7 @@ title: 'Twelve (12) C&#8217;s of team building'
 date: 2009-03-05T13:45:47+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=995
+guid: https://www.ajaymatharu.com/?p=995
 permalink: /twelve-12-cs-of-team-building/
 ljID:
   - 196

@@ -5,7 +5,7 @@ title: 'Don&#8217;t judge to soon'
 date: 2009-08-19T12:09:26+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1556
+guid: https://www.ajaymatharu.com/?p=1556
 permalink: /dont-judge-to-soon/
 dsq_thread_id:
   - 465386306

@@ -7,7 +7,7 @@ title: Embedding resources in WebParts
 date: 2008-08-23T14:02:41+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=60
+guid: https://ajaymatharu.wordpress.com/?p=60
 permalink: /embedding-resources-in-webparts/
 ljID:
   - 11

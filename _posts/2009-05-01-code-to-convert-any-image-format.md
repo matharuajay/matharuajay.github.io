@@ -5,7 +5,7 @@ title: Code to convert any image format
 date: 2009-05-01T23:34:59+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1161
+guid: https://www.ajaymatharu.com/?p=1161
 permalink: /code-to-convert-any-image-format/
 aktt_notify_twitter:
   - no

@@ -5,7 +5,7 @@ title: SQL Query to calculate top nth salary Interview Question
 date: 2010-03-29T10:40:11+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2194
+guid: https://www.ajaymatharu.com/?p=2194
 permalink: /sql-query-to-calculate-top-nth-salary-interview-question/
 aktt_notify_twitter:
   - no
@@ -39,4 +39,4 @@ If you want to fetch some other number change the &#8220;2&#8221; in the followi
 
 If you know a better way, please let us know.
   
-Hope this helps <img src="http://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Hope this helps <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

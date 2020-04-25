@@ -5,7 +5,7 @@ title: Myths of Agile Development
 date: 2008-11-01T10:28:34+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=344
+guid: https://ajaymatharu.wordpress.com/?p=344
 permalink: /myths-of-agile-development/
 ljID:
   - 76
@@ -19,7 +19,7 @@ tags:
   - Development Methodology
   - Software Development
 ---
-Few days back I wrote on <a href="http://ajaymatharu.wordpress.com/2008/10/28/agile-development/" target="_blank">Agile Development,</a> but there are some myths associated with it,
+Few days back I wrote on <a href="https://ajaymatharu.wordpress.com/2008/10/28/agile-development/" target="_blank">Agile Development,</a> but there are some myths associated with it,
 
 Myth one: Agile means you never have to write documentation. Both sides were briefly covered by the panel. The audience was asked and 79% said it is false. However, it is documentation at can be done at the right time when the system is ready. There is less editing and revisions.
 

@@ -5,7 +5,7 @@ title: Is White supremacy nearing end?
 date: 2008-10-26T16:46:24+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=301
+guid: https://ajaymatharu.wordpress.com/?p=301
 permalink: /is-white-supremacy-nearing-end/
 dsq_thread_id:
   - 465380476

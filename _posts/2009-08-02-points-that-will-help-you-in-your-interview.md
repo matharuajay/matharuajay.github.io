@@ -5,7 +5,7 @@ title: Points that will help you in your interview
 date: 2009-08-02T15:37:00+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1512
+guid: https://www.ajaymatharu.com/?p=1512
 permalink: /points-that-will-help-you-in-your-interview/
 dsq_thread_id:
   - 465386814

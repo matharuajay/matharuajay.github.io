@@ -5,7 +5,7 @@ title: Access Master Page Controls from Content Pages without using FindControl
 date: 2008-11-14T14:47:09+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=447
+guid: https://ajaymatharu.wordpress.com/?p=447
 permalink: /access-master-page-controls-from-content-pages-without-using-findcontrol/
 ljID:
   - 91

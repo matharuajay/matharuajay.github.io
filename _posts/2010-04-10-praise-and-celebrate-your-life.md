@@ -5,7 +5,7 @@ title: Praise and Celebrate your life
 date: 2010-04-10T16:11:09+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2257
+guid: https://www.ajaymatharu.com/?p=2257
 permalink: /praise-and-celebrate-your-life/
 aktt_notify_twitter:
   - no

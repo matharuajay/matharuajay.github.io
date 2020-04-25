@@ -5,7 +5,7 @@ title: 'Visual Studio 2010 &#8211; My Review'
 date: 2009-07-25T12:03:31+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=617
+guid: https://ajaymatharu.wordpress.com/?p=617
 permalink: /visual-studio-2010-my-review/
 bte_opp_original_pub_date:
   - 2008-12-12 11:54:38
@@ -26,7 +26,7 @@ tags:
   - Visual Studio 2010 Review
   - vs.net
 ---
-Hi Guys, Microsoft released Visual Studio 2010 CTP in October. You&#8217;ll be amazed with the download size its near about 7 GB. You can download it from <a href="http://www.microsoft.com/downloads/details.aspx?familyid=922b4655-93d0-4476-bda4-94cf5f8d4814&displaylang=en" target="_blank">here</a>.
+Hi Guys, Microsoft released Visual Studio 2010 CTP in October. You&#8217;ll be amazed with the download size its near about 7 GB. You can download it from <a href="https://www.microsoft.com/downloads/details.aspx?familyid=922b4655-93d0-4476-bda4-94cf5f8d4814&displaylang=en" target="_blank">here</a>.
 
 After you download you&#8217;ll run the .exe file to extract the setup and the setup is of the .vhd format that is Virtual PC hard disk. So you&#8217;ll need Virtual PC to run Visual Studio 2010.
 
@@ -47,5 +47,5 @@ I really did not understood why Microsoft shipped Visual Studio 2010 this way. W
 Here is my Virtual PC screen shot with Visual Studio 2010
 
 <p style="text-align:center;">
-  <img class="aligncenter size-full wp-image-616" title="vs2010" src="http://ajaymatharu.files.wordpress.com/2008/12/vs2010.jpg" alt="vs2010" width="650" height="406" />
+  <img class="aligncenter size-full wp-image-616" title="vs2010" src="https://ajaymatharu.files.wordpress.com/2008/12/vs2010.jpg" alt="vs2010" width="650" height="406" />
 </p>

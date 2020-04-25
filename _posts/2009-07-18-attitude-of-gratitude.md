@@ -5,7 +5,7 @@ title: ATTITUDE of GRATITUDE
 date: 2009-07-18T09:38:12+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1494
+guid: https://www.ajaymatharu.com/?p=1494
 permalink: /attitude-of-gratitude/
 ljID:
   - 286

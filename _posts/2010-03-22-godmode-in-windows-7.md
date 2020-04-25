@@ -5,7 +5,7 @@ title: GodMode in Windows 7
 date: 2010-03-22T16:28:44+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2183
+guid: https://www.ajaymatharu.com/?p=2183
 permalink: /godmode-in-windows-7/
 aktt_notify_twitter:
   - no
@@ -25,7 +25,7 @@ Windows 7 is really awesome. I am loving Windows 7. It has got lots of features 
 GodMode in Windows 7 contains all the settings options. It is one place stop for all the setting in Windows 7.
 
 <div id="attachment_2185" style="width: 710px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-2185" title="Windows 7 GodMode" src="http://www.ajaymatharu.com/wp-content/uploads/2010/03/Godmode11.png" alt="Windows 7 GodMode" width="700" height="407" />
+  <img class="size-full wp-image-2185" title="Windows 7 GodMode" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/Godmode11.png" alt="Windows 7 GodMode" width="700" height="407" />
   
   <p class="wp-caption-text">
     Windows 7 GodMode
@@ -40,7 +40,7 @@ To activate this feature follow the following steps,
   * Once you rename it the folder icon will be changed and the folder will be renamed to GodMode.
 
 <div id="attachment_2186" style="width: 645px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-2186" title="GodMode in Windows7" src="http://www.ajaymatharu.com/wp-content/uploads/2010/03/GodMode.png" alt="GodMode in Windows7" width="635" height="119" srcset="http://www.ajaymatharu.com/wp-content/uploads/2010/03/GodMode-300x56.png 300w, http://www.ajaymatharu.com/wp-content/uploads/2010/03/GodMode.png 635w" sizes="(max-width: 635px) 100vw, 635px" />
+  <img class="size-full wp-image-2186" title="GodMode in Windows7" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/GodMode.png" alt="GodMode in Windows7" width="635" height="119" srcset="https://www.ajaymatharu.com/wp-content/uploads/2010/03/GodMode-300x56.png 300w, https://www.ajaymatharu.com/wp-content/uploads/2010/03/GodMode.png 635w" sizes="(max-width: 635px) 100vw, 635px" />
   
   <p class="wp-caption-text">
     GodMode in Windows7

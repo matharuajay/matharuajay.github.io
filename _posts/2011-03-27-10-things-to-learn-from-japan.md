@@ -5,7 +5,7 @@ title: 10 Things to learn from JAPAN
 date: 2011-03-27T23:15:22+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2621
+guid: https://www.ajaymatharu.com/?p=2621
 permalink: /10-things-to-learn-from-japan/
 dsq_thread_id:
   - 465384920

@@ -5,7 +5,7 @@ title: Server Application Unavailable
 date: 2010-04-22T10:15:51+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=458
+guid: https://ajaymatharu.wordpress.com/?p=458
 permalink: /server-application-unavailable/
 bte_opp_original_pub_date:
   - 2008-11-17 12:10:27
@@ -29,7 +29,7 @@ tags:
 ---
 Many a time while developing a web application you may come accross &#8220;Server application unavailable&#8221;
 
-[<img class="aligncenter size-full wp-image-463" title="unavailable2" src="http://ajaymatharu.files.wordpress.com/2008/11/unavailable2.jpg" alt="unavailable2" width="500" height="284" />](http://ajaymatharu.files.wordpress.com/2008/11/unavailable2.jpg)
+[<img class="aligncenter size-full wp-image-463" title="unavailable2" src="https://ajaymatharu.files.wordpress.com/2008/11/unavailable2.jpg" alt="unavailable2" width="500" height="284" />](https://ajaymatharu.files.wordpress.com/2008/11/unavailable2.jpg)
 
 When you get this error in Windows XP make sure you have given ASPNET user sufficient rights on your physical application folder, it mainly requires read permission.
 

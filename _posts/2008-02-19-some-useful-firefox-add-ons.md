@@ -7,7 +7,7 @@ title: Some useful firefox add-ons
 date: 2008-02-19T05:55:14+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/2008/02/19/some-useful-firefox-add-ons/
+guid: https://ajaymatharu.wordpress.com/2008/02/19/some-useful-firefox-add-ons/
 permalink: /some-useful-firefox-add-ons/
 ljID:
   - 4

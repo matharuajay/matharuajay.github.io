@@ -5,7 +5,7 @@ title: Building deeper Relationships
 date: 2009-07-25T12:03:30+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=72
+guid: https://ajaymatharu.wordpress.com/?p=72
 permalink: /building-deeper-relationships/
 bte_opp_original_pub_date:
   - 2008-09-03 08:18:26

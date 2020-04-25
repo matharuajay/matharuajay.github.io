@@ -5,7 +5,7 @@ title: Is Google Safe?
 date: 2009-07-24T09:34:38+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=384
+guid: https://ajaymatharu.wordpress.com/?p=384
 permalink: /is-google-safe/
 bte_opp_original_pub_date:
   - 2008-10-28 20:49:16

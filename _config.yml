@@ -55,7 +55,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 # if your site type is Project Pages site, change below value to '/projectname'
 baseurl: ''
 
-# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
+# Change to your timezone › https://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Shanghai
 
 google_analytics:

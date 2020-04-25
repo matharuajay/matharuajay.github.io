@@ -5,7 +5,7 @@ title: Love and its power
 date: 2010-03-04T12:48:39+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2094
+guid: https://www.ajaymatharu.com/?p=2094
 permalink: /love-and-its-power/
 aktt_notify_twitter:
   - no

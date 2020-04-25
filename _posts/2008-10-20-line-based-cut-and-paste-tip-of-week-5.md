@@ -5,7 +5,7 @@ title: 'Line-Based Cut and Paste &#8211; Tip of week #5'
 date: 2008-10-20T04:08:40+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=211
+guid: https://ajaymatharu.wordpress.com/?p=211
 permalink: /line-based-cut-and-paste-tip-of-week-5/
 ljID:
   - 43

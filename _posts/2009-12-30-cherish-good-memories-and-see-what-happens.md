@@ -5,7 +5,7 @@ title: Cherish good memories and see what happens
 date: 2009-12-30T10:15:32+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1855
+guid: https://www.ajaymatharu.com/?p=1855
 permalink: /cherish-good-memories-and-see-what-happens/
 aktt_notify_twitter:
   - yes

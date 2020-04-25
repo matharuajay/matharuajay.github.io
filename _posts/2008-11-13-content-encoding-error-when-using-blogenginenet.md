@@ -5,7 +5,7 @@ title: '&#8220;content encoding error&#8221; while using blogengine.net'
 date: 2008-11-13T16:07:42+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=445
+guid: https://ajaymatharu.wordpress.com/?p=445
 permalink: /content-encoding-error-when-using-blogenginenet/
 ljID:
   - 90

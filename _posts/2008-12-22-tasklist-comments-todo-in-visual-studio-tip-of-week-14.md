@@ -5,7 +5,7 @@ title: 'Tasklist Comments / TODO in Visual Studio &#8211; Tip Of Week #14'
 date: 2008-12-22T01:00:05+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=658
+guid: https://ajaymatharu.wordpress.com/?p=658
 permalink: /tasklist-comments-todo-in-visual-studio-tip-of-week-14/
 ljID:
   - 132

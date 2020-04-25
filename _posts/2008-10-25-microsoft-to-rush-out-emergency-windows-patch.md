@@ -5,7 +5,7 @@ title: Microsoft to Rush Out Emergency Windows Patch
 date: 2008-10-25T15:02:00+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=266
+guid: https://ajaymatharu.wordpress.com/?p=266
 permalink: /microsoft-to-rush-out-emergency-windows-patch/
 ljID:
   - 51

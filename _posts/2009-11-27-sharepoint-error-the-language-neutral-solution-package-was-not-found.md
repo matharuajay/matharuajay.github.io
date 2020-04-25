@@ -5,7 +5,7 @@ title: 'SharePoint Error: &#8220;The language-neutral solution package was not f
 date: 2009-11-27T13:52:13+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1765
+guid: https://www.ajaymatharu.com/?p=1765
 permalink: /sharepoint-error-the-language-neutral-solution-package-was-not-found/
 aktt_notify_twitter:
   - no
@@ -31,4 +31,4 @@ Last night while developing an event listener custom list, I ran into this error
 
 The solution to this problem is, Restart your visual studio. And it will be back to normal.
 
-Hope this helps <img src="http://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Hope this helps <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

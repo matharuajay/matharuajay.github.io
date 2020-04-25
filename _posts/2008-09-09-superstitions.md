@@ -7,7 +7,7 @@ title: Superstitions
 date: 2008-09-09T07:46:09+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=102
+guid: https://ajaymatharu.wordpress.com/?p=102
 permalink: /superstitions/
 ljID:
   - 18

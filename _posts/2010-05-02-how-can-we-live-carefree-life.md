@@ -6,7 +6,7 @@ date: 2010-05-02T20:42:30+00:00
 author: Ajay Matharu
 excerpt: THERE are phases in life when you are surrounded by trouble and nothing seems to work.detach yourself from life and watch yourself from a distance you would be able to escape the resultant forces
 layout: post
-guid: http://www.ajaymatharu.com/?p=2292
+guid: https://www.ajaymatharu.com/?p=2292
 permalink: /how-can-we-live-carefree-life/
 dsq_thread_id:
   - 465385996

@@ -7,7 +7,7 @@ title: Ego vs Will
 date: 2014-08-04T22:17:31+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2597
+guid: https://www.ajaymatharu.com/?p=2597
 permalink: /ego-vs-will/
 dsq_thread_id:
   - 2900125438

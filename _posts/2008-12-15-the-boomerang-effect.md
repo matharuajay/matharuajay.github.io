@@ -5,7 +5,7 @@ title: The Boomerang Effect
 date: 2008-12-15T17:16:37+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=631
+guid: https://ajaymatharu.wordpress.com/?p=631
 permalink: /the-boomerang-effect/
 ljID:
   - 124

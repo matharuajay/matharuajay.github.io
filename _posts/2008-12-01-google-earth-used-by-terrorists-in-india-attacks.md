@@ -5,7 +5,7 @@ title: Google Earth Used by Terrorists in India Attacks
 date: 2008-12-01T13:54:25+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=539
+guid: https://ajaymatharu.wordpress.com/?p=539
 permalink: /google-earth-used-by-terrorists-in-india-attacks/
 categories:
   - Misc

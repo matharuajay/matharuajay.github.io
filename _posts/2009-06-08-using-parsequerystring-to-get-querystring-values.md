@@ -7,7 +7,7 @@ title: Using ParseQueryString to get querystring values
 date: 2009-06-08T00:53:30+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1269
+guid: https://www.ajaymatharu.com/?p=1269
 permalink: /using-parsequerystring-to-get-querystring-values/
 ljID:
   - 250
@@ -63,4 +63,4 @@ This is the front end code ,
 
 <pre name="code" class="html"></pre>
 
-Hope this helps <img src="http://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Hope this helps <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

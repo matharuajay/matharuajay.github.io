@@ -5,7 +5,7 @@ title: 'Go &#8211; Google&#8217;s new programming language'
 date: 2009-11-12T17:10:53+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1824
+guid: https://www.ajaymatharu.com/?p=1824
 permalink: /go-googles-new-programming-language/
 aktt_notify_twitter:
   - no
@@ -72,4 +72,4 @@ One of the distinguishing characteristics of Go is its unusual type system. It e
 
 Parallelism is emphasized in Go&#8217;s design. The language introduces the concept of &#8220;goroutines&#8221; which are executed concurrently. Any function can be executed as a goroutine by prefixing the function call with the &#8220;go&#8221; keyword. The language provides a &#8220;channel&#8221; mechanism that can be used to safely pass data in and out of goroutines.
 
-For more details, check out the project&#8217;s [official website](http://golang.org/).
+For more details, check out the project&#8217;s [official website](https://golang.org/).

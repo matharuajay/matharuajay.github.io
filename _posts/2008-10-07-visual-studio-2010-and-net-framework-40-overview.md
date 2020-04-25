@@ -5,7 +5,7 @@ title: Visual Studio 2010 and .NET Framework 4.0 Overview
 date: 2008-10-07T04:22:04+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=176
+guid: https://ajaymatharu.wordpress.com/?p=176
 permalink: /visual-studio-2010-and-net-framework-40-overview/
 ljID:
   - 35
@@ -70,11 +70,11 @@ tags:
   </tr>
 </table>
 
-[<img class="aligncenter size-medium wp-image-189" title="vs2010" src="http://ajaymatharu.files.wordpress.com/2008/10/vs2010.png?w=300" alt="" width="300" height="177" />](http://ajaymatharu.files.wordpress.com/2008/10/vs2010.png)
+[<img class="aligncenter size-medium wp-image-189" title="vs2010" src="https://ajaymatharu.files.wordpress.com/2008/10/vs2010.png?w=300" alt="" width="300" height="177" />](https://ajaymatharu.files.wordpress.com/2008/10/vs2010.png)
 
 From the design of the application through to the actual writing of the code, one of the most difficult problems has always been that of the bug that can’t be reproduced – the “no-repro” bug. There are a lot of factors that drive these types of bugs and we have worked to create tools to help isolate the issue and allow faster fixes. One of the common blockers to reproducing a bug is the collection of actionable data on the bug.  By dramatically simplifying the tools required to integrate testing across the lifecycle, we are further introducing new non-technical users to the application lifecycle.
 
-[<img class="aligncenter size-medium wp-image-190" title="vs20101" src="http://ajaymatharu.files.wordpress.com/2008/10/vs20101.png?w=300" alt="" width="300" height="199" />](http://ajaymatharu.files.wordpress.com/2008/10/vs20101.png)
+[<img class="aligncenter size-medium wp-image-190" title="vs20101" src="https://ajaymatharu.files.wordpress.com/2008/10/vs20101.png?w=300" alt="" width="300" height="199" />](https://ajaymatharu.files.wordpress.com/2008/10/vs20101.png)
 
 <table style="width:100%;" border="0">
   <tr>
@@ -91,7 +91,7 @@ From the design of the application through to the actual writing of the code, on
   
   <tr>
     <td>
-      <strong>See Visual Studio 2010 in Action on Channel 9</strong><br /> During the week of September 29, 2008, Channel 9 will be publishing new Visual Studio Team System 2010 videos daily. During the week you can watch videos covering many of the aspects of Visual Studio Team System 2010, including an overview of new capabilities, software quality, project management and Team Foundation Server, featuring Brian Harry. <a id="ctl00_mainContentContainer_ctl01" href="http://channel9.msdn.com/visualstudio"><span style="color:#0033cc;">Watch the videos now.</span></a>
+      <strong>See Visual Studio 2010 in Action on Channel 9</strong><br /> During the week of September 29, 2008, Channel 9 will be publishing new Visual Studio Team System 2010 videos daily. During the week you can watch videos covering many of the aspects of Visual Studio Team System 2010, including an overview of new capabilities, software quality, project management and Team Foundation Server, featuring Brian Harry. <a id="ctl00_mainContentContainer_ctl01" href="https://channel9.msdn.com/visualstudio"><span style="color:#0033cc;">Watch the videos now.</span></a>
     </td>
   </tr>
   
@@ -117,13 +117,13 @@ From the design of the application through to the actual writing of the code, on
     <td>
       <ul>
         <li>
-          <strong>Modeling that Works with Code</strong><br /> Powerful modeling tools are important for both defining new systems as well as discovering architectural information about existing systems. Our new modeling tools have tight integration into the actual code of the application enabling a developer or architect to use models to enforce constraints on code, as well as to explore existing code assets. <a id="ctl00_mainContentContainer_ctl02" href="http://ajaymatharu.wordpress.com/vsts2008/products/bb725993.aspx#Mod"><span style="color:#0033cc;">Learn more.</span></a>
+          <strong>Modeling that Works with Code</strong><br /> Powerful modeling tools are important for both defining new systems as well as discovering architectural information about existing systems. Our new modeling tools have tight integration into the actual code of the application enabling a developer or architect to use models to enforce constraints on code, as well as to explore existing code assets. <a id="ctl00_mainContentContainer_ctl02" href="https://ajaymatharu.wordpress.com/vsts2008/products/bb725993.aspx#Mod"><span style="color:#0033cc;">Learn more.</span></a>
         </li>
         <li>
-          <strong>Eliminating “No-Repro”</strong><br /> One of the most difficult problems has always been that of the bug that can’t be reproduced – the “no repro” bug. There are a lot of factors that drive these types of bugs and we have worked to create tools to isolate the issue and enable faster fixes. <a id="ctl00_mainContentContainer_ctl03" href="http://ajaymatharu.wordpress.com/vsts2008/products/bb725993.aspx#Elim"><span style="color:#0033cc;">Learn more.</span></a>
+          <strong>Eliminating “No-Repro”</strong><br /> One of the most difficult problems has always been that of the bug that can’t be reproduced – the “no repro” bug. There are a lot of factors that drive these types of bugs and we have worked to create tools to isolate the issue and enable faster fixes. <a id="ctl00_mainContentContainer_ctl03" href="https://ajaymatharu.wordpress.com/vsts2008/products/bb725993.aspx#Elim"><span style="color:#0033cc;">Learn more.</span></a>
         </li>
         <li>
-          <strong>Identify the Test Impact</strong><br /> After making a change to the code it is critical to test the changes to prove they work as expected and to ensure no unexpected downstream effect. Test Impact Analysis helps developers quickly check-in code with confidence by running only the necessary tests. <a id="ctl00_mainContentContainer_ctl04" href="http://ajaymatharu.wordpress.com/vsts2008/products/bb725993.aspx#Id"><span style="color:#0033cc;">Learn more.</span></a>
+          <strong>Identify the Test Impact</strong><br /> After making a change to the code it is critical to test the changes to prove they work as expected and to ensure no unexpected downstream effect. Test Impact Analysis helps developers quickly check-in code with confidence by running only the necessary tests. <a id="ctl00_mainContentContainer_ctl04" href="https://ajaymatharu.wordpress.com/vsts2008/products/bb725993.aspx#Id"><span style="color:#0033cc;">Learn more.</span></a>
         </li>
       </ul>
     </td>

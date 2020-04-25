@@ -5,7 +5,7 @@ title: Find out Nth highest value in SQL
 date: 2009-06-21T13:51:52+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1367
+guid: https://www.ajaymatharu.com/?p=1367
 permalink: /find-out-nth-highest-value-in-sql/
 ljID:
   - 263
@@ -32,4 +32,4 @@ The solution for this question goes like this, I am going to fetch 5th highest s
 <pre name="code" class="sql">Select top 1 FirstName, Salary From Employees Where Salary Not In (Select Distinct Top 4 Salary From Employees order by Salary desc) order by Salary desc
 </pre>
 
-Enjoy and have fun <img src="http://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Enjoy and have fun <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

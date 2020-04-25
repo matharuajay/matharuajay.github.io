@@ -5,7 +5,7 @@ title: Expectation Theory
 date: 2008-10-09T04:03:21+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=173
+guid: https://ajaymatharu.wordpress.com/?p=173
 permalink: /expectation-theory/
 ljID:
   - 37

@@ -5,7 +5,7 @@ title: Zipping in asp.net
 date: 2009-06-20T13:42:44+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1363
+guid: https://www.ajaymatharu.com/?p=1363
 permalink: /zipping-in-asp-net/
 ljID:
   - 261
@@ -23,7 +23,7 @@ tags:
   - Visual Studio
   - vs.net
 ---
-Zipping was never so easy in .Net. Check out this project on codeplex, http://dotnetzip.codeplex.com/
+Zipping was never so easy in .Net. Check out this project on codeplex, https://dotnetzip.codeplex.com/
 
 Here are the features of the DotNetZip Library,
   
@@ -45,4 +45,4 @@ DotNetZip works on PCs with the full .NET Framework, and also runs on mobile dev
   
 &#8211; creation of self-extracting archives.
 
-Njoy coding <img src="http://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Njoy coding <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

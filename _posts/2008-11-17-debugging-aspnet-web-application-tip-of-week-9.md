@@ -5,7 +5,7 @@ title: 'Debugging asp.net web application &#8211; Tip of week #9'
 date: 2008-11-17T03:29:11+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=276
+guid: https://ajaymatharu.wordpress.com/?p=276
 permalink: /debugging-aspnet-web-application-tip-of-week-9/
 ljID:
   - 93
@@ -27,7 +27,7 @@ You can open the page in the browser by right click on the page in the IDE &#82
 
 Go to IDE &#8211; Tools &#8211; Attatch to process or (ctrl + alt + P)
 
-[<img class="aligncenter size-full wp-image-277" title="attach" src="http://ajaymatharu.files.wordpress.com/2008/10/attach.png" alt="" width="450" height="286" />](http://ajaymatharu.files.wordpress.com/2008/10/attach.png)
+[<img class="aligncenter size-full wp-image-277" title="attach" src="https://ajaymatharu.files.wordpress.com/2008/10/attach.png" alt="" width="450" height="286" />](https://ajaymatharu.files.wordpress.com/2008/10/attach.png)
 
 check on both the check boxes at the bottom and select the process W3WP in Windows Server 2003 and ASPNETWP in Windows XP and Windows server 2000.
 

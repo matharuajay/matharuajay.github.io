@@ -5,7 +5,7 @@ title: 'The Time Killers &#8211; why 24 hrs are not enough?'
 date: 2010-11-28T19:25:59+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2472
+guid: https://www.ajaymatharu.com/?p=2472
 permalink: /the-time-killers-why-24-hrs-are-not-enough/
 dsq_thread_id:
   - 465391647

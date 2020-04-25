@@ -5,7 +5,7 @@ title: Coping up with inferiority complex
 date: 2011-04-03T02:15:08+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2625
+guid: https://www.ajaymatharu.com/?p=2625
 permalink: /coping-up-with-inferiority-complex/
 dsq_thread_id:
   - 465393042

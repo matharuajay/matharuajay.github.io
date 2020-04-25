@@ -5,7 +5,7 @@ title: 39 point hand book for you and your family
 date: 2009-02-09T13:50:16+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.com/?p=946
+guid: https://ajaymatharu.com/?p=946
 permalink: /39-point-hand-book-for-you-and-your-family/
 ljID:
   - 181

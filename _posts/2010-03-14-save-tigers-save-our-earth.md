@@ -5,7 +5,7 @@ title: Save TIGERS, Save our EARTH
 date: 2010-03-14T17:01:34+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2119
+guid: https://www.ajaymatharu.com/?p=2119
 permalink: /save-tigers-save-our-earth/
 aktt_notify_twitter:
   - no
@@ -28,7 +28,7 @@ TIGERS ON the threshold of extinction. According to WWF, Tigers are amongst the 
 At the turn of the 20th century, according to sources, India had an estimated 40,000 tigers in the wild. In 2002, based on pug mark census, this number was 3,642. As per the monitoring exercise by Wildlife Institute of India in association with National Tiger Conservation Authority (NTCA), Government of India using camera traps, in 2008 we were left with only 1,411 tigers. This number is so small that they will be gone soon if we don’t wake up to the crisis.
 
 <div style="width: 360px" class="wp-caption aligncenter">
-  <img title="Save Tigers" src="http://ajaymatharu.files.wordpress.com/2010/03/save-tigers1.jpg" alt="Save Tigers" width="350" height="465" />
+  <img title="Save Tigers" src="https://ajaymatharu.files.wordpress.com/2010/03/save-tigers1.jpg" alt="Save Tigers" width="350" height="465" />
   
   <p class="wp-caption-text">
     Save Tigers
@@ -44,7 +44,7 @@ Saving the tiger means we save the forest since the tiger cannot live in places 
 Felling trees takes away the precious soil, leaving behind a wasteland. The soil jams up our lakes and dams, reducing their ability to store water. By destroying the tiger&#8217;s home, we not only harm tigers, but also ourselves. The tiger thus becomes the symbol for the protection of all species on our earth since it is at the top of the food-chain. This is why we sometimes call the tiger, an apex predator and an indicator of our ecosystem&#8217;s health. In short, saving the tiger means saving the earth. Save tigers, save our earth!
 
 <div style="width: 363px" class="wp-caption aligncenter">
-  <img title="Save the Tigers" src="http://ajaymatharu.files.wordpress.com/2010/03/save-tigers.jpg" alt="Save the Tigers" width="353" height="283" />
+  <img title="Save the Tigers" src="https://ajaymatharu.files.wordpress.com/2010/03/save-tigers.jpg" alt="Save the Tigers" width="353" height="283" />
   
   <p class="wp-caption-text">
     Save the Tigers

@@ -5,7 +5,7 @@ title: Google Launch Data Portability Programs
 date: 2008-12-06T18:42:05+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=597
+guid: https://ajaymatharu.wordpress.com/?p=597
 permalink: /google-launch-data-portability-programs/
 ljID:
   - 115

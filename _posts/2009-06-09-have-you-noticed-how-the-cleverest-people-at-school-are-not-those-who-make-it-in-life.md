@@ -5,7 +5,7 @@ title: Have you noticed how the cleverest people at school are not those who mak
 date: 2009-06-09T13:13:17+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1303
+guid: https://www.ajaymatharu.com/?p=1303
 permalink: /have-you-noticed-how-the-cleverest-people-at-school-are-not-those-who-make-it-in-life/
 ljID:
   - 251

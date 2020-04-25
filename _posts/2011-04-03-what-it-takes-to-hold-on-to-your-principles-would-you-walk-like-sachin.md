@@ -5,7 +5,7 @@ title: 'What it takes to hold on to your principles &#8211; Would you walk like 
 date: 2011-04-03T13:44:18+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2628
+guid: https://www.ajaymatharu.com/?p=2628
 permalink: /what-it-takes-to-hold-on-to-your-principles-would-you-walk-like-sachin/
 dsq_thread_id:
   - 465383455

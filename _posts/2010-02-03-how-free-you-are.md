@@ -5,7 +5,7 @@ title: How free you are?
 date: 2010-02-03T14:06:54+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2040
+guid: https://www.ajaymatharu.com/?p=2040
 permalink: /how-free-you-are/
 aktt_notify_twitter:
   - no

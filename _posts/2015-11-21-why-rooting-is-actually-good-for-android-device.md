@@ -5,7 +5,7 @@ title: Why rooting is actually good for android device
 date: 2015-11-21T20:15:44+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=3006
+guid: https://www.ajaymatharu.com/?p=3006
 permalink: /why-rooting-is-actually-good-for-android-device/
 pdrp_attributionLocation:
   - end
@@ -21,7 +21,7 @@ tags:
 <div>
   <div>
     <div id="attachment_3007" style="width: 630px" class="wp-caption alignnone">
-      <img class="size-large wp-image-3007" src="http://www.ajaymatharu.com/wp-content/uploads/2015/11/android_robot_toy-1024x680.jpg" alt="Rooting android" width="620" height="412" srcset="http://www.ajaymatharu.com/wp-content/uploads/2015/11/android_robot_toy-300x199.jpg 300w, http://www.ajaymatharu.com/wp-content/uploads/2015/11/android_robot_toy.jpg 1024w" sizes="(max-width: 620px) 100vw, 620px" />
+      <img class="size-large wp-image-3007" src="https://www.ajaymatharu.com/wp-content/uploads/2015/11/android_robot_toy-1024x680.jpg" alt="Rooting android" width="620" height="412" srcset="https://www.ajaymatharu.com/wp-content/uploads/2015/11/android_robot_toy-300x199.jpg 300w, https://www.ajaymatharu.com/wp-content/uploads/2015/11/android_robot_toy.jpg 1024w" sizes="(max-width: 620px) 100vw, 620px" />
       
       <p class="wp-caption-text">
         Rooting android
@@ -126,7 +126,7 @@ tags:
   </div>
   
   <div>
-    A) The best place to get help to root your device is <a href="http://forum.xda-developers.com/" target="_blank">XDA forum</a>. You should head over to xda, search your device and get started. If you find difficulty in finding a way to root your device, just drop a comment.
+    A) The best place to get help to root your device is <a href="https://forum.xda-developers.com/" target="_blank">XDA forum</a>. You should head over to xda, search your device and get started. If you find difficulty in finding a way to root your device, just drop a comment.
   </div>
   
   <div>
@@ -167,5 +167,5 @@ tags:
 </div>
 
 <div id="pdrp_endAttribution">
-  photo by: <a href="http://flickr.com/49121171@N00/6831724767" target="_blank" class="pdrp_link pdrp_attributionLink"> </a>
+  photo by: <a href="https://flickr.com/49121171@N00/6831724767" target="_blank" class="pdrp_link pdrp_attributionLink"> </a>
 </div>

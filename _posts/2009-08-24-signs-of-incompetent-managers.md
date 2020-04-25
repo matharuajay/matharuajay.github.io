@@ -5,7 +5,7 @@ title: Signs of incompetent managers
 date: 2009-08-24T10:58:58+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1558
+guid: https://www.ajaymatharu.com/?p=1558
 permalink: /signs-of-incompetent-managers/
 dsq_thread_id:
   - 465390141

@@ -5,7 +5,7 @@ title: 'Law of opposites &#8211; cause of problems'
 date: 2009-12-22T10:17:34+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1865
+guid: https://www.ajaymatharu.com/?p=1865
 permalink: /law-of-opposites-cause-of-problems/
 aktt_notify_twitter:
   - yes

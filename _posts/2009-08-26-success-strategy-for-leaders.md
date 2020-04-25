@@ -5,7 +5,7 @@ title: Success strategy for leaders
 date: 2009-08-26T13:19:25+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1562
+guid: https://www.ajaymatharu.com/?p=1562
 permalink: /success-strategy-for-leaders/
 dsq_thread_id:
   - 465384532

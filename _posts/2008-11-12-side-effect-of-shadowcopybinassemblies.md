@@ -5,7 +5,7 @@ title: Side effect of shadowCopyBinAssemblies in web.config
 date: 2008-11-12T15:17:52+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=441
+guid: https://ajaymatharu.wordpress.com/?p=441
 permalink: /side-effect-of-shadowcopybinassemblies/
 ljID:
   - 89

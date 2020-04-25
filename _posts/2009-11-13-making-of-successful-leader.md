@@ -5,7 +5,7 @@ title: Making of successful leader
 date: 2009-11-13T10:44:01+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1817
+guid: https://www.ajaymatharu.com/?p=1817
 permalink: /making-of-successful-leader/
 aktt_notify_twitter:
   - no

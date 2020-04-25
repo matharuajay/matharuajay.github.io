@@ -5,7 +5,7 @@ title: 'Personality types &#8211; Where do you fit in? Test yourself'
 date: 2009-01-30T05:24:39+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=845
+guid: https://ajaymatharu.wordpress.com/?p=845
 permalink: /personality-types-where-do-you-fit-in-test-yourself/
 reddit:
   - 's:63:"s:55:"a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1233798473";}";";'

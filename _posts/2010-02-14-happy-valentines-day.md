@@ -5,7 +5,7 @@ title: Happy Valentines Day
 date: 2010-02-14T16:28:05+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2083
+guid: https://www.ajaymatharu.com/?p=2083
 permalink: /happy-valentines-day/
 aktt_notify_twitter:
   - no

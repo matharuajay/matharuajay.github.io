@@ -5,7 +5,7 @@ title: Confidence the key to success
 date: 2009-05-26T09:54:49+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1246
+guid: https://www.ajaymatharu.com/?p=1246
 permalink: /confidence-the-key-to-success/
 ljID:
   - 241

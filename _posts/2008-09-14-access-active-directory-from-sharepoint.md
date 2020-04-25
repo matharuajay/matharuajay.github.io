@@ -5,7 +5,7 @@ title: Access Active Directory from Sharepoint
 date: 2008-09-14T08:06:46+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=117
+guid: https://ajaymatharu.wordpress.com/?p=117
 permalink: /access-active-directory-from-sharepoint/
 ljID:
   - 22

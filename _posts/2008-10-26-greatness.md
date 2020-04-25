@@ -5,7 +5,7 @@ title: Greatness
 date: 2008-10-26T08:21:18+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=297
+guid: https://ajaymatharu.wordpress.com/?p=297
 permalink: /greatness/
 ljID:
   - 53

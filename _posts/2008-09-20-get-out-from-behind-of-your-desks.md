@@ -5,7 +5,7 @@ title: Get out from behind of your desks
 date: 2008-09-20T08:37:20+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=130
+guid: https://ajaymatharu.wordpress.com/?p=130
 permalink: /get-out-from-behind-of-your-desks/
 ljID:
   - 26

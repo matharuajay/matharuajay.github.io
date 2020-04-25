@@ -7,7 +7,7 @@ title: 'Listening &#8211; The first step in Communication'
 date: 2008-09-03T09:15:13+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=74
+guid: https://ajaymatharu.wordpress.com/?p=74
 permalink: /listening-the-first-step-in-communication/
 ljID:
   - 13

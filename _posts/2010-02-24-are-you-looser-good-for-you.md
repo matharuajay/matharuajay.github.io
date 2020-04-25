@@ -5,7 +5,7 @@ title: Are you looser? Good for you
 date: 2010-02-24T18:22:07+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2081
+guid: https://www.ajaymatharu.com/?p=2081
 permalink: /are-you-looser-good-for-you/
 aktt_notify_twitter:
   - no

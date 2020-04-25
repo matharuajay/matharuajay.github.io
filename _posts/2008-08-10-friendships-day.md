@@ -7,12 +7,12 @@ title: 'Friendship&#8217;s Day'
 date: 2008-08-10T16:20:59+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=45
+guid: https://ajaymatharu.wordpress.com/?p=45
 permalink: /friendships-day/
 image_url:
-  - http://ajaymatharu.wordpress.com/files/2008/08/dscn26881.jpg
+  - https://ajaymatharu.wordpress.com/files/2008/08/dscn26881.jpg
 image_tag:
-  - '<img src="http://ajaymatharu.wordpress.com/files/2008/08/dscn26881.jpg?w=840" class="size-medium wp-image-56"   alt="Tom n Jerry"    />'
+  - '<img src="https://ajaymatharu.wordpress.com/files/2008/08/dscn26881.jpg?w=840" class="size-medium wp-image-56"   alt="Tom n Jerry"    />'
 image_md5:
   - d41d8cd98f00b204e9800998ecf8427e
 image_size:
@@ -41,7 +41,7 @@ categories:
 </p>
 
 <div id="attachment_56" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://ajaymatharu.files.wordpress.com/2008/08/dscn26881.jpg"><img class="size-medium wp-image-56" src="http://ajaymatharu.files.wordpress.com/2008/08/dscn26881.jpg?w=300" alt="Tom n Jerry" width="300" height="225" /></a>
+  <a href="https://ajaymatharu.files.wordpress.com/2008/08/dscn26881.jpg"><img class="size-medium wp-image-56" src="https://ajaymatharu.files.wordpress.com/2008/08/dscn26881.jpg?w=300" alt="Tom n Jerry" width="300" height="225" /></a>
   
   <p class="wp-caption-text">
     Tom n Jerry
@@ -51,7 +51,7 @@ categories:
 <div class="mceTemp">
   <div class="mceTemp">
     <dt class="wp-caption-dt">
-      <a href="http://ajaymatharu.files.wordpress.com/2008/08/dscn2683.jpg"></a>
+      <a href="https://ajaymatharu.files.wordpress.com/2008/08/dscn2683.jpg"></a>
     </dt>
     
     <dd class="wp-caption-dd">

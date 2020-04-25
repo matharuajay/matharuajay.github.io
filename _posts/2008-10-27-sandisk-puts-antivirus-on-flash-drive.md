@@ -5,7 +5,7 @@ title: SanDisk Puts Antivirus on Flash Drive
 date: 2008-10-27T05:24:40+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=318
+guid: https://ajaymatharu.wordpress.com/?p=318
 permalink: /sandisk-puts-antivirus-on-flash-drive/
 ljID:
   - 60

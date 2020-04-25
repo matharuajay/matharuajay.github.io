@@ -5,7 +5,7 @@ title: 10 Signs that change is happening in your life
 date: 2009-10-03T14:45:16+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1702
+guid: https://www.ajaymatharu.com/?p=1702
 permalink: /10-signs-that-change-is-happening-in-your-life/
 dsq_thread_id:
   - 465388766

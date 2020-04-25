@@ -5,7 +5,7 @@ title: 'Team Building &#8211; exercise 3'
 date: 2009-05-12T23:39:44+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1195
+guid: https://www.ajaymatharu.com/?p=1195
 permalink: /team-building-exercise-3/
 ljID:
   - 232

@@ -5,7 +5,7 @@ title: SQL Execute with character string
 date: 2009-03-06T14:18:55+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=844
+guid: https://ajaymatharu.wordpress.com/?p=844
 permalink: /sql-execute-with-character-string/
 ljID:
   - 197

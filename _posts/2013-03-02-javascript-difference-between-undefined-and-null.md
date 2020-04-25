@@ -5,7 +5,7 @@ title: 'JAVASCRIPT: Difference between UNDEFINED and NULL'
 date: 2013-03-02T14:40:37+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2767
+guid: https://www.ajaymatharu.com/?p=2767
 permalink: /javascript-difference-between-undefined-and-null/
 dsq_thread_id:
   - 1113550125

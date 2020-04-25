@@ -5,7 +5,7 @@ title: Benefits and Way to develop Motivation
 date: 2009-11-01T12:50:10+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1759
+guid: https://www.ajaymatharu.com/?p=1759
 permalink: /benefits-and-way-to-develop-motivation/
 aktt_notify_twitter:
   - no

@@ -5,7 +5,7 @@ title: Remove all item level permission on SPListItem
 date: 2008-11-07T15:34:00+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=414
+guid: https://ajaymatharu.wordpress.com/?p=414
 permalink: /remove-all-item-level-permission-on-splistitem/
 ljID:
   - 81

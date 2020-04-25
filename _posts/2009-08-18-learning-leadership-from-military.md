@@ -5,7 +5,7 @@ title: Learning LEADERSHIP from MILITARY
 date: 2009-08-18T14:25:03+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1514
+guid: https://www.ajaymatharu.com/?p=1514
 permalink: /learning-leadership-from-military/
 dsq_thread_id:
   - 465390621

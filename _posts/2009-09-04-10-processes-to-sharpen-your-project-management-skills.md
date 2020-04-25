@@ -5,7 +5,7 @@ title: 10 processes to sharpen your project management skills
 date: 2009-09-04T12:20:01+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1620
+guid: https://www.ajaymatharu.com/?p=1620
 permalink: /10-processes-to-sharpen-your-project-management-skills/
 dsq_thread_id:
   - 465385824

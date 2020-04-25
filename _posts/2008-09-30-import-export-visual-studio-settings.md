@@ -5,7 +5,7 @@ title: 'Import Export Visual Studio Settings &#8211; Tip of Week #2'
 date: 2008-09-30T13:05:49+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=154
+guid: https://ajaymatharu.wordpress.com/?p=154
 permalink: /import-export-visual-studio-settings/
 ljID:
   - 31

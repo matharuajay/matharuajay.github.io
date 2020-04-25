@@ -5,7 +5,7 @@ title: To create and achieve GOALS
 date: 2009-03-21T12:11:27+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=735
+guid: https://ajaymatharu.wordpress.com/?p=735
 permalink: /to-create-and-achieve-goals/
 ljID:
   - 205

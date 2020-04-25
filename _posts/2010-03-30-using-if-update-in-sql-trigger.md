@@ -5,7 +5,7 @@ title: Using IF UPDATE() in SQL Trigger
 date: 2010-03-30T11:35:10+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2199
+guid: https://www.ajaymatharu.com/?p=2199
 permalink: /using-if-update-in-sql-trigger/
 aktt_notify_twitter:
   - no
@@ -46,4 +46,4 @@ The following line check if the Dept of particular employee has been updated, If
 <pre name="code" class="sql">if update (Dept) 
 </pre>
 
-Hope this helps <img src="http://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Hope this helps <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

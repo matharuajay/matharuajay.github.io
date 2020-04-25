@@ -5,7 +5,7 @@ title: 'Bumptop &#8211; A 3D Desktop'
 date: 2008-12-05T14:05:25+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=576
+guid: https://ajaymatharu.wordpress.com/?p=576
 permalink: /bumptop-a-3d-desktop/
 ljID:
   - 111
@@ -18,4 +18,4 @@ tags:
 ---
 Guys check out this 3D Desktop, this one is awesome just have a look.
 
-[youtube=http://in.youtube.com/watch?v=Ntg1Gpgjk-A]
+[youtube=https://in.youtube.com/watch?v=Ntg1Gpgjk-A]

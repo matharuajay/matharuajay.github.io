@@ -5,7 +5,7 @@ title: Do you take things for granted?
 date: 2010-05-04T22:17:10+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2295
+guid: https://www.ajaymatharu.com/?p=2295
 permalink: /do-you-take-things-for-granted/
 dsq_thread_id:
   - 465384798

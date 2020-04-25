@@ -5,7 +5,7 @@ title: How to steal friends and influence people on Facebook
 date: 2008-12-01T12:35:00+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=530
+guid: https://ajaymatharu.wordpress.com/?p=530
 permalink: /how-to-steal-friends-and-influence-people-on-facebook/
 dsq_thread_id:
   - 465386827

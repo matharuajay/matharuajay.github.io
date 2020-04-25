@@ -5,7 +5,7 @@ title: Communication determines how far you will go in your career and relations
 date: 2011-02-22T17:48:32+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2586
+guid: https://www.ajaymatharu.com/?p=2586
 permalink: /communication-determines-how-far-you-will-go-in-your-career-and-relationships/
 dsq_thread_id:
   - 465393212

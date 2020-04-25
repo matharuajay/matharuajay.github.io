@@ -5,7 +5,7 @@ title: Is Firefox secured enough
 date: 2009-02-20T13:08:12+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=908
+guid: https://ajaymatharu.wordpress.com/?p=908
 permalink: /is-firefox-secured-enough/
 ljID:
   - 190
@@ -29,7 +29,7 @@ Mozilla&#8217;s open source Firefox browser has made a significant dent in Inter
 
 Firefox does not automatically ask for elevation when installing, so be sure to run as administrator beforehand if you want it to install the browser into the normal Program Files folder in Windows Vista or another user-securable location. If installed on Vista, Firefox runs as a single process (Firefox.exe) with medium integrity, DEP (Data Execution Prevention) and ASLR (Address Space Layout Randomization) enabled, and file system and registry virtualization disabled. The latter is a feature in Vista that allows users to run applications without having administrative privileges.
 
-Like Google Chrome, Firefox has a JavaScript engine that converts JavaScript source code into native machine code; Firefox uses an open source engine called <a href="https://wiki.mozilla.org/JavaScript:TraceMonkey" target="_blank">TraceMonkey</a>. Unlike Chrome, in which the V8 JavaScript engine is always on, Firefox&#8217;s JavaScript support can be enabled or disabled across the browser. By using the [NoScript add-on](http://noscript.net/), you can enable JavaScript (and Java and Flash) on a per-site basis.
+Like Google Chrome, Firefox has a JavaScript engine that converts JavaScript source code into native machine code; Firefox uses an open source engine called <a href="https://wiki.mozilla.org/JavaScript:TraceMonkey" target="_blank">TraceMonkey</a>. Unlike Chrome, in which the V8 JavaScript engine is always on, Firefox&#8217;s JavaScript support can be enabled or disabled across the browser. By using the [NoScript add-on](https://noscript.net/), you can enable JavaScript (and Java and Flash) on a per-site basis.
 
 Although add-ons such as NoScript, and plug-ins such as Adobe Flash, bring many useful capabilities to Firefox, at the same time they come with problems and security issues of their own. Firefox has a built-in add-on manager that allows you to browse available extensions, install and uninstall them, and enable and disable them, but again, they can&#8217;t be enabled or disabled with per-site granularity.
 
@@ -37,7 +37,7 @@ Security can be defined through the normal Tools > Options menu or by typing &#8
 
 Firefox has a &#8220;safe mode&#8221; that can be launched to recover from disasters. Even better, whereas Internet Explorer only disables all add-ons by default, Firefox Safe Mode allows you to erase the history files, return browser settings to the defaults, make other necessary changes, and then automatically restart in normal mode. It&#8217;s a great little feature.
 
-Firefox passed 9 of the 21 password handling tests on the <a href="http://www.info-svc.com/news/2008/12-12/pm-evaluator/" target="_blank">Password Manager Evaluator</a>. Firefox allows locally stored passwords to be protected by a separate master password, and even tells you how strong your master password is.
+Firefox passed 9 of the 21 password handling tests on the <a href="https://www.info-svc.com/news/2008/12-12/pm-evaluator/" target="_blank">Password Manager Evaluator</a>. Firefox allows locally stored passwords to be protected by a separate master password, and even tells you how strong your master password is.
 
 Naturally, Firefox&#8217;s popularity has brought out the attackers. Many different attacks &#8220;in the wild&#8221; specifically target Firefox users, making it the second-most-attacked browser behind Internet Explorer. Firefox 3.0 has had at least 39 separate vulnerabilities in less than six months (as compared to 154 vulnerabilities for Firefox 2.0 during its lifetime). Seventy-five percent of these exploits were ranked high-criticality, and a third allowed complete system compromise.
 

@@ -5,7 +5,7 @@ title: 'Acer Launches Laptop With Intel&#8217;s Quad-core Chip'
 date: 2008-12-31T03:58:24+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=715
+guid: https://ajaymatharu.wordpress.com/?p=715
 permalink: /acer-launches-laptop-with-intels-quad-core-chip/
 ljID:
   - 143

@@ -7,7 +7,7 @@ title: Using Canonical URL to help solve duplicate content issues
 date: 2009-10-09T17:23:10+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1727
+guid: https://www.ajaymatharu.com/?p=1727
 permalink: /using-canonical-url-to-help-solve-duplicate-content-issues/
 robotsmeta:
   - index,follow
@@ -41,7 +41,7 @@ One of the most common challenges search engines run into when indexing a websit
   
   <tr>
     <td width="190" valign="top">
-      http://mysite.com
+      https://mysite.com
     </td>
     
     <td width="291" valign="top">
@@ -51,7 +51,7 @@ One of the most common challenges search engines run into when indexing a websit
   
   <tr>
     <td width="190" valign="top">
-      http://www.mysite.com
+      https://www.mysite.com
     </td>
     
     <td width="291" valign="top">
@@ -61,7 +61,7 @@ One of the most common challenges search engines run into when indexing a websit
   
   <tr>
     <td width="190" valign="top">
-      http://mysite.com/default.aspx
+      https://mysite.com/default.aspx
     </td>
     
     <td width="291" valign="top">
@@ -71,7 +71,7 @@ One of the most common challenges search engines run into when indexing a websit
   
   <tr>
     <td width="190" valign="top">
-      http://mysite.com/default.aspx?promo=ABC
+      https://mysite.com/default.aspx?promo=ABC
     </td>
     
     <td width="291" valign="top">
@@ -86,7 +86,7 @@ These four cases are just a few of the many possibilities. When you consider all
 
 To help solve this issue, a new tag attribute that will help webmasters identify the single authoritative (or _canonical_) URL for a given page. The link tag defines a relationship between a document and an external resource. In this case, that resource is the canonical URL. The following is an example of the new link tag attribute for canonicalization:
 
-<pre><pre style="margin: 0em; background-color: #ffffff; width: 100%; font-family: consolas,'Courier New',courier,monospace; font-size: 12px;"><span style="color: #0000ff;">&lt;</span><span style="color: #800000;">link</span> <span style="color: #ff0000;">rel</span>=<span style="color: #0000ff;">"canonical"</span> <span style="color: #ff0000;">href</span>=<span style="color: #0000ff;">"http://mysite.com"</span><span style="color: #0000ff;">/&gt;
+<pre><pre style="margin: 0em; background-color: #ffffff; width: 100%; font-family: consolas,'Courier New',courier,monospace; font-size: 12px;"><span style="color: #0000ff;">&lt;</span><span style="color: #800000;">link</span> <span style="color: #ff0000;">rel</span>=<span style="color: #0000ff;">"canonical"</span> <span style="color: #ff0000;">href</span>=<span style="color: #0000ff;">"https://mysite.com"</span><span style="color: #0000ff;">/&gt;
 </span></pre>
 
 

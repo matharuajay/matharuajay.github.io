@@ -7,7 +7,7 @@ title: Why are we not able to progress quickly
 date: 2014-06-28T15:20:28+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2594
+guid: https://www.ajaymatharu.com/?p=2594
 permalink: /why-are-we-not-able-to-progress-quickly/
 dsq_thread_id:
   - 2801751546

@@ -5,7 +5,7 @@ title: Is GOD playing games with us?
 date: 2010-04-19T22:33:28+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2261
+guid: https://www.ajaymatharu.com/?p=2261
 permalink: /is-god-playing-games-with-us/
 aktt_notify_twitter:
   - no

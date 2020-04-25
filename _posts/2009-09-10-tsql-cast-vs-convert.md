@@ -5,7 +5,7 @@ title: TSQL Cast Vs Convert
 date: 2009-09-10T11:02:43+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=663
+guid: https://ajaymatharu.wordpress.com/?p=663
 permalink: /tsql-cast-vs-convert/
 dsq_thread_id:
   - 465387714

@@ -5,7 +5,7 @@ title: What we really need is LOVE
 date: 2009-11-25T10:25:53+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1841
+guid: https://www.ajaymatharu.com/?p=1841
 permalink: /what-we-really-need-is-love/
 aktt_notify_twitter:
   - no

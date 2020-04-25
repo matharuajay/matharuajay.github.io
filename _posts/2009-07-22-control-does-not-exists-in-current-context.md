@@ -5,7 +5,7 @@ title: control does not exists in current context
 date: 2009-07-22T23:24:49+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=665
+guid: https://ajaymatharu.wordpress.com/?p=665
 permalink: /control-does-not-exists-in-current-context/
 ljID:
   - 292
@@ -35,4 +35,4 @@ tags:
 
 <span style="font-size:85%;">So I found that the problem was even though I renamed one of my old files it still contained the class that my codebehind was referencing (i.e. the class names were still the same) &#8211; and therefore was not seeing the newly added Label control to my new code.</span><span style="font-size:85%;">Shame the compiler doesn’t realise the duplication and give some indication.</span>
 
-Lesson: Remove any backed up files from the web folder and/or build directory to avoid pain <img class="wp-smiley" src="http://s.wordpress.com/wp-includes/images/smilies/icon_smile.gif" alt=")" />
+Lesson: Remove any backed up files from the web folder and/or build directory to avoid pain <img class="wp-smiley" src="https://s.wordpress.com/wp-includes/images/smilies/icon_smile.gif" alt=")" />

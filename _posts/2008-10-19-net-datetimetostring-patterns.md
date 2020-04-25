@@ -5,7 +5,7 @@ title: .Net DateTime.ToString() Patterns
 date: 2008-10-19T11:25:10+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=213
+guid: https://ajaymatharu.wordpress.com/?p=213
 permalink: /net-datetimetostring-patterns/
 ljID:
   - 42
@@ -970,7 +970,7 @@ The following details the meaning of each pattern character. Not the **K** and *
     </td>
     
     <td class="TableCell">
-      With <a href="http://www.geekzilla.co.uk/View00FF7904-B510-468C-A2C8-F859AA20581F.htm">DateTime</a> values, represents the signed offset of the local operating system&#8217;s time zone from Coordinated Universal Time (UTC), measured in hours. (e.g. +6)
+      With <a href="https://www.geekzilla.co.uk/View00FF7904-B510-468C-A2C8-F859AA20581F.htm">DateTime</a> values, represents the signed offset of the local operating system&#8217;s time zone from Coordinated Universal Time (UTC), measured in hours. (e.g. +6)
     </td>
   </tr>
   
@@ -990,7 +990,7 @@ The following details the meaning of each pattern character. Not the **K** and *
     </td>
     
     <td class="TableCell">
-      With <a href="http://www.geekzilla.co.uk/View00FF7904-B510-468C-A2C8-F859AA20581F.htm">DateTime</a> values, represents the signed offset of the local operating system&#8217;s time zone from UTC, measured in hours and minutes. (e.g. +06:00)
+      With <a href="https://www.geekzilla.co.uk/View00FF7904-B510-468C-A2C8-F859AA20581F.htm">DateTime</a> values, represents the signed offset of the local operating system&#8217;s time zone from UTC, measured in hours and minutes. (e.g. +06:00)
     </td>
   </tr>
   

@@ -7,7 +7,7 @@ title: Smoke-free workplace policy
 date: 2008-09-28T15:17:58+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=157
+guid: https://ajaymatharu.wordpress.com/?p=157
 permalink: /smoke-free-workplace-policy/
 dsq_thread_id:
   - 465385752

@@ -5,7 +5,7 @@ title: Arm Yourself Against Social Networking
 date: 2008-12-20T09:28:08+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=647
+guid: https://ajaymatharu.wordpress.com/?p=647
 permalink: /arm-yourself-against-social-networking/
 ljID:
   - 130

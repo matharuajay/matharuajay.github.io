@@ -5,7 +5,7 @@ title: Whisper of your soul
 date: 2010-02-10T11:56:50+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2051
+guid: https://www.ajaymatharu.com/?p=2051
 permalink: /whisper-of-your-soul/
 aktt_notify_twitter:
   - no

@@ -5,7 +5,7 @@ title: Google falls from list of most trusted companies
 date: 2008-12-18T05:27:43+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=643
+guid: https://ajaymatharu.wordpress.com/?p=643
 permalink: /google-falls-from-list-of-most-trusted-companies/
 ljID:
   - 128

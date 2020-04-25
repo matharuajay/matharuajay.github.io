@@ -5,7 +5,7 @@ title: Can you manage your Anger?
 date: 2009-02-21T15:28:46+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=917
+guid: https://ajaymatharu.wordpress.com/?p=917
 permalink: /can-you-manage-your-anger/
 ljID:
   - 191

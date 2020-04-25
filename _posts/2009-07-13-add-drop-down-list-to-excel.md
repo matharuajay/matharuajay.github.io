@@ -5,7 +5,7 @@ title: Add drop down list to Excel
 date: 2009-07-13T21:27:38+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=719
+guid: https://ajaymatharu.wordpress.com/?p=719
 permalink: /add-drop-down-list-to-excel/
 ljID:
   - 283
@@ -35,7 +35,7 @@ tags:
   </p>
   
   <p>
-    <img class="aligncenter size-full wp-image-720" title="excel" src="http://ajaymatharu.files.wordpress.com/2008/12/excel.jpg" alt="excel" width="320" height="115" />
+    <img class="aligncenter size-full wp-image-720" title="excel" src="https://ajaymatharu.files.wordpress.com/2008/12/excel.jpg" alt="excel" width="320" height="115" />
   </p>
   
   <p>

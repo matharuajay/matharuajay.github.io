@@ -5,7 +5,7 @@ title: 'You&#8217;ve got to find what you love, Steve Jobs &#8211; Part 3'
 date: 2009-12-02T10:30:08+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1862
+guid: https://www.ajaymatharu.com/?p=1862
 permalink: /youve-got-to-find-what-you-love-steve-jobs-part-3/
 aktt_notify_twitter:
   - no
@@ -27,7 +27,7 @@ tags:
   - Pixar
   - Steve Jobs
 ---
-This is in continuation of my previous two posts, [You&#8217;ve got to find what you love, Steve Jobs &#8211; Part 1](http://www.ajaymatharu.com/youve-got-to-find-what-you-love-steve-jobs-part-1/) and [You&#8217;ve got to find what you love, Steve Jobs &#8211; Part 2](http://www.ajaymatharu.com/youve-got-to-find-what-you-love-steve-jobs-part-2/)
+This is in continuation of my previous two posts, [You&#8217;ve got to find what you love, Steve Jobs &#8211; Part 1](https://www.ajaymatharu.com/youve-got-to-find-what-you-love-steve-jobs-part-1/) and [You&#8217;ve got to find what you love, Steve Jobs &#8211; Part 2](https://www.ajaymatharu.com/youve-got-to-find-what-you-love-steve-jobs-part-2/)
 
 My third story is about death.
 

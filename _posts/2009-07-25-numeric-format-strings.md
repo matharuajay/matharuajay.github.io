@@ -5,7 +5,7 @@ title: Numeric Format Strings
 date: 2009-07-25T12:03:29+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1276
+guid: https://www.ajaymatharu.com/?p=1276
 permalink: /numeric-format-strings/
 dsq_thread_id:
   - 465389612

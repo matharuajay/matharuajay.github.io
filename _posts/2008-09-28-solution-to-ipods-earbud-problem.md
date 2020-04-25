@@ -7,7 +7,7 @@ title: 'Solution to iPods&#8217; earbud problem'
 date: 2008-09-28T15:40:41+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=159
+guid: https://ajaymatharu.wordpress.com/?p=159
 permalink: /solution-to-ipods-earbud-problem/
 dsq_thread_id:
   - 465383715

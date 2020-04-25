@@ -5,7 +5,7 @@ title: 'One Dollar Story &#8211; Family is important'
 date: 2008-11-29T18:19:19+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=520
+guid: https://ajaymatharu.wordpress.com/?p=520
 permalink: /one-dollar-story-family-is-important/
 ljID:
   - 100

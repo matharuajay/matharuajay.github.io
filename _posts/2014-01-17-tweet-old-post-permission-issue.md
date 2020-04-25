@@ -5,7 +5,7 @@ title: Tweet Old Post Permission Issue
 date: 2014-01-17T10:30:04+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2847
+guid: https://www.ajaymatharu.com/?p=2847
 permalink: /tweet-old-post-permission-issue/
 dsq_thread_id:
   - 2132637187
@@ -34,7 +34,7 @@ tags:
 
 <div>
   <div id="attachment_2852" style="width: 173px" class="wp-caption aligncenter">
-    <a href="http://www.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins.png"><img class="size-full wp-image-2852" alt="Plugin Editor" src="http://www.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins.png" width="163" height="156" /></a>
+    <a href="https://www.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins.png"><img class="size-full wp-image-2852" alt="Plugin Editor" src="https://www.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins.png" width="163" height="156" /></a>
     
     <p class="wp-caption-text">
       Plugin Editor
@@ -44,7 +44,7 @@ tags:
 
 <div>
   <div id="attachment_2853" style="width: 723px" class="wp-caption aligncenter">
-    <a href="http://www.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins-Tweet-Old-Post.png"><img class="size-full wp-image-2853 " title="Edit Tweet Old Post" alt="Edit Plugin" src="http://www.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins-Tweet-Old-Post.png" width="713" height="626" srcset="http://www.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins-Tweet-Old-Post-300x263.png 300w, http://www.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins-Tweet-Old-Post.png 713w" sizes="(max-width: 713px) 100vw, 713px" /></a>
+    <a href="https://www.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins-Tweet-Old-Post.png"><img class="size-full wp-image-2853 " title="Edit Tweet Old Post" alt="Edit Plugin" src="https://www.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins-Tweet-Old-Post.png" width="713" height="626" srcset="https://www.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins-Tweet-Old-Post-300x263.png 300w, https://www.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins-Tweet-Old-Post.png 713w" sizes="(max-width: 713px) 100vw, 713px" /></a>
     
     <p class="wp-caption-text">
       Edit Plugin Tweet Old Post

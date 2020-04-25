@@ -5,7 +5,7 @@ title: It’s right to be wrong
 date: 2009-06-19T11:29:57+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1332
+guid: https://www.ajaymatharu.com/?p=1332
 permalink: /it%e2%80%99s-right-to-be-wrong/
 ljID:
   - 259

@@ -130,7 +130,7 @@ Generally, go to `_config.yml` and configure the variables as needed. Some of th
 
 * `timezone`
 
-    To ensure that the posts' release date matches the city you live in, please modify the field `timezone` correctly. A list of all available values can be found on [TimezoneConverter](http://www.timezoneconverter.com/cgi-bin/findzone/findzone) or [Wikipedia](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones).
+    To ensure that the posts' release date matches the city you live in, please modify the field `timezone` correctly. A list of all available values can be found on [TimezoneConverter](https://www.timezoneconverter.com/cgi-bin/findzone/findzone) or [Wikipedia](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones).
 
 * `theme_mode`
   
@@ -150,9 +150,9 @@ You may want to preview the site content before publishing, so just run the scri
 $ bash tools/run.sh
 ```
 
-Open a modern brower and visit at <http://localhost:4000>.
+Open a modern brower and visit at <https://localhost:4000>.
 
-Few days later, you may find that the file modification(e.g. edits to a post) does not refresh in real time by using `run.sh`. Don't worry, the advanced option `-r` (or `--realtime`) will solve this problem, but it requires [**fswatch**](http://emcrisostomo.github.io/fswatch/) to be installed on your machine. Type `-h` for more information.
+Few days later, you may find that the file modification(e.g. edits to a post) does not refresh in real time by using `run.sh`. Don't worry, the advanced option `-r` (or `--realtime`) will solve this problem, but it requires [**fswatch**](https://emcrisostomo.github.io/fswatch/) to be installed on your machine. Type `-h` for more information.
 
 ###  Deploying to GitHub Pages
 

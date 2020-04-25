@@ -5,7 +5,7 @@ title: Bing beats Google to launch twitter search
 date: 2009-07-05T22:15:12+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1415
+guid: https://www.ajaymatharu.com/?p=1415
 permalink: /bing-beats-google-to-launch-twitter-search/
 ljID:
   - 276
@@ -29,7 +29,7 @@ tags:
   - Search Engine
   - Web
 ---
-Day before I posted about <a href="http://www.ajaymatharu.com/2009/07/03/google-vs-bing-has-google-lost/" target="_blank">Bing Vs Google</a>, this is certainly one area where Microsoft Bing has outdone Google.
+Day before I posted about <a href="https://www.ajaymatharu.com/2009/07/03/google-vs-bing-has-google-lost/" target="_blank">Bing Vs Google</a>, this is certainly one area where Microsoft Bing has outdone Google.
 
 Microsoft Corp.&#8217;s Bing has beaten Google Inc. to the punch.
 

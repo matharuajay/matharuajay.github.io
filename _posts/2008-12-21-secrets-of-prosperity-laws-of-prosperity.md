@@ -5,7 +5,7 @@ title: 'Secrets of Prosperity &#8211; Laws of Prosperity'
 date: 2008-12-21T07:47:34+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=582
+guid: https://ajaymatharu.wordpress.com/?p=582
 permalink: /secrets-of-prosperity-laws-of-prosperity/
 ljID:
   - 131

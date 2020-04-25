@@ -5,7 +5,7 @@ title: Apple asks court to ban Google Phones
 date: 2010-03-04T22:57:03+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2109
+guid: https://www.ajaymatharu.com/?p=2109
 permalink: /apple-asks-court-to-ban-google-phones/
 aktt_notify_twitter:
   - no

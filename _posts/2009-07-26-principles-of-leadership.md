@@ -5,7 +5,7 @@ title: Principles of leadership
 date: 2009-07-26T23:51:52+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=992
+guid: https://www.ajaymatharu.com/?p=992
 permalink: /principles-of-leadership/
 bte_opp_original_pub_date:
   - 2009-03-03 23:14:41

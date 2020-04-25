@@ -5,7 +5,7 @@ title: 'Interviewers: Don&#8217;t be afraid to go negative'
 date: 2010-05-01T13:29:52+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1618
+guid: https://www.ajaymatharu.com/?p=1618
 permalink: /interviewers-dont-be-afraid-to-go-negative/
 aktt_notify_twitter:
   - no

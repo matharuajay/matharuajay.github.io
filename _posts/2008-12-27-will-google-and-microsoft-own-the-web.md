@@ -5,7 +5,7 @@ title: Will Google and Microsoft Own the Web?
 date: 2008-12-27T06:50:54+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=676
+guid: https://ajaymatharu.wordpress.com/?p=676
 permalink: /will-google-and-microsoft-own-the-web/
 ljID:
   - 138

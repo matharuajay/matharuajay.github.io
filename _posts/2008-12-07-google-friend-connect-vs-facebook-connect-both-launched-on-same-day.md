@@ -5,7 +5,7 @@ title: 'Google Friend Connect Vs Facebook Connect &#8211; Both launched on same 
 date: 2008-12-07T09:22:11+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=604
+guid: https://ajaymatharu.wordpress.com/?p=604
 permalink: /google-friend-connect-vs-facebook-connect-both-launched-on-same-day/
 ljID:
   - 116

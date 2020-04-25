@@ -5,7 +5,7 @@ title: 'GOOGLE Chrome OS &#8211; Can it kill MICROSOFT?'
 date: 2009-07-09T13:56:29+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1483
+guid: https://www.ajaymatharu.com/?p=1483
 permalink: /google-chrome-os-can-it-kill-microsoft/
 ljID:
   - 281

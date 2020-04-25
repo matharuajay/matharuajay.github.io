@@ -5,7 +5,7 @@ title: 'Block Selection &#8211; Tip of week #4'
 date: 2008-10-14T04:52:00+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=207
+guid: https://ajaymatharu.wordpress.com/?p=207
 permalink: /block-selection-tip-of-week-4/
 ljID:
   - 41
@@ -24,7 +24,7 @@ tags:
 
 <a name="visualstudiohks-CHP-2-FIG-2"></a>
 
-[<img class="aligncenter size-full wp-image-208" title="normaltext" src="http://ajaymatharu.files.wordpress.com/2008/10/normaltext.jpg" alt="" width="450" height="131" />](http://ajaymatharu.files.wordpress.com/2008/10/normaltext.jpg)
+[<img class="aligncenter size-full wp-image-208" title="normaltext" src="https://ajaymatharu.files.wordpress.com/2008/10/normaltext.jpg" alt="" width="450" height="131" />](https://ajaymatharu.files.wordpress.com/2008/10/normaltext.jpg)
 
 <p class="docText">
   Visual Studio has a feature that allows you to get around this limitation. By holding the Alt key while selecting text, you trigger <span class="docEmphasis">block selection</span>, which allows you to select text regardless of what line it is on. <a class="docLink" href="#visualstudiohks-CHP-2-FIG-3">Figure 2-3</a> shows how block selection can be used to select only text to the right of the equals sign.
@@ -32,7 +32,7 @@ tags:
 
 <a name="visualstudiohks-CHP-2-FIG-3"></a>
 
-##### [<img class="aligncenter size-full wp-image-209" title="block" src="http://ajaymatharu.files.wordpress.com/2008/10/block.jpg" alt="" width="450" height="128" />](http://ajaymatharu.files.wordpress.com/2008/10/block.jpg) {.docFigureTitle}
+##### [<img class="aligncenter size-full wp-image-209" title="block" src="https://ajaymatharu.files.wordpress.com/2008/10/block.jpg" alt="" width="450" height="128" />](https://ajaymatharu.files.wordpress.com/2008/10/block.jpg) {.docFigureTitle}
 
 <p class="docText">
   Block selection can be used to select any amount of text in a block, as opposed to line by line. You can use block selection whether you select text with the mouse or the <a name="visualstudiohks-CHP-2-ITERM-2256"></a>keyboard (hold down Alt and Shift, and press the arrow keys to perform a block selection with the keyboard).

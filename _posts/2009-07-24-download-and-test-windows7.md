@@ -5,7 +5,7 @@ title: Download and Test Windows7
 date: 2009-07-24T09:34:41+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=765
+guid: https://ajaymatharu.wordpress.com/?p=765
 permalink: /download-and-test-windows7/
 reddit:
   - 's:63:"s:55:"a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1231711569";}";";'
@@ -40,4 +40,4 @@ To install the beta, users must have a DVD drive able to burn disk images to a b
 
 The beta expires on Aug. 1, 2009.
 
-The <a href="http://www.microsoft.com/windows/windows-7/" target="_blank">Windows 7 download</a> will be posted to Microsoft&#8217;s site on Friday, Jan. 9.
+The <a href="https://www.microsoft.com/windows/windows-7/" target="_blank">Windows 7 download</a> will be posted to Microsoft&#8217;s site on Friday, Jan. 9.

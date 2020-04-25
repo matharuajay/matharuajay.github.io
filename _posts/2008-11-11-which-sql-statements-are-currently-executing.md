@@ -5,7 +5,7 @@ title: Which SQL Statements Are Currently Executing
 date: 2008-11-11T15:20:47+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=361
+guid: https://ajaymatharu.wordpress.com/?p=361
 permalink: /which-sql-statements-are-currently-executing/
 ljID:
   - 88
@@ -296,4 +296,4 @@ Since the utility uses existing data held in DMVs it is relatively non-intrusive
 
 If the identified queries are long running or causing blocking, it might be worthwhile running them inside the Database Tuning Advisor (DTA), this might identify the cause of the slow running (e.g. a missing index).
 
-For more information visit : <http://www.sqlservercentral.com/articles/DMV/64425/>
+For more information visit : <https://www.sqlservercentral.com/articles/DMV/64425/>

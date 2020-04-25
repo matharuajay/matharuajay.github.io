@@ -5,7 +5,7 @@ title: BlackBerry used by terrorists in Mumbai attacks
 date: 2008-12-02T06:58:49+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=547
+guid: https://ajaymatharu.wordpress.com/?p=547
 permalink: /blackberry-used-by-terrorists-in-mumbai-attacks/
 ljID:
   - 108

@@ -5,7 +5,7 @@ title: 9 Strategies to Getting Things Done At Work
 date: 2009-09-14T11:23:36+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1639
+guid: https://www.ajaymatharu.com/?p=1639
 permalink: /9-strategies-to-getting-things-done-at-work/
 dsq_thread_id:
   - 465385907

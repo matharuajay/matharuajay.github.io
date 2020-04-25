@@ -5,7 +5,7 @@ title: What is true meaning of Diwali?
 date: 2009-07-24T09:34:42+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=331
+guid: https://ajaymatharu.wordpress.com/?p=331
 permalink: /true-meaning-of-diwali/
 bte_opp_original_pub_date:
   - 2008-10-28 10:44:27

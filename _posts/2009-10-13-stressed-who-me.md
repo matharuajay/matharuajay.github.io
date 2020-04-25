@@ -5,7 +5,7 @@ title: Stressed? Who, Me?
 date: 2009-10-13T13:32:59+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1736
+guid: https://www.ajaymatharu.com/?p=1736
 permalink: /stressed-who-me/
 robotsmeta:
   - index,follow

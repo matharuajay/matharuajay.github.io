@@ -5,7 +5,7 @@ title: '10 management techniques we&#8217;d love to see'
 date: 2009-09-03T20:38:05+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1622
+guid: https://www.ajaymatharu.com/?p=1622
 permalink: /10-management-techniques-wed-love-to-see/
 dsq_thread_id:
   - 465389875

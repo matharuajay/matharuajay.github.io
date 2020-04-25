@@ -5,7 +5,7 @@ title: Do not covet your ideas
 date: 2009-06-23T10:21:54+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1315
+guid: https://www.ajaymatharu.com/?p=1315
 permalink: /do-not-covet-your-ideas/
 ljID:
   - 265

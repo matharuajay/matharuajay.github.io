@@ -5,7 +5,7 @@ title: What Cloud Computing exactly is?
 date: 2009-01-06T08:56:39+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=706
+guid: https://ajaymatharu.wordpress.com/?p=706
 permalink: /what-cloud-computing-exactly-is/
 delicious:
   - 's:86:"s:78:"a:3:{s:5:"count";s:1:"1";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1231563588";}";";'

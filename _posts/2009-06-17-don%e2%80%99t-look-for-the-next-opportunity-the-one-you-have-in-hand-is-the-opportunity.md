@@ -5,7 +5,7 @@ title: Don’t look for the next opportunity. The one you have in hand is the op
 date: 2009-06-17T10:33:25+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1317
+guid: https://www.ajaymatharu.com/?p=1317
 permalink: /don%e2%80%99t-look-for-the-next-opportunity-the-one-you-have-in-hand-is-the-opportunity/
 ljID:
   - 257

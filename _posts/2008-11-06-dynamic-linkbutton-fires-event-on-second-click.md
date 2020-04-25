@@ -5,7 +5,7 @@ title: Dynamic Linkbutton fires event on second click
 date: 2008-11-06T15:07:38+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=410
+guid: https://ajaymatharu.wordpress.com/?p=410
 permalink: /dynamic-linkbutton-fires-event-on-second-click/
 ljID:
   - 80

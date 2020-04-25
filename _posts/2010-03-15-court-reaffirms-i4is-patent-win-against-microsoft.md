@@ -5,7 +5,7 @@ title: 'Court Reaffirms I4i&#8217;s Patent Win Against Microsoft'
 date: 2010-03-15T14:59:56+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2122
+guid: https://www.ajaymatharu.com/?p=2122
 permalink: /court-reaffirms-i4is-patent-win-against-microsoft/
 aktt_notify_twitter:
   - no
@@ -26,7 +26,7 @@ tags:
 ---
 <div>
   <div style="width: 210px" class="wp-caption alignleft">
-    <img title="I4I" src="http://ajaymatharu.files.wordpress.com/2010/03/i4i.jpg" alt="I4I" width="200" height="200" />
+    <img title="I4I" src="https://ajaymatharu.files.wordpress.com/2010/03/i4i.jpg" alt="I4I" width="200" height="200" />
     
     <p class="wp-caption-text">
       I4I
@@ -34,7 +34,7 @@ tags:
   </div>
   
   <div style="width: 210px" class="wp-caption alignright">
-    <img title="Microsoft" src="http://ajaymatharu.files.wordpress.com/2010/03/officeword.png" alt="Microsoft Word" width="200" height="200" />
+    <img title="Microsoft" src="https://ajaymatharu.files.wordpress.com/2010/03/officeword.png" alt="Microsoft Word" width="200" height="200" />
     
     <p class="wp-caption-text">
       Microsoft Word

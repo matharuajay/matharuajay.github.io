@@ -5,7 +5,7 @@ title: Are you a good human being?
 date: 2009-10-23T13:31:18+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1749
+guid: https://www.ajaymatharu.com/?p=1749
 permalink: /are-you-a-good-human-being/
 aktt_notify_twitter:
   - no

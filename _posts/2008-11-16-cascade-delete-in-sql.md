@@ -5,7 +5,7 @@ title: Cascade Delete in SQL
 date: 2008-11-16T07:28:47+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=451
+guid: https://ajaymatharu.wordpress.com/?p=451
 permalink: /cascade-delete-in-sql/
 ljID:
   - 92

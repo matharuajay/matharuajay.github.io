@@ -5,7 +5,7 @@ title: Is that Apple full of Worms?
 date: 2009-02-01T05:56:31+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=906
+guid: https://ajaymatharu.wordpress.com/?p=906
 permalink: /is-that-apple-full-of-worms/
 reddit:
   - 's:63:"s:55:"a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1233798471";}";";'

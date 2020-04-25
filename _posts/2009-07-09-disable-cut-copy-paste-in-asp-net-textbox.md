@@ -5,7 +5,7 @@ title: 'Disable Cut, Copy &#038; Paste in ASP.Net textbox'
 date: 2009-07-09T00:57:44+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1473
+guid: https://www.ajaymatharu.com/?p=1473
 permalink: /disable-cut-copy-paste-in-asp-net-textbox/
 ljID:
   - 280

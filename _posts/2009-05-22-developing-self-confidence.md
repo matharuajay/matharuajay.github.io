@@ -5,7 +5,7 @@ title: Developing Self-Confidence
 date: 2009-05-22T10:38:03+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1254
+guid: https://www.ajaymatharu.com/?p=1254
 permalink: /developing-self-confidence/
 ljID:
   - 238

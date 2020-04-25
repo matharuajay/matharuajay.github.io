@@ -5,7 +5,7 @@ title: Some Self Management Tips
 date: 2009-07-20T10:08:38+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=465
+guid: https://ajaymatharu.wordpress.com/?p=465
 permalink: /some-self-management-tips/
 ljID:
   - 288

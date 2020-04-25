@@ -5,7 +5,7 @@ title: Error Creating Sharepoint Site
 date: 2008-09-16T05:23:50+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=136
+guid: https://ajaymatharu.wordpress.com/?p=136
 permalink: /error-creating-sharepoint-site/
 ljID:
   - 24
@@ -43,7 +43,7 @@ to reset IIS &#8220;IISRESET /NOFORCE&#8221;
 After resetting the IIS run the following command
 
 <p align="left">
-  <span><span style="font-family:Calibri;"><span style="font-size:small;">&#8220;C:\PROGRAM FILES\COMMON FILES\MICROSOFT SHARED\WEB SERVER EXTENSIONS\12\BIN\STSADM.exe&#8221; -O CREATESITE -URL </span><a title="http://servername" href="http://servername/"><span style="font-size:small;">http://<em>servername</em></span></a><span style="font-size:small;"><em> </em><span> </span>-OWNEREMAIL <em><e-mail></em> -OWNERLOGIN <em><domain\username></em></span></span></span>
+  <span><span style="font-family:Calibri;"><span style="font-size:small;">&#8220;C:\PROGRAM FILES\COMMON FILES\MICROSOFT SHARED\WEB SERVER EXTENSIONS\12\BIN\STSADM.exe&#8221; -O CREATESITE -URL </span><a title="https://servername" href="https://servername/"><span style="font-size:small;">https://<em>servername</em></span></a><span style="font-size:small;"><em> </em><span> </span>-OWNEREMAIL <em><e-mail></em> -OWNERLOGIN <em><domain\username></em></span></span></span>
 </p>
 
 <p align="left">

@@ -5,7 +5,7 @@ title: CSS Properties To JavaScript Reference Conversion
 date: 2009-04-09T11:17:34+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1132
+guid: https://www.ajaymatharu.com/?p=1132
 permalink: /css-properties-to-javascript-reference-conversion/
 aktt_notify_twitter:
   - no

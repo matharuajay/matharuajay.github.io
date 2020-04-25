@@ -5,7 +5,7 @@ title: Three points for greater results
 date: 2009-10-06T12:24:38+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1704
+guid: https://www.ajaymatharu.com/?p=1704
 permalink: /three-points-for-greater-results/
 robotsmeta:
   - index,follow

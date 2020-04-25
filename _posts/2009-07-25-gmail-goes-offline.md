@@ -5,7 +5,7 @@ title: GMail Goes Offline
 date: 2009-07-25T12:03:36+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=901
+guid: https://ajaymatharu.wordpress.com/?p=901
 permalink: /gmail-goes-offline/
 reddit:
   - 's:63:"s:55:"a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1233798473";}";";'
@@ -29,7 +29,7 @@ tags:
   - Technology
   - Web
 ---
-If you live in Gmail, but don’t always have a broadband connection available, today should be a happy day for you. Google is rolling out a new system for <a href="http://gmailblog.blogspot.com/2009/01/new-in-labs-offline-gmail.html" target="_blank">letting Gmail users access their accounts offline</a>. Google will cache your messages on your system using Google Gears. You’ll be able to open your browser to Gmail.com, see your inbox, read and label messages and even write replies without a Net connection. Your messages will send once your system reconnects to the Web.
+If you live in Gmail, but don’t always have a broadband connection available, today should be a happy day for you. Google is rolling out a new system for <a href="https://gmailblog.blogspot.com/2009/01/new-in-labs-offline-gmail.html" target="_blank">letting Gmail users access their accounts offline</a>. Google will cache your messages on your system using Google Gears. You’ll be able to open your browser to Gmail.com, see your inbox, read and label messages and even write replies without a Net connection. Your messages will send once your system reconnects to the Web.
 
 The system is beta (of course) and accessible through Gmail Labs. But it won’t be immediately available to everyone – Google is parsing out access as it experiments with the new feature. I don’t have access to the new feature yet, so I’ve still got lots of questions. But Google’s post makes it sound like the experience will be almost indistinguishable from using Gmail normally.
 

@@ -5,7 +5,7 @@ title: Indian And Foreign Monetary Terms
 date: 2009-05-30T13:38:06+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1280
+guid: https://www.ajaymatharu.com/?p=1280
 permalink: /indian-and-foreign-monetary-terms/
 dsq_thread_id:
   - 465386919

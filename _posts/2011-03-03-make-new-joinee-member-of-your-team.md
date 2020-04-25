@@ -5,7 +5,7 @@ title: Make new joinee member of your team
 date: 2011-03-03T00:03:51+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2590
+guid: https://www.ajaymatharu.com/?p=2590
 permalink: /make-new-joinee-member-of-your-team/
 dsq_thread_id:
   - 465390916

@@ -5,7 +5,7 @@ title: Steps to resolve serious conflicts with managers
 date: 2009-09-01T13:23:23+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1627
+guid: https://www.ajaymatharu.com/?p=1627
 permalink: /steps-to-resolve-serious-conflicts-with-managers/
 dsq_thread_id:
   - 465384953

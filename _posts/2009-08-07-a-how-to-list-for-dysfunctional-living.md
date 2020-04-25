@@ -5,7 +5,7 @@ title: A How-To list for Dysfunctional Living
 date: 2009-08-07T22:17:53+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1506
+guid: https://www.ajaymatharu.com/?p=1506
 permalink: /a-how-to-list-for-dysfunctional-living/
 dsq_thread_id:
   - 465390277

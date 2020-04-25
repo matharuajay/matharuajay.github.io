@@ -5,7 +5,7 @@ title: Want to boost your self confidence?
 date: 2010-02-04T12:26:50+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2053
+guid: https://www.ajaymatharu.com/?p=2053
 permalink: /want-to-boost-your-self-confidence/
 aktt_notify_twitter:
   - no

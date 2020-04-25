@@ -5,7 +5,7 @@ title: Don’t give a speech put on a show
 date: 2009-06-02T10:08:22+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1336
+guid: https://www.ajaymatharu.com/?p=1336
 permalink: /don%e2%80%99t-give-a-speech-put-on-a-show/
 ljID:
   - 245

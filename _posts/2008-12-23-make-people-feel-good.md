@@ -5,7 +5,7 @@ title: Make people feel good
 date: 2008-12-23T05:22:30+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=661
+guid: https://ajaymatharu.wordpress.com/?p=661
 permalink: /make-people-feel-good/
 ljID:
   - 133

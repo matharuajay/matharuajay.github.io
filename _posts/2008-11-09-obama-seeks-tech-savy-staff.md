@@ -5,7 +5,7 @@ title: Obama seeks Tech-savy staff
 date: 2008-11-09T16:22:09+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=429
+guid: https://ajaymatharu.wordpress.com/?p=429
 permalink: /obama-seeks-tech-savy-staff/
 ljID:
   - 84

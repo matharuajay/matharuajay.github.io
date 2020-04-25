@@ -5,7 +5,7 @@ title: Using case conditions in SQL
 date: 2009-04-06T10:28:43+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1115
+guid: https://www.ajaymatharu.com/?p=1115
 permalink: /using-case-conditions-in-sql/
 aktt_notify_twitter:
   - no

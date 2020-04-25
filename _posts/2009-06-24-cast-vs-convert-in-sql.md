@@ -5,7 +5,7 @@ title: Cast Vs Convert in SQL
 date: 2009-06-24T16:24:17+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1376
+guid: https://www.ajaymatharu.com/?p=1376
 permalink: /cast-vs-convert-in-sql/
 ljID:
   - 266

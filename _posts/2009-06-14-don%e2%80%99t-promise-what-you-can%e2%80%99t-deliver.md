@@ -5,7 +5,7 @@ title: Don’t promise what you can’t deliver
 date: 2009-06-14T01:30:51+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1319
+guid: https://www.ajaymatharu.com/?p=1319
 permalink: /don%e2%80%99t-promise-what-you-can%e2%80%99t-deliver/
 ljID:
   - 255

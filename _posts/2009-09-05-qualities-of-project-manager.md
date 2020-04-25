@@ -5,7 +5,7 @@ title: Qualities of project manager
 date: 2009-09-05T10:20:01+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1589
+guid: https://www.ajaymatharu.com/?p=1589
 permalink: /qualities-of-project-manager/
 dsq_thread_id:
   - 465385717

@@ -5,7 +5,7 @@ title: Handling negative thoughts
 date: 2008-02-23T14:33:57+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=13
+guid: https://ajaymatharu.wordpress.com/?p=13
 permalink: /handling-negative-thoughts/
 ljID:
   - 7

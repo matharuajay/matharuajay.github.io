@@ -5,7 +5,7 @@ title: Identify companies culture before you take the job
 date: 2009-08-14T12:49:04+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1564
+guid: https://www.ajaymatharu.com/?p=1564
 permalink: /identify-companies-culture-before-you-take-the-job/
 dsq_thread_id:
   - 465390308

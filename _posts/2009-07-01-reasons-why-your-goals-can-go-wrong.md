@@ -5,7 +5,7 @@ title: Reasons why your goals can go wrong
 date: 2009-07-01T10:03:00+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1288
+guid: https://www.ajaymatharu.com/?p=1288
 permalink: /reasons-why-your-goals-can-go-wrong/
 ljID:
   - 272

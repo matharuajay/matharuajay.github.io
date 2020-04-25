@@ -5,7 +5,7 @@ title: 7 best Firefox addons for Web Developers
 date: 2010-03-20T11:21:48+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2149
+guid: https://www.ajaymatharu.com/?p=2149
 permalink: /7-best-firefox-addons-for-web-developers/
 aktt_notify_twitter:
   - no
@@ -32,13 +32,13 @@ tags:
 ---
 I really like to work on Firefox than on any other browser. It is extremely developer friendly and have lots of addons to customize Firefox as per your requirement. I love some of the plugins that help me do my work best and faster. I suggest all the web developers to use these.  ﻿Here are list of the 7 best Firefox addons for Developers.
 
-<a title="Firebug" href="http://http/getfirebug.com/" target="_blank"><strong>Firebug</strong></a>
+<a title="Firebug" href="https://http/getfirebug.com/" target="_blank"><strong>Firebug</strong></a>
 
 <p style="text-align: center;">
   <strong></p> 
   
   <div id="attachment_2151" style="width: 710px" class="wp-caption aligncenter">
-    <strong><img class="size-large wp-image-2151 " title="firebug" src="http://www.ajaymatharu.com/wp-content/uploads/2010/03/firebug1-1024x308.png" alt="Firebug" width="700" height="308" /></strong>
+    <strong><img class="size-large wp-image-2151 " title="firebug" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/firebug1-1024x308.png" alt="Firebug" width="700" height="308" /></strong>
     
     <p class="wp-caption-text">
       Firebug
@@ -77,11 +77,11 @@ I really like to work on Firefox than on any other browser. It is extremely deve
   </ul>
   
   <p>
-    <a title="Fire Query" href="http://firequery.binaryage.com/" target="_blank">Fire Query</a>
+    <a title="Fire Query" href="https://firequery.binaryage.com/" target="_blank">Fire Query</a>
   </p>
   
   <div id="attachment_2161" style="width: 778px" class="wp-caption aligncenter">
-    <img class="size-full wp-image-2161" title="FireQuery" src="http://www.ajaymatharu.com/wp-content/uploads/2010/03/jquerify1.png" alt="FireQuery" width="768" height="597" srcset="http://www.ajaymatharu.com/wp-content/uploads/2010/03/jquerify1-300x233.png 300w, http://www.ajaymatharu.com/wp-content/uploads/2010/03/jquerify1.png 768w" sizes="(max-width: 768px) 100vw, 768px" />
+    <img class="size-full wp-image-2161" title="FireQuery" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/jquerify1.png" alt="FireQuery" width="768" height="597" srcset="https://www.ajaymatharu.com/wp-content/uploads/2010/03/jquerify1-300x233.png 300w, https://www.ajaymatharu.com/wp-content/uploads/2010/03/jquerify1.png 768w" sizes="(max-width: 768px) 100vw, 768px" />
     
     <p class="wp-caption-text">
       FireQuery
@@ -98,11 +98,11 @@ I really like to work on Firefox than on any other browser. It is extremely deve
   </ul>
   
   <p>
-    <a title="ColorZilla" href="http://www.colorzilla.com/firefox/" target="_blank">Colorzilla</a>
+    <a title="ColorZilla" href="https://www.colorzilla.com/firefox/" target="_blank">Colorzilla</a>
   </p>
   
   <div id="attachment_2154" style="width: 300px" class="wp-caption aligncenter">
-    <img class="size-full wp-image-2154" title="colorzilla" src="http://www.ajaymatharu.com/wp-content/uploads/2010/03/colorzilla.png" alt="ColorZilla" width="290" height="462" />
+    <img class="size-full wp-image-2154" title="colorzilla" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/colorzilla.png" alt="ColorZilla" width="290" height="462" />
     
     <p class="wp-caption-text">
       ColorZilla
@@ -128,12 +128,12 @@ I really like to work on Firefox than on any other browser. It is extremely deve
   </ul>
   
   <p>
-    <a href="http://developer.yahoo.com/yslow/help/index.html" target="_blank">YSlow</a>
+    <a href="https://developer.yahoo.com/yslow/help/index.html" target="_blank">YSlow</a>
   </p>
   
   <p style="text-align: center;">
     <div id="attachment_2155" style="width: 710px" class="wp-caption aligncenter">
-      <img class="size-large wp-image-2155  " title="yslow" src="http://www.ajaymatharu.com/wp-content/uploads/2010/03/yslow-1024x305.png" alt="YSlow" width="700" height="205" />
+      <img class="size-large wp-image-2155  " title="yslow" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/yslow-1024x305.png" alt="YSlow" width="700" height="205" />
       
       <p class="wp-caption-text">
         YSlow
@@ -172,11 +172,11 @@ I really like to work on Firefox than on any other browser. It is extremely deve
     </p>
     
     <p>
-      <a href="http://www.screengrab.org/">Screen Grab</a>
+      <a href="https://www.screengrab.org/">Screen Grab</a>
     </p>
     
     <div id="attachment_2156" style="width: 441px" class="wp-caption aligncenter">
-      <img class="size-full wp-image-2156" title="Screen Grab" src="http://www.ajaymatharu.com/wp-content/uploads/2010/03/screen-grab.png" alt="" width="431" height="570" />
+      <img class="size-full wp-image-2156" title="Screen Grab" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/screen-grab.png" alt="" width="431" height="570" />
       
       <p class="wp-caption-text">
         Screen Grab
@@ -200,11 +200,11 @@ I really like to work on Firefox than on any other browser. It is extremely deve
       </ul>
       
       <p>
-        <a href="http://webdevelopertoolbar.com/">Web Developer Toolbar</a>
+        <a href="https://webdevelopertoolbar.com/">Web Developer Toolbar</a>
       </p>
       
       <div id="attachment_2157" style="width: 710px" class="wp-caption aligncenter">
-        <img class="size-full wp-image-2157" title="Web Developer Toolbar" src="http://www.ajaymatharu.com/wp-content/uploads/2010/03/web-developer-toolbar.png" alt="" width="700" height="58" />
+        <img class="size-full wp-image-2157" title="Web Developer Toolbar" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/web-developer-toolbar.png" alt="" width="700" height="58" />
         
         <p class="wp-caption-text">
           Web Developer Toolbar
@@ -240,11 +240,11 @@ I really like to work on Firefox than on any other browser. It is extremely deve
         </ul>
         
         <p>
-          <a href="http://www.sxipper.com/">Sxipper</a>
+          <a href="https://www.sxipper.com/">Sxipper</a>
         </p>
         
         <div id="attachment_2159" style="width: 512px" class="wp-caption aligncenter">
-          <img class="size-full wp-image-2159" title="Sxipper" src="http://www.ajaymatharu.com/wp-content/uploads/2010/03/sxipper1.png" alt="" width="502" height="401" />
+          <img class="size-full wp-image-2159" title="Sxipper" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/sxipper1.png" alt="" width="502" height="401" />
           
           <p class="wp-caption-text">
             Sxipper Default
@@ -253,7 +253,7 @@ I really like to work on Firefox than on any other browser. It is extremely deve
         
         <p style="text-align: center;">
           <div id="attachment_2158" style="width: 491px" class="wp-caption aligncenter">
-            <img class="size-full wp-image-2158" title="Sxipper when focus on Field" src="http://www.ajaymatharu.com/wp-content/uploads/2010/03/sxipper.png" alt="" width="481" height="401" srcset="http://www.ajaymatharu.com/wp-content/uploads/2010/03/sxipper-300x250.png 300w, http://www.ajaymatharu.com/wp-content/uploads/2010/03/sxipper.png 481w" sizes="(max-width: 481px) 100vw, 481px" />
+            <img class="size-full wp-image-2158" title="Sxipper when focus on Field" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/sxipper.png" alt="" width="481" height="401" srcset="https://www.ajaymatharu.com/wp-content/uploads/2010/03/sxipper-300x250.png 300w, https://www.ajaymatharu.com/wp-content/uploads/2010/03/sxipper.png 481w" sizes="(max-width: 481px) 100vw, 481px" />
             
             <p class="wp-caption-text">
               Sxipper when focus on Field
@@ -277,5 +277,5 @@ I really like to work on Firefox than on any other browser. It is extremely deve
             </ul>
             
             <p>
-              If you have more please share it with me and everyone <img src="http://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+              If you have more please share it with me and everyone <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
             </p>

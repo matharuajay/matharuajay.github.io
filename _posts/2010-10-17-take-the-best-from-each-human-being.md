@@ -5,7 +5,7 @@ title: Take the best from each human being
 date: 2010-10-17T16:25:15+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2352
+guid: https://www.ajaymatharu.com/?p=2352
 permalink: /take-the-best-from-each-human-being/
 dsq_thread_id:
   - 465383770

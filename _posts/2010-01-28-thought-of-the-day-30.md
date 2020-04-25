@@ -5,7 +5,7 @@ title: 'Thought of the day &#8211; #30'
 date: 2010-01-28T09:53:01+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2026
+guid: https://www.ajaymatharu.com/?p=2026
 permalink: /thought-of-the-day-30/
 aktt_notify_twitter:
   - no

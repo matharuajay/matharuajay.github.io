@@ -5,7 +5,7 @@ title: Suffering becuase of desire?
 date: 2010-01-19T10:27:56+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1961
+guid: https://www.ajaymatharu.com/?p=1961
 permalink: /suffering-becuase-of-desire/
 aktt_notify_twitter:
   - no

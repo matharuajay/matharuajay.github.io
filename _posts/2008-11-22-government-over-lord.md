@@ -5,7 +5,7 @@ title: Government over Lord
 date: 2008-11-22T10:05:17+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=401
+guid: https://ajaymatharu.wordpress.com/?p=401
 permalink: /government-over-lord/
 dsq_thread_id:
   - 465385183

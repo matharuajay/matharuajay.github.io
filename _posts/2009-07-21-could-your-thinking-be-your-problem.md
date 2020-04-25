@@ -5,7 +5,7 @@ title: Could your THINKING be your PROBLEM
 date: 2009-07-21T10:12:21+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1504
+guid: https://www.ajaymatharu.com/?p=1504
 permalink: /could-your-thinking-be-your-problem/
 ljID:
   - 289

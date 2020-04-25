@@ -5,7 +5,7 @@ title: Google Releases Net Neutrality Tools
 date: 2009-02-15T15:23:29+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=899
+guid: https://ajaymatharu.wordpress.com/?p=899
 permalink: /google-releases-net-neutrality-tools/
 ljID:
   - 185
@@ -24,7 +24,7 @@ tags:
 ---
 Google and a group of partners have released a set of tools designed to help broadband customers and researchers measure performance of Internet connections.
 
-The set of tools, at <a href="http://measurementlab.net/" target="_blank">MeasurementLab.net</a>, includes a network diagnostic tool, a network path diagnostic tool and a tool to measure whether the user&#8217;s broadband provider is slowing BitTorrent peer-to-peer (P-to-P) traffic. Coming soon to the M-Lab applications is a tool to determine whether a broadband provider is giving some traffic a lower priority than other traffic, and a tool to determine whether a provider is degrading certain users or applications.
+The set of tools, at <a href="https://measurementlab.net/" target="_blank">MeasurementLab.net</a>, includes a network diagnostic tool, a network path diagnostic tool and a tool to measure whether the user&#8217;s broadband provider is slowing BitTorrent peer-to-peer (P-to-P) traffic. Coming soon to the M-Lab applications is a tool to determine whether a broadband provider is giving some traffic a lower priority than other traffic, and a tool to determine whether a provider is degrading certain users or applications.
 
 The tools will not only allow broadband customers to test their Internet connections, but also allow security and other researchers to work on ways to improve the Internet.
 

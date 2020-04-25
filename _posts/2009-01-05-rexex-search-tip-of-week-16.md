@@ -5,7 +5,7 @@ title: 'RexEx Search &#8211; Tip of Week #16'
 date: 2009-01-05T00:00:02+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=743
+guid: https://ajaymatharu.wordpress.com/?p=743
 permalink: /rexex-search-tip-of-week-16/
 delicious:
   - 's:86:"s:78:"a:3:{s:5:"count";s:1:"0";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1231563588";}";";'
@@ -34,7 +34,7 @@ tags:
 ---
 Regular expressions are an extremely versatile text-matching language that gives you incredible power when searching your documents and when used with replace operations, can greatly assist with repetitive changes to blocks of code.
 
-<img class="aligncenter size-full wp-image-744" title="regex" src="http://ajaymatharu.files.wordpress.com/2009/01/regex.jpg" alt="regex" width="251" height="273" />
+<img class="aligncenter size-full wp-image-744" title="regex" src="https://ajaymatharu.files.wordpress.com/2009/01/regex.jpg" alt="regex" width="251" height="273" />
 
 The basic regular expression search is easily done. You simply open the Find dialog through the Edit &#8211; Find and Replace &#8211; Find menu or with Ctrl-F (Edit.Find). Enable regular expression searching by ensuring the Use checkbox is selected and the drop-down list has Regular Expressions selected.
 
@@ -57,7 +57,7 @@ Enter your regular expression into the Find What text box and click on Find Next
 </p>
 
 <p class="docText">
-  More <a href="http://regexlib.com/" target="_blank">Regular Expressions</a>.
+  More <a href="https://regexlib.com/" target="_blank">Regular Expressions</a>.
 </p>
 
 <p class="docText">

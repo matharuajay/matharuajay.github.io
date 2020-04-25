@@ -5,7 +5,7 @@ title: 'Intel&#8217;s Future Atom Plans Sound a Lot Like AMD&#8217;s Fusion'
 date: 2008-10-25T14:58:51+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=262
+guid: https://ajaymatharu.wordpress.com/?p=262
 permalink: /intels-future-atom-plans-sound-a-lot-like-amds-fusion/
 ljID:
   - 49
@@ -84,6 +84,6 @@ tags:
         
         <tr>
           <td class="bl_bodytext" height="13" valign="top">
-            <img src="http://ajaymatharu.wordpress.com/Images/spacer.gif" alt="" width="1" height="20" />
+            <img src="https://ajaymatharu.wordpress.com/Images/spacer.gif" alt="" width="1" height="20" />
           </td>
         </tr></tbody> </table>

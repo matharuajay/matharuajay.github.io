@@ -5,7 +5,7 @@ title: 'I want to be as famous as &#8220;Persil Automatic&#8221;'
 date: 2009-07-02T10:22:59+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1299
+guid: https://www.ajaymatharu.com/?p=1299
 permalink: /i-want-to-be-as-famous-as-persil-automatic/
 ljID:
   - 273

@@ -5,7 +5,7 @@ title: Some learning from the movie 3 Idiots
 date: 2010-01-18T14:21:17+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2000
+guid: https://www.ajaymatharu.com/?p=2000
 permalink: /some-learning-from-the-movie-3-idiots/
 aktt_notify_twitter:
   - no

@@ -5,7 +5,7 @@ title: Bridging generation gap at work
 date: 2010-02-22T11:29:06+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2102
+guid: https://www.ajaymatharu.com/?p=2102
 permalink: /bridging-generation-gap-at-work/
 aktt_notify_twitter:
   - no

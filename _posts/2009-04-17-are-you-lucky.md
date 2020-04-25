@@ -5,7 +5,7 @@ title: Are you lucky?
 date: 2009-04-17T12:04:46+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=848
+guid: https://ajaymatharu.wordpress.com/?p=848
 permalink: /are-you-lucky/
 aktt_notify_twitter:
   - no

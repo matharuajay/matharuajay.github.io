@@ -5,7 +5,7 @@ title: Microsoft Warns of SQL Attacks
 date: 2008-12-24T03:21:48+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=670
+guid: https://ajaymatharu.wordpress.com/?p=670
 permalink: /microsoft-warns-of-sql-attacks/
 ljID:
   - 135

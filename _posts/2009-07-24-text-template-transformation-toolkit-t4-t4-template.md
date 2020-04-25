@@ -5,7 +5,7 @@ title: 'Text Template Transformation Toolkit (T4) &#8211; T4 Template'
 date: 2009-07-24T09:34:45+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=481
+guid: https://ajaymatharu.wordpress.com/?p=481
 permalink: /text-template-transformation-toolkit-t4-t4-template/
 bte_opp_original_pub_date:
   - 2008-12-25 10:24:48
@@ -39,4 +39,4 @@ Its truly AMAZING!!!
 
 Check this out.
 
-[googlevideo=http://video.google.com/videoplay?docid=-3383108526856631845&hl=en]
+[googlevideo=https://video.google.com/videoplay?docid=-3383108526856631845&hl=en]

@@ -5,7 +5,7 @@ title: 'Assertiveness: Quality of great manager'
 date: 2009-09-02T18:19:09+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1612
+guid: https://www.ajaymatharu.com/?p=1612
 permalink: /assertiveness-quality-of-great-manager/
 dsq_thread_id:
   - 465390433

@@ -127,7 +127,7 @@ jekyll-theme-chirpy/
 
 * 时区
 
-    时区由 `timezone` 定义，默认为 `亚洲/上海`，如果肉身翻墙要换城市可在此列表找到： [TimezoneConverter](http://www.timezoneconverter.com/cgi-bin/findzone/findzone) 或者 [Wikipedia](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones).
+    时区由 `timezone` 定义，默认为 `亚洲/上海`，如果肉身翻墙要换城市可在此列表找到： [TimezoneConverter](https://www.timezoneconverter.com/cgi-bin/findzone/findzone) 或者 [Wikipedia](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones).
 
 
 ###  本地运行
@@ -138,9 +138,9 @@ jekyll-theme-chirpy/
 $ bash tools/run.sh
 ```
 
-访问本地服务： <http://localhost:4000>
+访问本地服务： <https://localhost:4000>
 
-如果你想在本地服务运行后，把修改源文件的更改实时刷新，可使用选项 `-r` (或 `--realtime`)，不过要先安装依赖 [**fswatch**](http://emcrisostomo.github.io/fswatch/) 。
+如果你想在本地服务运行后，把修改源文件的更改实时刷新，可使用选项 `-r` (或 `--realtime`)，不过要先安装依赖 [**fswatch**](https://emcrisostomo.github.io/fswatch/) 。
 
 ###  部署到 GitHub Pages
 

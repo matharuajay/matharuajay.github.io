@@ -7,7 +7,7 @@ title: MacBook Air
 date: 2008-02-16T11:05:09+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/2008/02/16/macbook-air/
+guid: https://ajaymatharu.wordpress.com/2008/02/16/macbook-air/
 permalink: /macbook-air/
 ljID:
   - 3
@@ -23,7 +23,7 @@ categories:
 </div>
 
 <div class="leadin">
-  <img width="350" src="http://images.pcworld.com/news/graphics/142187-combinedSides.jpg" height="262" />
+  <img width="350" src="https://images.pcworld.com/news/graphics/142187-combinedSides.jpg" height="262" />
 </div>
 
 <div class="leadin">

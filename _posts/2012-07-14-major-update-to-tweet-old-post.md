@@ -5,7 +5,7 @@ title: Major update to Tweet Old Post
 date: 2012-07-14T21:18:12+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2711
+guid: https://www.ajaymatharu.com/?p=2711
 permalink: /major-update-to-tweet-old-post/
 dsq_thread_id:
   - 765110143
@@ -24,7 +24,7 @@ A long awaited update. Tweet old post has been updated to v4 now.
 
 Checkout the latest updates
 
-&#8211; You can have your own application name instead of  &#8220;Tweet Old Post&#8221;. That is whenever a tweet will be posted from the plugin it will show the application name you have configured in the settings. However it is bit difficult rather a lengthy process to create your own application name in twitter. Whatever application name you create it will appear under &#8220;via&#8221; in that tweet. For this you have to create an application in twitter and specify its &#8220;Consumer Key&#8221; and &#8220;Consumer Secret&#8221;. <a title="Creating Twitter Application for Tweet Old Post WordPress Plugin" href="http://www.ajaymatharu.com/creating-twitter-application-for-tweet-old-post-wordpress-plugin/" target="_blank">Creating Twitter Application for Tweet Old Post WordPress Plugin</a>.
+&#8211; You can have your own application name instead of  &#8220;Tweet Old Post&#8221;. That is whenever a tweet will be posted from the plugin it will show the application name you have configured in the settings. However it is bit difficult rather a lengthy process to create your own application name in twitter. Whatever application name you create it will appear under &#8220;via&#8221; in that tweet. For this you have to create an application in twitter and specify its &#8220;Consumer Key&#8221; and &#8220;Consumer Secret&#8221;. <a title="Creating Twitter Application for Tweet Old Post WordPress Plugin" href="https://www.ajaymatharu.com/creating-twitter-application-for-tweet-old-post-wordpress-plugin/" target="_blank">Creating Twitter Application for Tweet Old Post WordPress Plugin</a>.
 
 &#8211; Pages can now be included. Added an option to select what is to be tweeted (pages, posts, or both).
 

@@ -5,7 +5,7 @@ title: Smile of contentment
 date: 2010-02-05T14:21:10+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2037
+guid: https://www.ajaymatharu.com/?p=2037
 permalink: /smile-of-contentment/
 aktt_notify_twitter:
   - no

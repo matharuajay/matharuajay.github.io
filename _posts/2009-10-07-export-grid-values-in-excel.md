@@ -5,7 +5,7 @@ title: Export grid values in excel
 date: 2009-10-07T13:19:02+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1179
+guid: https://www.ajaymatharu.com/?p=1179
 permalink: /export-grid-values-in-excel/
 aktt_notify_twitter:
   - no

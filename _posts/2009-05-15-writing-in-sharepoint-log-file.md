@@ -5,7 +5,7 @@ title: Writing in Sharepoint log file
 date: 2009-05-15T12:21:48+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1186
+guid: https://www.ajaymatharu.com/?p=1186
 permalink: /writing-in-sharepoint-log-file/
 ljID:
   - 234

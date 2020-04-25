@@ -5,7 +5,7 @@ title: 'Intellisense not working in Visual Studio &#8211; Tip of Week #1'
 date: 2008-09-26T17:35:37+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=151
+guid: https://ajaymatharu.wordpress.com/?p=151
 permalink: /intellisense-not-working-in-visual-studio/
 ljID:
   - 28

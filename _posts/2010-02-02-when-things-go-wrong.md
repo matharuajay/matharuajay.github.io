@@ -5,7 +5,7 @@ title: When things go wrong
 date: 2010-02-02T13:13:52+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=2044
+guid: https://www.ajaymatharu.com/?p=2044
 permalink: /when-things-go-wrong/
 aktt_notify_twitter:
   - no

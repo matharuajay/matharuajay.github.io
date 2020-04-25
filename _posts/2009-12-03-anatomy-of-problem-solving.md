@@ -5,7 +5,7 @@ title: Anatomy of problem solving
 date: 2009-12-03T15:19:37+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1896
+guid: https://www.ajaymatharu.com/?p=1896
 permalink: /anatomy-of-problem-solving/
 aktt_notify_twitter:
   - no

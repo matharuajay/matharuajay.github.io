@@ -5,7 +5,7 @@ title: Tips to write great code
 date: 2008-09-12T07:52:52+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=114
+guid: https://ajaymatharu.wordpress.com/?p=114
 permalink: /tips-to-write-great-code/
 ljID:
   - 20

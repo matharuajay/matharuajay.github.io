@@ -5,7 +5,7 @@ title: 'Team Building &#8211; exercise 2'
 date: 2009-05-12T12:29:24+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1197
+guid: https://www.ajaymatharu.com/?p=1197
 permalink: /team-building-exercise-2/
 ljID:
   - 230
@@ -428,7 +428,7 @@ Last time I posted the first exercise I took in my team building session. This i
   
   <tr>
     <td colspan="5" align="center" valign="middle" bgcolor="#cccccc">
-      <img src="http://www.leadersinstitute.com/teambuilding/images/space111.gif" border="0" alt="" width="20" height="5" />
+      <img src="https://www.leadersinstitute.com/teambuilding/images/space111.gif" border="0" alt="" width="20" height="5" />
     </td>
     
     <td colspan="5" align="center" valign="middle" bgcolor="#cccccc">

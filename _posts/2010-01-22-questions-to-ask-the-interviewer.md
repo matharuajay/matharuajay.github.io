@@ -5,7 +5,7 @@ title: Questions to ask the interviewer
 date: 2010-01-22T17:51:21+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1614
+guid: https://www.ajaymatharu.com/?p=1614
 permalink: /questions-to-ask-the-interviewer/
 aktt_notify_twitter:
   - yes
@@ -33,7 +33,7 @@ tags:
   - team player
   - term objective
 ---
-Yesterday I posted about, [common questions for job seekers](http://www.ajaymatharu.com/common-questions-for-job-seekers/). Here are some questions that job seekers can ask to the interviewer to get good knowledge about the job profile and company culture they&#8217;ll be working in.
+Yesterday I posted about, [common questions for job seekers](https://www.ajaymatharu.com/common-questions-for-job-seekers/). Here are some questions that job seekers can ask to the interviewer to get good knowledge about the job profile and company culture they&#8217;ll be working in.
 
 People sometimes mistake that suggestion, however, and think that probing questions about the company include “How much time will I get for lunch?” or “How many vacation days will I get per year?” While important to your choice in the long run, the answers to those questions will not get to the meat of the issue — whether the company is a good fit for you. Those types of questions also may give the interviewer a bad impression, so it’s best to save them until the point when you’re offered the job.
 

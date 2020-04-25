@@ -5,7 +5,7 @@ title: Five Points For Inner Beauty
 date: 2009-10-12T11:07:51+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1733
+guid: https://www.ajaymatharu.com/?p=1733
 permalink: /five-points-for-inner-beauty/
 robotsmeta:
   - index,follow

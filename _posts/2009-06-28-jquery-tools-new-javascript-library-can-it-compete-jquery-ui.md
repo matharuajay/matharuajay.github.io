@@ -5,7 +5,7 @@ title: 'JQuery TOOLS &#8211; New Javascript Library, can it compete JQuery UI?'
 date: 2009-06-28T13:39:57+00:00
 author: Ajay Matharu
 layout: post
-guid: http://www.ajaymatharu.com/?p=1392
+guid: https://www.ajaymatharu.com/?p=1392
 permalink: /jquery-tools-new-javascript-library-can-it-compete-jquery-ui/
 ljID:
   - 269
@@ -25,7 +25,7 @@ tags:
   - Jquery
   - Web
 ---
-These days almost every site uses JQuery. It makes your life so easy. There is this another Javascript library called JQuery Tools that is coming up as competitor for JQuery UI. Here is the link to the JQuery Tool http://flowplayer.org/tools/demos/index.html.
+These days almost every site uses JQuery. It makes your life so easy. There is this another Javascript library called JQuery Tools that is coming up as competitor for JQuery UI. Here is the link to the JQuery Tool https://flowplayer.org/tools/demos/index.html.
 
 But the question, for which I am searching the answer is,
   

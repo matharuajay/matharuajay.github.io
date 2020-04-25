@@ -5,7 +5,7 @@ title: 'Extract Method &#8211; Tip of week #11'
 date: 2008-12-01T12:44:23+00:00
 author: Ajay Matharu
 layout: post
-guid: http://ajaymatharu.wordpress.com/?p=494
+guid: https://ajaymatharu.wordpress.com/?p=494
 permalink: /extract-method-tip-of-week-11/
 ljID:
   - 105
@@ -140,11 +140,11 @@ Suppose this is my sample code, althogh not good but just to demonstrate.
   </p>
   
   <p style="margin:0;">
-    <a href="http://ajaymatharu.files.wordpress.com/2008/11/extract-method1.png"></a><a href="http://ajaymatharu.files.wordpress.com/2008/11/extractmethod.jpg"><img class="aligncenter size-full wp-image-497" title="extractmethod" src="http://ajaymatharu.files.wordpress.com/2008/11/extractmethod.jpg" alt="extractmethod" width="500" height="374" /></a><a href="http://ajaymatharu.files.wordpress.com/2008/11/extract-method.png"></a>
+    <a href="https://ajaymatharu.files.wordpress.com/2008/11/extract-method1.png"></a><a href="https://ajaymatharu.files.wordpress.com/2008/11/extractmethod.jpg"><img class="aligncenter size-full wp-image-497" title="extractmethod" src="https://ajaymatharu.files.wordpress.com/2008/11/extractmethod.jpg" alt="extractmethod" width="500" height="374" /></a><a href="https://ajaymatharu.files.wordpress.com/2008/11/extract-method.png"></a>
   </p>
 </div>
 
-[<img class="aligncenter size-full wp-image-498" title="name" src="http://ajaymatharu.files.wordpress.com/2008/11/name.jpg" alt="name" width="500" height="196" />](http://ajaymatharu.files.wordpress.com/2008/11/name.jpg)
+[<img class="aligncenter size-full wp-image-498" title="name" src="https://ajaymatharu.files.wordpress.com/2008/11/name.jpg" alt="name" width="500" height="196" />](https://ajaymatharu.files.wordpress.com/2008/11/name.jpg)
 
 After this, all you get is extracted method,
 
