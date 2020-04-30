@@ -1,8 +1,0 @@
-I"<p>Many a times you find the need to navigate to the function definition from the function call to see how the function has been defined. To do this you can either press F12 or right click on function call and select “Go to definition” option.</p>
-
-<p><img class="aligncenter size-full wp-image-788" title="function-definition" src="http://ajaymatharu.files.wordpress.com/2009/01/function-definition.jpg" alt="function-definition" width="469" height="254" /></p>
-
-<p>Similarly from the function definition to go back to the function call press ctrl + – keys.</p>
-
-<p><img class="aligncenter size-full wp-image-789" title="backtofunctioncall" src="http://ajaymatharu.files.wordpress.com/2009/01/backtofunctioncall.jpg" alt="backtofunctioncall" width="468" height="186" /></p>
-:ET

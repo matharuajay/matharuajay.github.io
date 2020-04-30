@@ -1,8 +1,0 @@
-I"�<p>There are a few hidden gems in Visual Studio that are easy to overlook. One of those is the Code Definition Window (ctrl+\,ctrl+d or View – Code Definition Window).</p>
-
-<p>The Code Definition Window will work in two different ways. The first is with your current code editing window. As you navigate your code, the Code Definition Window will display the definition of the objects currently under your cursor. For instance, if your cursor is currently over a class level variable, the Code Definition Window will display the location in the source file where the variable is declared. The same goes for methods and classes both within the current source file and in other source files within your current solution.</p>
-
-<p>The second way the Code Definition Window can work is in conjunction with the Visual Studio Class View Window (ctrl+shift+c or View – Class View). The Class View Window is a handy tool window in its own right, giving a quick overview of the object model of the current solution and allowing fast navigation through namespaces, classes, and methods. If you double click on a method in the Class View Window, Visual Studio will open the appropriate source code file and scroll to that particular method. This is quite useful for larger projects and for projects that might have multiple class definitions in each file. However, if you single click on a method, the contents of that method will show in the Code Definition Window without opening the file in a text editing window.</p>
-
-<p><img class="aligncenter size-full wp-image-620" title="codeview" src="http://ajaymatharu.files.wordpress.com/2008/12/codeview.jpg" alt="codeview" width="691" height="484" /></p>
-:ET

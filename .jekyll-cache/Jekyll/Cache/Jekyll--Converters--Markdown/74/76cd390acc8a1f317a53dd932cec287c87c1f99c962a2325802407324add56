@@ -1,10 +1,0 @@
-I"<p>Google Inc released the trial version of its open source web browser Chrome on Tuesday, 2nd October 2008. Beta is currently available for Windows with Mac and Linux versions in the pipeline. It can be downloaded from <a href="http://www.google.com/chrome">http://www.google.com/chrome</a>. Chrome organises information into tabbed pages similar like Firefox and IE 7.</p>
-
-<p>It is assumed that Chrome will be faster then other browsers as the individual tabs run in seperate processes which are killed when the tab is closed, allowing the Pc to get its memory back. I really wonder about this feature, So this is like each tab is like another browser window that runs in seperate process?</p>
-
-<p>It is also assumed to be more secure since processes wont be able to write on the hard drive or read documents. Chrome will also send warnings on phishing.</p>
-
-<p>Chrome is designed to more quickly handle video-rich or other complex web programs, posing a challenge to browsers designed originally to handle text and graphics.</p>
-
-<p>Google said its engineers have borrowed from a variety of other open-source projects, including Apple’s WebKit and the Mozilla Firefox open-source browser. As a result, Google plans to make all of Chrome software code open to other developers to enhance and expand.</p>
-:ET
