@@ -23,7 +23,7 @@ categories:
 > &#8211; Adabella Radici
 
 <div id="attachment_2133" style="width: 310px" class="wp-caption aligncenter">
-  <a href="https://www.ajaymatharu.com/wp-content/uploads/2010/03/gratitude2-saidaonline.jpg"><img src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/gratitude2-saidaonline-300x225.jpg" alt="Renue your Gratitude" title="Renue your Gratitude" width="300" height="225" class="size-medium wp-image-2133" srcset="https://www.ajaymatharu.com/wp-content/uploads/2010/03/gratitude2-saidaonline-300x225.jpg 300w, https://www.ajaymatharu.com/wp-content/uploads/2010/03/gratitude2-saidaonline.jpg 458w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/gratitude2-saidaonline.jpg"><img src="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/gratitude2-saidaonline-300x225.jpg" alt="Renue your Gratitude" title="Renue your Gratitude" width="300" height="225" class="size-medium wp-image-2133" srcset="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/gratitude2-saidaonline-300x225.jpg 300w, https://blog.ajaymatharu.com/wp-content/uploads/2010/03/gratitude2-saidaonline.jpg 458w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     Renue your Gratitude

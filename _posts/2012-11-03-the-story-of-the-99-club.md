@@ -37,7 +37,7 @@ The 99 club is a name given to those people who have enough to be happy but are 
 We can be happy even with very little in our life, but the minute we&#8217;re given something bigger and better, we want more!!! We lose our sleep, our happiness, we hurt the people around us. We lose all this at a price of our growing greed and desire.
 
 <div id="attachment_2757" style="width: 627px" class="wp-caption aligncenter">
-  <a href="https://www.ajaymatharu.com/the-story-of-the-99-club/th_99_club_header-2/" rel="attachment wp-att-2757"><img class="size-full wp-image-2757" title="Welcome to the 99 club" src="https://www.ajaymatharu.com/wp-content/uploads/2012/10/th_99_club_header1.jpg" alt="Welcome to the 99 club" width="617" height="210" /></a>
+  <a href="https://www.ajaymatharu.com/the-story-of-the-99-club/th_99_club_header-2/" rel="attachment wp-att-2757"><img class="size-full wp-image-2757" title="Welcome to the 99 club" src="https://blog.ajaymatharu.com/wp-content/uploads/2012/10/th_99_club_header1.jpg" alt="Welcome to the 99 club" width="617" height="210" /></a>
   
   <p class="wp-caption-text">
     Welcome to the 99 club

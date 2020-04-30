@@ -24,7 +24,7 @@ tags:
   </div>
   
   <div>
-     <img class="aligncenter size-full wp-image-2982" src="https://www.ajaymatharu.com/wp-content/uploads/2015/03/8443484430_56c4a9fe92.jpg" alt="8443484430_56c4a9fe92" width="453" height="396" srcset="https://www.ajaymatharu.com/wp-content/uploads/2015/03/8443484430_56c4a9fe92-300x262.jpg 300w, https://www.ajaymatharu.com/wp-content/uploads/2015/03/8443484430_56c4a9fe92.jpg 453w" sizes="(max-width: 453px) 100vw, 453px" />
+     <img class="aligncenter size-full wp-image-2982" src="https://blog.ajaymatharu.com/wp-content/uploads/2015/03/8443484430_56c4a9fe92.jpg" alt="8443484430_56c4a9fe92" width="453" height="396" srcset="https://blog.ajaymatharu.com/wp-content/uploads/2015/03/8443484430_56c4a9fe92-300x262.jpg 300w, https://blog.ajaymatharu.com/wp-content/uploads/2015/03/8443484430_56c4a9fe92.jpg 453w" sizes="(max-width: 453px) 100vw, 453px" />
   </div>
   
   <div>

@@ -38,7 +38,7 @@ I really like to work on Firefox than on any other browser. It is extremely deve
   <strong></p> 
   
   <div id="attachment_2151" style="width: 710px" class="wp-caption aligncenter">
-    <strong><img class="size-large wp-image-2151 " title="firebug" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/firebug1-1024x308.png" alt="Firebug" width="700" height="308" /></strong>
+    <strong><img class="size-large wp-image-2151 " title="firebug" src="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/firebug1-1024x308.png" alt="Firebug" width="700" height="308" /></strong>
     
     <p class="wp-caption-text">
       Firebug
@@ -81,7 +81,7 @@ I really like to work on Firefox than on any other browser. It is extremely deve
   </p>
   
   <div id="attachment_2161" style="width: 778px" class="wp-caption aligncenter">
-    <img class="size-full wp-image-2161" title="FireQuery" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/jquerify1.png" alt="FireQuery" width="768" height="597" srcset="https://www.ajaymatharu.com/wp-content/uploads/2010/03/jquerify1-300x233.png 300w, https://www.ajaymatharu.com/wp-content/uploads/2010/03/jquerify1.png 768w" sizes="(max-width: 768px) 100vw, 768px" />
+    <img class="size-full wp-image-2161" title="FireQuery" src="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/jquerify1.png" alt="FireQuery" width="768" height="597" srcset="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/jquerify1-300x233.png 300w, https://blog.ajaymatharu.com/wp-content/uploads/2010/03/jquerify1.png 768w" sizes="(max-width: 768px) 100vw, 768px" />
     
     <p class="wp-caption-text">
       FireQuery
@@ -102,7 +102,7 @@ I really like to work on Firefox than on any other browser. It is extremely deve
   </p>
   
   <div id="attachment_2154" style="width: 300px" class="wp-caption aligncenter">
-    <img class="size-full wp-image-2154" title="colorzilla" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/colorzilla.png" alt="ColorZilla" width="290" height="462" />
+    <img class="size-full wp-image-2154" title="colorzilla" src="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/colorzilla.png" alt="ColorZilla" width="290" height="462" />
     
     <p class="wp-caption-text">
       ColorZilla
@@ -133,7 +133,7 @@ I really like to work on Firefox than on any other browser. It is extremely deve
   
   <p style="text-align: center;">
     <div id="attachment_2155" style="width: 710px" class="wp-caption aligncenter">
-      <img class="size-large wp-image-2155  " title="yslow" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/yslow-1024x305.png" alt="YSlow" width="700" height="205" />
+      <img class="size-large wp-image-2155  " title="yslow" src="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/yslow-1024x305.png" alt="YSlow" width="700" height="205" />
       
       <p class="wp-caption-text">
         YSlow
@@ -176,7 +176,7 @@ I really like to work on Firefox than on any other browser. It is extremely deve
     </p>
     
     <div id="attachment_2156" style="width: 441px" class="wp-caption aligncenter">
-      <img class="size-full wp-image-2156" title="Screen Grab" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/screen-grab.png" alt="" width="431" height="570" />
+      <img class="size-full wp-image-2156" title="Screen Grab" src="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/screen-grab.png" alt="" width="431" height="570" />
       
       <p class="wp-caption-text">
         Screen Grab
@@ -204,7 +204,7 @@ I really like to work on Firefox than on any other browser. It is extremely deve
       </p>
       
       <div id="attachment_2157" style="width: 710px" class="wp-caption aligncenter">
-        <img class="size-full wp-image-2157" title="Web Developer Toolbar" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/web-developer-toolbar.png" alt="" width="700" height="58" />
+        <img class="size-full wp-image-2157" title="Web Developer Toolbar" src="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/web-developer-toolbar.png" alt="" width="700" height="58" />
         
         <p class="wp-caption-text">
           Web Developer Toolbar
@@ -244,7 +244,7 @@ I really like to work on Firefox than on any other browser. It is extremely deve
         </p>
         
         <div id="attachment_2159" style="width: 512px" class="wp-caption aligncenter">
-          <img class="size-full wp-image-2159" title="Sxipper" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/sxipper1.png" alt="" width="502" height="401" />
+          <img class="size-full wp-image-2159" title="Sxipper" src="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/sxipper1.png" alt="" width="502" height="401" />
           
           <p class="wp-caption-text">
             Sxipper Default
@@ -253,7 +253,7 @@ I really like to work on Firefox than on any other browser. It is extremely deve
         
         <p style="text-align: center;">
           <div id="attachment_2158" style="width: 491px" class="wp-caption aligncenter">
-            <img class="size-full wp-image-2158" title="Sxipper when focus on Field" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/sxipper.png" alt="" width="481" height="401" srcset="https://www.ajaymatharu.com/wp-content/uploads/2010/03/sxipper-300x250.png 300w, https://www.ajaymatharu.com/wp-content/uploads/2010/03/sxipper.png 481w" sizes="(max-width: 481px) 100vw, 481px" />
+            <img class="size-full wp-image-2158" title="Sxipper when focus on Field" src="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/sxipper.png" alt="" width="481" height="401" srcset="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/sxipper-300x250.png 300w, https://blog.ajaymatharu.com/wp-content/uploads/2010/03/sxipper.png 481w" sizes="(max-width: 481px) 100vw, 481px" />
             
             <p class="wp-caption-text">
               Sxipper when focus on Field

@@ -28,7 +28,7 @@ tags:
 Your relationship with yourself defines your equation with other. 
 
 <div id="attachment_2318" style="width: 352px" class="wp-caption aligncenter">
-  <img src="https://www.ajaymatharu.com/wp-content/uploads/2010/06/LoveYourselfOutside.jpg" alt="Love Yourself" title="LoveYourself" width="342" height="252" class="size-full wp-image-2318" srcset="https://www.ajaymatharu.com/wp-content/uploads/2010/06/LoveYourselfOutside-300x221.jpg 300w, https://www.ajaymatharu.com/wp-content/uploads/2010/06/LoveYourselfOutside.jpg 342w" sizes="(max-width: 342px) 100vw, 342px" />
+  <img src="https://blog.ajaymatharu.com/wp-content/uploads/2010/06/LoveYourselfOutside.jpg" alt="Love Yourself" title="LoveYourself" width="342" height="252" class="size-full wp-image-2318" srcset="https://blog.ajaymatharu.com/wp-content/uploads/2010/06/LoveYourselfOutside-300x221.jpg 300w, https://blog.ajaymatharu.com/wp-content/uploads/2010/06/LoveYourselfOutside.jpg 342w" sizes="(max-width: 342px) 100vw, 342px" />
   
   <p class="wp-caption-text">
     Love Yourself
@@ -56,7 +56,7 @@ To err is human,to forgive divine.Remember,this adage is as applicable to yourse
 Many people misconstrue that forgiveness would make one more callous and immoral.Quite the contrary! Guilt serves zilch and the more guilty one feels the more self-hating and that only wastes energy and does nothing to improve what needs to be improved.We are human,and hence,mistake making and fallible.So its only natural and human to err.The less forgiving you are of yourself the more you try and be superhuman a condition which is impossible and unfulfillable.Forgiving oneself doesn&#8217;t mean shedding off responsibility for your actions,it only means,giving yourself the right to be wrong,giving yourself the chance to be imperfect! When you forgive yourself,you give yourself a chance to correct,evolve and grow as a person.When you forgive others you do yourself a favor and are not enveloped by feelings of hatred and revenge.To err is human and not forgiving isn&#8217;t divine,it simply leaves you saner and more realistic! 
 
 <div id="attachment_2319" style="width: 410px" class="wp-caption aligncenter">
-  <img src="https://www.ajaymatharu.com/wp-content/uploads/2010/06/love_yourself_first1.jpg" alt="Love Yourself" title="love_yourself_first1" width="400" height="400" class="size-full wp-image-2319" srcset="https://www.ajaymatharu.com/wp-content/uploads/2010/06/love_yourself_first1-100x100.jpg 100w, https://www.ajaymatharu.com/wp-content/uploads/2010/06/love_yourself_first1-300x300.jpg 300w, https://www.ajaymatharu.com/wp-content/uploads/2010/06/love_yourself_first1.jpg 400w" sizes="(max-width: 400px) 100vw, 400px" />
+  <img src="https://blog.ajaymatharu.com/wp-content/uploads/2010/06/love_yourself_first1.jpg" alt="Love Yourself" title="love_yourself_first1" width="400" height="400" class="size-full wp-image-2319" srcset="https://blog.ajaymatharu.com/wp-content/uploads/2010/06/love_yourself_first1-100x100.jpg 100w, https://blog.ajaymatharu.com/wp-content/uploads/2010/06/love_yourself_first1-300x300.jpg 300w, https://blog.ajaymatharu.com/wp-content/uploads/2010/06/love_yourself_first1.jpg 400w" sizes="(max-width: 400px) 100vw, 400px" />
   
   <p class="wp-caption-text">
     Love Yourself

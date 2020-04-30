@@ -34,7 +34,7 @@ tags:
 
 <div>
   <div id="attachment_2852" style="width: 173px" class="wp-caption aligncenter">
-    <a href="https://www.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins.png"><img class="size-full wp-image-2852" alt="Plugin Editor" src="https://www.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins.png" width="163" height="156" /></a>
+    <a href="https://blog.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins.png"><img class="size-full wp-image-2852" alt="Plugin Editor" src="https://blog.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins.png" width="163" height="156" /></a>
     
     <p class="wp-caption-text">
       Plugin Editor
@@ -44,7 +44,7 @@ tags:
 
 <div>
   <div id="attachment_2853" style="width: 723px" class="wp-caption aligncenter">
-    <a href="https://www.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins-Tweet-Old-Post.png"><img class="size-full wp-image-2853 " title="Edit Tweet Old Post" alt="Edit Plugin" src="https://www.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins-Tweet-Old-Post.png" width="713" height="626" srcset="https://www.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins-Tweet-Old-Post-300x263.png 300w, https://www.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins-Tweet-Old-Post.png 713w" sizes="(max-width: 713px) 100vw, 713px" /></a>
+    <a href="https://blog.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins-Tweet-Old-Post.png"><img class="size-full wp-image-2853 " title="Edit Tweet Old Post" alt="Edit Plugin" src="https://blog.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins-Tweet-Old-Post.png" width="713" height="626" srcset="https://blog.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins-Tweet-Old-Post-300x263.png 300w, https://blog.ajaymatharu.com/wp-content/uploads/2014/01/Edit-Plugins-Tweet-Old-Post.png 713w" sizes="(max-width: 713px) 100vw, 713px" /></a>
     
     <p class="wp-caption-text">
       Edit Plugin Tweet Old Post

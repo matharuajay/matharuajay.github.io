@@ -24,7 +24,7 @@ Unlike other frameworks where you build upon them, or include the framework file
 Essentially, you add the option creation code in your project, and use the options in your project, then the Titan Framework plugin handles those calls.
 
 <div id="attachment_3002" style="width: 630px" class="wp-caption alignnone">
-  <a href="https://www.titanframework.net/" target="_blank"><img class="wp-image-3002 size-large" src="https://www.ajaymatharu.com/wp-content/uploads/2015/11/TitanFX-1024x519.png" alt="Titan Framework Features" width="620" height="314" srcset="https://www.ajaymatharu.com/wp-content/uploads/2015/11/TitanFX-300x152.png 300w, https://www.ajaymatharu.com/wp-content/uploads/2015/11/TitanFX-1024x519.png 1024w, https://www.ajaymatharu.com/wp-content/uploads/2015/11/TitanFX.png 1052w" sizes="(max-width: 620px) 100vw, 620px" /></a>
+  <a href="https://www.titanframework.net/" target="_blank"><img class="wp-image-3002 size-large" src="https://blog.ajaymatharu.com/wp-content/uploads/2015/11/TitanFX-1024x519.png" alt="Titan Framework Features" width="620" height="314" srcset="https://blog.ajaymatharu.com/wp-content/uploads/2015/11/TitanFX-300x152.png 300w, https://blog.ajaymatharu.com/wp-content/uploads/2015/11/TitanFX-1024x519.png 1024w, https://blog.ajaymatharu.com/wp-content/uploads/2015/11/TitanFX.png 1052w" sizes="(max-width: 620px) 100vw, 620px" /></a>
   
   <p class="wp-caption-text">
     Features

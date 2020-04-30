@@ -32,7 +32,7 @@ Here is Google&#8217;s New Design
 
 
 <div id="attachment_2302" style="width: 610px" class="wp-caption aligncenter">
-  <img src="https://www.ajaymatharu.com/wp-content/uploads/2010/05/Google2.png" alt="Google's New Design" title="Google's New Design" width="600" height="410" class="size-full wp-image-2302" srcset="https://www.ajaymatharu.com/wp-content/uploads/2010/05/Google2-300x205.png 300w, https://www.ajaymatharu.com/wp-content/uploads/2010/05/Google2.png 600w" sizes="(max-width: 600px) 100vw, 600px" />
+  <img src="https://blog.ajaymatharu.com/wp-content/uploads/2010/05/Google2.png" alt="Google's New Design" title="Google's New Design" width="600" height="410" class="size-full wp-image-2302" srcset="https://blog.ajaymatharu.com/wp-content/uploads/2010/05/Google2-300x205.png 300w, https://blog.ajaymatharu.com/wp-content/uploads/2010/05/Google2.png 600w" sizes="(max-width: 600px) 100vw, 600px" />
   
   <p class="wp-caption-text">
     Google's New Design
@@ -44,7 +44,7 @@ And here is the Bing&#8217;s Design
 
 
 <div id="attachment_2303" style="width: 610px" class="wp-caption aligncenter">
-  <img src="https://www.ajaymatharu.com/wp-content/uploads/2010/05/bing.png" alt="Bing&#039;s Design" title="Bing&#039;s Design" width="600" height="350" class="size-full wp-image-2303" srcset="https://www.ajaymatharu.com/wp-content/uploads/2010/05/bing-300x175.png 300w, https://www.ajaymatharu.com/wp-content/uploads/2010/05/bing.png 600w" sizes="(max-width: 600px) 100vw, 600px" />
+  <img src="https://blog.ajaymatharu.com/wp-content/uploads/2010/05/bing.png" alt="Bing&#039;s Design" title="Bing&#039;s Design" width="600" height="350" class="size-full wp-image-2303" srcset="https://blog.ajaymatharu.com/wp-content/uploads/2010/05/bing-300x175.png 300w, https://blog.ajaymatharu.com/wp-content/uploads/2010/05/bing.png 600w" sizes="(max-width: 600px) 100vw, 600px" />
   
   <p class="wp-caption-text">
     Bing's Design

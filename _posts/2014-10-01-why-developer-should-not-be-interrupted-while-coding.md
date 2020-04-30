@@ -29,7 +29,7 @@ Here is the small conversation that will explain you
 “Great. Same thing. Just like falling asleep, it takes me a while to ‘sink’ into focus mode, and it takes me a while to get back to it once I’m interrupted, except that I also forget half of what I was doing.”
 
 <div id="attachment_2900" style="width: 650px" class="wp-caption aligncenter">
-  <a href="https://www.ajaymatharu.com/wp-content/uploads/2014/10/Dontinterrupt.jpg"><img class="size-full wp-image-2900" src="https://www.ajaymatharu.com/wp-content/uploads/2014/10/Dontinterrupt.jpg" alt="why a developer should not be interrupted while coding?" width="640" height="461" srcset="https://www.ajaymatharu.com/wp-content/uploads/2014/10/Dontinterrupt-300x216.jpg 300w, https://www.ajaymatharu.com/wp-content/uploads/2014/10/Dontinterrupt.jpg 640w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="https://blog.ajaymatharu.com/wp-content/uploads/2014/10/Dontinterrupt.jpg"><img class="size-full wp-image-2900" src="https://blog.ajaymatharu.com/wp-content/uploads/2014/10/Dontinterrupt.jpg" alt="why a developer should not be interrupted while coding?" width="640" height="461" srcset="https://blog.ajaymatharu.com/wp-content/uploads/2014/10/Dontinterrupt-300x216.jpg 300w, https://blog.ajaymatharu.com/wp-content/uploads/2014/10/Dontinterrupt.jpg 640w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Don&#8217;t Interrupt

@@ -14,7 +14,7 @@ dsq_thread_id:
 categories:
   - Web
 ---
-<img class="aligncenter size-full wp-image-2966" src="https://www.ajaymatharu.com/wp-content/uploads/2015/02/Optimized-57b4dd5c_smush_wallet.jpg" alt="online wallet" width="500" height="500" srcset="https://www.ajaymatharu.com/wp-content/uploads/2015/02/Optimized-57b4dd5c_smush_wallet-100x100.jpg 100w, https://www.ajaymatharu.com/wp-content/uploads/2015/02/Optimized-57b4dd5c_smush_wallet-300x300.jpg 300w, https://www.ajaymatharu.com/wp-content/uploads/2015/02/Optimized-57b4dd5c_smush_wallet.jpg 500w" sizes="(max-width: 500px) 100vw, 500px" />
+<img class="aligncenter size-full wp-image-2966" src="https://blog.ajaymatharu.com/wp-content/uploads/2015/02/Optimized-57b4dd5c_smush_wallet.jpg" alt="online wallet" width="500" height="500" srcset="https://blog.ajaymatharu.com/wp-content/uploads/2015/02/Optimized-57b4dd5c_smush_wallet-100x100.jpg 100w, https://blog.ajaymatharu.com/wp-content/uploads/2015/02/Optimized-57b4dd5c_smush_wallet-300x300.jpg 300w, https://blog.ajaymatharu.com/wp-content/uploads/2015/02/Optimized-57b4dd5c_smush_wallet.jpg 500w" sizes="(max-width: 500px) 100vw, 500px" />
 
 The use of mobile phones has increased tremendously over the past few years and more and more people are opting this easy way of communication. From making phone calls to accessing your internet, your mobile needs to be recharged to be used in an effective way. Mobile recharge is the task that every mobile user has to do on a daily basis, to keep balance in their phones.
 

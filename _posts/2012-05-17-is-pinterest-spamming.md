@@ -22,7 +22,7 @@ tags:
 Today, while pinning I came across a page, saying, scavenger hunt price. It was clearly a pinterest page but when you click on any of the listed gift, it takes you to another site. That, another site, was surely a SPAM as detected by anti-virus. Guys beware of such spams
 
 <div style="width: 610px" class="wp-caption aligncenter">
-  <img class=" " title="Pinterest scavenger hunt" src="https://www.ajaymatharu.com/wp-content/uploads/2012/05/Pinterest_Scavenger_Hunt_Winner%20.png" alt="Pinterest scavenger hunt" width="600" height="722" />
+  <img class=" " title="Pinterest scavenger hunt" src="https://blog.ajaymatharu.com/wp-content/uploads/2012/05/Pinterest_Scavenger_Hunt_Winner%20.png" alt="Pinterest scavenger hunt" width="600" height="722" />
   
   <p class="wp-caption-text">
     Pinterest scavenger hunt

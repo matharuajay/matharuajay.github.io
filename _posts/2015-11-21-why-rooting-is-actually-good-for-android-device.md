@@ -21,7 +21,7 @@ tags:
 <div>
   <div>
     <div id="attachment_3007" style="width: 630px" class="wp-caption alignnone">
-      <img class="size-large wp-image-3007" src="https://www.ajaymatharu.com/wp-content/uploads/2015/11/android_robot_toy-1024x680.jpg" alt="Rooting android" width="620" height="412" srcset="https://www.ajaymatharu.com/wp-content/uploads/2015/11/android_robot_toy-300x199.jpg 300w, https://www.ajaymatharu.com/wp-content/uploads/2015/11/android_robot_toy.jpg 1024w" sizes="(max-width: 620px) 100vw, 620px" />
+      <img class="size-large wp-image-3007" src="https://blog.ajaymatharu.com/wp-content/uploads/2015/11/android_robot_toy-1024x680.jpg" alt="Rooting android" width="620" height="412" srcset="https://blog.ajaymatharu.com/wp-content/uploads/2015/11/android_robot_toy-300x199.jpg 300w, https://blog.ajaymatharu.com/wp-content/uploads/2015/11/android_robot_toy.jpg 1024w" sizes="(max-width: 620px) 100vw, 620px" />
       
       <p class="wp-caption-text">
         Rooting android

@@ -10,7 +10,7 @@ permalink: /validating-html-tags-in-textbox-cross-site-scripting/
 aktt_notify_twitter:
   - no
 thumbnail:
-  - https://www.ajaymatharu.com/wp-content/uploads/2009/05/hackers-300x85.jpg
+  - https://blog.ajaymatharu.com/wp-content/uploads/2009/05/hackers-300x85.jpg
 dsq_thread_id:
   - 465384940
 categories:

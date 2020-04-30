@@ -29,7 +29,7 @@ While creating an object of any class, the class which is on the left of declara
 Taking an hypothetical example, consider the following class diagram,
 
 <div style="width: 288px" class="wp-caption aligncenter">
-  <img title="Inheritance" src="https://www.ajaymatharu.com/wp-content/uploads/2012/05/inheritance.png" alt="Inheritance" width="278" height="352" />
+  <img title="Inheritance" src="https://blog.ajaymatharu.com/wp-content/uploads/2012/05/inheritance.png" alt="Inheritance" width="278" height="352" />
   
   <p class="wp-caption-text">
     Man inheriting from Emotions
@@ -69,7 +69,7 @@ For the above class when we create object like this,
 The above object &#8220;e&#8221; shows following intellisense ,
 
 <div style="width: 379px" class="wp-caption aligncenter">
-  <img title="Void Main" src="https://www.ajaymatharu.com/wp-content/uploads/2012/05/VoidMain.png" alt="Void Main" width="369" height="241" />
+  <img title="Void Main" src="https://blog.ajaymatharu.com/wp-content/uploads/2012/05/VoidMain.png" alt="Void Main" width="369" height="241" />
   
   <p class="wp-caption-text">
     Void Main

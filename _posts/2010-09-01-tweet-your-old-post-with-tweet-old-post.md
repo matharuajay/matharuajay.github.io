@@ -47,7 +47,7 @@ Tweet Old Post is no more tweet old post because you can even post your latest t
 &nbsp;
 
 
-<img align="middle" alt="Tweet your old post with tweet old post" height="375" src="https://www.ajaymatharu.com/wp-content/uploads/Tweet_Old_Post(1).png" width="600" /> 
+<img align="middle" alt="Tweet your old post with tweet old post" height="375" src="https://blog.ajaymatharu.com/wp-content/uploads/Tweet_Old_Post(1).png" width="600" /> 
 
 &nbsp;
 
@@ -93,4 +93,4 @@ If you want to tweet your posts of last 10 days, you can set minimum age to 0 an
 
 &nbsp;
 
-If you have more ideas or suggestions about Tweet Old Post feel free to drop a comment or mail me. Looking forward for your replies ![:)](https://www.ajaymatharu.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif ":)")
+If you have more ideas or suggestions about Tweet Old Post feel free to drop a comment or mail me. Looking forward for your replies ![:)](https://blog.ajaymatharu.com/wp-content/plugins/fckeditor-for-wordpress-plugin/ckeditor/plugins/smiley/images/regular_smile.gif ":)")

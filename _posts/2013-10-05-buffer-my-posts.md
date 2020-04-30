@@ -52,7 +52,7 @@ This is very much similar to my other plugin, <a title="Tweet Old Post" href="ht
 <span style="font-size: 1.5em;">Setting up Buffer My Posts</span>
 
 <div id="attachment_2811" style="width: 834px" class="wp-caption aligncenter">
-  <a href="https://www.ajaymatharu.com/wp-content/uploads/2013/10/Buffer-My-Post.png"><img class="size-full wp-image-2811" alt="Buffer My Post" src="https://www.ajaymatharu.com/wp-content/uploads/2013/10/Buffer-My-Post.png" width="824" height="705" /></a>
+  <a href="https://blog.ajaymatharu.com/wp-content/uploads/2013/10/Buffer-My-Post.png"><img class="size-full wp-image-2811" alt="Buffer My Post" src="https://blog.ajaymatharu.com/wp-content/uploads/2013/10/Buffer-My-Post.png" width="824" height="705" /></a>
   
   <p class="wp-caption-text">
     Buffer My Post

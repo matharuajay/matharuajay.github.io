@@ -100,7 +100,7 @@ for xml auto
 </pre>
 
 <div id="attachment_2189" style="width: 574px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-2189" title="Output Data as Attributes" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/Data-as-attribute.png" alt="Output Data as Attributes" width="564" height="119" srcset="https://www.ajaymatharu.com/wp-content/uploads/2010/03/Data-as-attribute-300x63.png 300w, https://www.ajaymatharu.com/wp-content/uploads/2010/03/Data-as-attribute.png 564w" sizes="(max-width: 564px) 100vw, 564px" />
+  <img class="size-full wp-image-2189" title="Output Data as Attributes" src="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/Data-as-attribute.png" alt="Output Data as Attributes" width="564" height="119" srcset="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/Data-as-attribute-300x63.png 300w, https://blog.ajaymatharu.com/wp-content/uploads/2010/03/Data-as-attribute.png 564w" sizes="(max-width: 564px) 100vw, 564px" />
   
   <p class="wp-caption-text">
     Output Data as Attributes
@@ -118,7 +118,7 @@ for xml auto, elements
 </pre>
 
 <div id="attachment_2190" style="width: 319px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-2190" title="Output Data as Elements" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/data-as-elements.png" alt="Output Data as Elements" width="309" height="519" />
+  <img class="size-full wp-image-2190" title="Output Data as Elements" src="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/data-as-elements.png" alt="Output Data as Elements" width="309" height="519" />
   
   <p class="wp-caption-text">
     Output Data as Elements

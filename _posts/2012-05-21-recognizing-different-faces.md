@@ -26,7 +26,7 @@ tags:
   - power within you
 ---
 <div id="attachment_2694" style="width: 710px" class="wp-caption aligncenter">
-  <a href="https://www.ajaymatharu.com/recognizing-different-faces/different-faces-1226341652/" rel="attachment wp-att-2694"><img class="size-full wp-image-2694" title="Different Faces" src="https://www.ajaymatharu.com/wp-content/uploads/2012/05/different-faces-1226341652.jpg" alt="Different Faces" width="700" height="514" srcset="https://www.ajaymatharu.com/wp-content/uploads/2012/05/different-faces-1226341652-300x220.jpg 300w, https://www.ajaymatharu.com/wp-content/uploads/2012/05/different-faces-1226341652.jpg 700w" sizes="(max-width: 700px) 100vw, 700px" /></a>
+  <a href="https://www.ajaymatharu.com/recognizing-different-faces/different-faces-1226341652/" rel="attachment wp-att-2694"><img class="size-full wp-image-2694" title="Different Faces" src="https://blog.ajaymatharu.com/wp-content/uploads/2012/05/different-faces-1226341652.jpg" alt="Different Faces" width="700" height="514" srcset="https://blog.ajaymatharu.com/wp-content/uploads/2012/05/different-faces-1226341652-300x220.jpg 300w, https://blog.ajaymatharu.com/wp-content/uploads/2012/05/different-faces-1226341652.jpg 700w" sizes="(max-width: 700px) 100vw, 700px" /></a>
   
   <p class="wp-caption-text">
     Different Faces

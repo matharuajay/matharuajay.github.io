@@ -28,7 +28,7 @@ tags:
 Yesterday I came across a very good list of the strategies that will keep you happy. So I am just sharing it with you all hope this helps you to stay happy <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 <div id="attachment_2136" style="width: 305px" class="wp-caption aligncenter">
-  <img class="size-medium wp-image-2136" title="Happiness Strategies" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/happiness-strategies-295x300.jpg" alt="Happiness Strategies" width="295" height="300" />
+  <img class="size-medium wp-image-2136" title="Happiness Strategies" src="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/happiness-strategies-295x300.jpg" alt="Happiness Strategies" width="295" height="300" />
   
   <p class="wp-caption-text">
     Happiness

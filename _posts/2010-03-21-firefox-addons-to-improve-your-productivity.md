@@ -32,7 +32,7 @@ Yesterday I wrote about [7 best Firefox addons for Web Developers.](../7-best-fi
 [Screen Grab](https://www.screengrab.org/)
 
 <div id="attachment_2156" style="width: 441px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-2156" title="Screen Grab" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/screen-grab.png" alt="" width="431" height="570" />
+  <img class="size-full wp-image-2156" title="Screen Grab" src="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/screen-grab.png" alt="" width="431" height="570" />
   
   <p class="wp-caption-text">
     Screen Grab
@@ -60,7 +60,7 @@ Yesterday I wrote about [7 best Firefox addons for Web Developers.](../7-best-fi
   </p>
   
   <div id="attachment_2165" style="width: 415px" class="wp-caption aligncenter">
-    <img class="size-full wp-image-2165" title="Tiny Menu" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/tiny-menu.png" alt="Tiny Menu" width="405" height="384" srcset="https://www.ajaymatharu.com/wp-content/uploads/2010/03/tiny-menu-300x284.png 300w, https://www.ajaymatharu.com/wp-content/uploads/2010/03/tiny-menu.png 405w" sizes="(max-width: 405px) 100vw, 405px" />
+    <img class="size-full wp-image-2165" title="Tiny Menu" src="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/tiny-menu.png" alt="Tiny Menu" width="405" height="384" srcset="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/tiny-menu-300x284.png 300w, https://blog.ajaymatharu.com/wp-content/uploads/2010/03/tiny-menu.png 405w" sizes="(max-width: 405px) 100vw, 405px" />
     
     <p class="wp-caption-text">
       Tiny Menu
@@ -76,7 +76,7 @@ Yesterday I wrote about [7 best Firefox addons for Web Developers.](../7-best-fi
   </p>
   
   <div id="attachment_2166" style="width: 398px" class="wp-caption aligncenter">
-    <img class="size-full wp-image-2166" title="Fast Dial" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/Fast-Dial.png" alt="Fast Dial" width="388" height="498" />
+    <img class="size-full wp-image-2166" title="Fast Dial" src="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/Fast-Dial.png" alt="Fast Dial" width="388" height="498" />
     
     <p class="wp-caption-text">
       Fast Dial
@@ -127,7 +127,7 @@ Yesterday I wrote about [7 best Firefox addons for Web Developers.](../7-best-fi
   </p>
   
   <div id="attachment_2167" style="width: 427px" class="wp-caption aligncenter">
-    <img class="size-full wp-image-2167" title="Hide Caption Title Bar" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/Hide_Caption.png" alt="Hide Caption Title Bar" width="417" height="72" />
+    <img class="size-full wp-image-2167" title="Hide Caption Title Bar" src="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/Hide_Caption.png" alt="Hide Caption Title Bar" width="417" height="72" />
     
     <p class="wp-caption-text">
       Hide Caption Title Bar
@@ -144,7 +144,7 @@ Yesterday I wrote about [7 best Firefox addons for Web Developers.](../7-best-fi
   
   <div id="attachment_2159">
     <div id="attachment_2159" style="width: 512px" class="wp-caption aligncenter">
-      <img class="size-full wp-image-2159" title="Sxipper" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/sxipper1.png" alt="" width="502" height="401" />
+      <img class="size-full wp-image-2159" title="Sxipper" src="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/sxipper1.png" alt="" width="502" height="401" />
       
       <p class="wp-caption-text">
         Sxipper Default
@@ -156,7 +156,7 @@ Yesterday I wrote about [7 best Firefox addons for Web Developers.](../7-best-fi
       
       <div id="attachment_2158">
         <div id="attachment_2158" style="width: 491px" class="wp-caption aligncenter">
-          <img class="size-full wp-image-2158" title="Sxipper when focus on Field" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/sxipper.png" alt="Sxipper when focus on Field" width="481" height="401" srcset="https://www.ajaymatharu.com/wp-content/uploads/2010/03/sxipper-300x250.png 300w, https://www.ajaymatharu.com/wp-content/uploads/2010/03/sxipper.png 481w" sizes="(max-width: 481px) 100vw, 481px" />
+          <img class="size-full wp-image-2158" title="Sxipper when focus on Field" src="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/sxipper.png" alt="Sxipper when focus on Field" width="481" height="401" srcset="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/sxipper-300x250.png 300w, https://blog.ajaymatharu.com/wp-content/uploads/2010/03/sxipper.png 481w" sizes="(max-width: 481px) 100vw, 481px" />
           
           <p class="wp-caption-text">
             Sxipper when focus on Field

@@ -24,7 +24,7 @@ tags:
 If you run through the following error in asp.net sitemap,
 
 <div id="attachment_2489" style="width: 310px" class="wp-caption aligncenter">
-  <a href="https://www.ajaymatharu.com/multiple-nodes-with-same-url-were-found-in-asp-net-sitemap/sitemaperror-2/" rel="attachment wp-att-2489"><img src="https://www.ajaymatharu.com/wp-content/uploads/2011/01/sitemapError1-300x86.png" alt="Multiple notes asp.net sitemap error" title="Multiple notes asp.net sitemap error" width="300" height="86" class="size-medium wp-image-2489" srcset="https://www.ajaymatharu.com/wp-content/uploads/2011/01/sitemapError1-300x86.png 300w, https://www.ajaymatharu.com/wp-content/uploads/2011/01/sitemapError1-1024x295.png 1024w, https://www.ajaymatharu.com/wp-content/uploads/2011/01/sitemapError1.png 1237w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://www.ajaymatharu.com/multiple-nodes-with-same-url-were-found-in-asp-net-sitemap/sitemaperror-2/" rel="attachment wp-att-2489"><img src="https://blog.ajaymatharu.com/wp-content/uploads/2011/01/sitemapError1-300x86.png" alt="Multiple notes asp.net sitemap error" title="Multiple notes asp.net sitemap error" width="300" height="86" class="size-medium wp-image-2489" srcset="https://blog.ajaymatharu.com/wp-content/uploads/2011/01/sitemapError1-300x86.png 300w, https://blog.ajaymatharu.com/wp-content/uploads/2011/01/sitemapError1-1024x295.png 1024w, https://blog.ajaymatharu.com/wp-content/uploads/2011/01/sitemapError1.png 1237w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     Multiple notes asp.net sitemap error

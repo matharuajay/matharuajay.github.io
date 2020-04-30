@@ -30,7 +30,7 @@ Day before I posted about [Firefox addons to improve your productivity](../firef
 [Enso](https://humanized.com/enso/)
 
 <div id="attachment_2206" style="width: 458px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-2206" title="Humanizedenso" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/Humanizedenso.jpg" alt="Humanized Enso" width="448" height="200" />
+  <img class="size-full wp-image-2206" title="Humanizedenso" src="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/Humanizedenso.jpg" alt="Humanized Enso" width="448" height="200" />
   
   <p class="wp-caption-text">
     Humanized Enso
@@ -42,7 +42,7 @@ You just hold down the Caps Lock key and type an Enso command, which is displaye
 [ZapNotest](https://zapnotes.demarque.com/en/)
 
 <div id="attachment_2173" style="width: 532px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-2173" title="Zapnotes" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/zapnotes.png" alt="" width="522" height="481" srcset="https://www.ajaymatharu.com/wp-content/uploads/2010/03/zapnotes-300x276.png 300w, https://www.ajaymatharu.com/wp-content/uploads/2010/03/zapnotes.png 522w" sizes="(max-width: 522px) 100vw, 522px" />
+  <img class="size-full wp-image-2173" title="Zapnotes" src="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/zapnotes.png" alt="" width="522" height="481" srcset="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/zapnotes-300x276.png 300w, https://blog.ajaymatharu.com/wp-content/uploads/2010/03/zapnotes.png 522w" sizes="(max-width: 522px) 100vw, 522px" />
   
   <p class="wp-caption-text">
     Zapnotes
@@ -67,7 +67,7 @@ You just hold down the Caps Lock key and type an Enso command, which is displaye
   </p>
   
   <div id="attachment_2171" style="width: 441px" class="wp-caption aligncenter">
-    <img class="size-full wp-image-2171" title="Ditto Clipboard Manager" src="https://www.ajaymatharu.com/wp-content/uploads/2010/03/Ditto_crp.png" alt="" width="431" height="380" srcset="https://www.ajaymatharu.com/wp-content/uploads/2010/03/Ditto_crp-300x264.png 300w, https://www.ajaymatharu.com/wp-content/uploads/2010/03/Ditto_crp.png 431w" sizes="(max-width: 431px) 100vw, 431px" />
+    <img class="size-full wp-image-2171" title="Ditto Clipboard Manager" src="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/Ditto_crp.png" alt="" width="431" height="380" srcset="https://blog.ajaymatharu.com/wp-content/uploads/2010/03/Ditto_crp-300x264.png 300w, https://blog.ajaymatharu.com/wp-content/uploads/2010/03/Ditto_crp.png 431w" sizes="(max-width: 431px) 100vw, 431px" />
     
     <p class="wp-caption-text">
       Ditto Clipboard Manager
