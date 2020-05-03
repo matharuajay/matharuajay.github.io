@@ -331,6 +331,29 @@ $prompt-newer: "{{ site.data.label.post.button.next }}";
   }
 }
 
+
+@media screen {   
+  .post img, .post .wp-caption{
+    max-width: 100%
+  } 
+}
+
+// @media screen and (min-width: 768px) {      
+//   .post img{      
+//     max-width:700px;
+//   } 
+// } 
+// @media (min-width: 992px) {      
+//     .post img{        
+//       max-width:600px;
+//     } 
+// }
+// @media (min-width: 1200px) {    
+//    .post img{         
+//     max-width:1024px;
+//    } 
+
+
 /* Hide SideBar and TOC */
 @media all and (max-width: 830px) {
   .post img {
