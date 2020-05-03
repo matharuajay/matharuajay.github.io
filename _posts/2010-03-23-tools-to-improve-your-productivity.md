@@ -25,7 +25,7 @@ tags:
   - Windows Tools
   - Zapnotes
 ---
-Day before I posted about [Firefox addons to improve your productivity](../firefox-addons-to-improve-your-productivity/) here are some Windows OS tools which you can use to improve your productivity. I use it on daily basis and love using it <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Day before I posted about [Firefox addons to improve your productivity](../firefox-addons-to-improve-your-productivity/) here are some Windows OS tools which you can use to improve your productivity. I use it on daily basis and love using it 
 
 [Enso](https://humanized.com/enso/)
 

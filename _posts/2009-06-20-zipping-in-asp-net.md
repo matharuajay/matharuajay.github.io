@@ -45,4 +45,4 @@ DotNetZip works on PCs with the full .NET Framework, and also runs on mobile dev
   
 &#8211; creation of self-extracting archives.
 
-Njoy coding <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Njoy coding 

@@ -32,4 +32,4 @@ The solution for this question goes like this, I am going to fetch 5th highest s
 <pre name="code" class="sql">Select top 1 FirstName, Salary From Employees Where Salary Not In (Select Distinct Top 4 Salary From Employees order by Salary desc) order by Salary desc
 </pre>
 
-Enjoy and have fun <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Enjoy and have fun 

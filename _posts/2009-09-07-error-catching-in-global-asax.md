@@ -54,4 +54,4 @@ And add this code in your global.asax file to catch the error,
  }
  } </pre>
 
-Hope this helps <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Hope this helps 

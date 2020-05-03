@@ -51,4 +51,4 @@ And here is the Bing&#8217;s Design
   </p>
 </div>
 
-Google didn&#8217;t checked the Bing&#8217;s design? or Google liked the Bing&#8217;s design so much?  <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />What&#8217;s your say on this?
+Google didn&#8217;t checked the Bing&#8217;s design? or Google liked the Bing&#8217;s design so much?  What&#8217;s your say on this?

@@ -39,4 +39,4 @@ If you want to fetch some other number change the &#8220;2&#8221; in the followi
 
 If you know a better way, please let us know.
   
-Hope this helps <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Hope this helps 

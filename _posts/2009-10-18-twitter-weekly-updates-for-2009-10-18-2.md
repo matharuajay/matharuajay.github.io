@@ -19,7 +19,7 @@ tags:
 ---
 <ul class="aktt_tweet_digest">
   <li>
-    RT: @sharebrain: still waiting for my google wave invite a. they took long to send it or b. i have be fooled &#8230;lol same here dude <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/matharuajay/statuses/4939327113" class="aktt_tweet_time">#</a>
+    RT: @sharebrain: still waiting for my google wave invite a. they took long to send it or b. i have be fooled &#8230;lol same here dude  <a href="https://twitter.com/matharuajay/statuses/4939327113" class="aktt_tweet_time">#</a>
   </li>
   <li>
     "Love is more afraid of change than destruction" &#8211; #<a href="https://search.twitter.com/search?q=%23quote" class="aktt_hashtag">quote</a> <a href="https://twitter.com/matharuajay/statuses/4937640349" class="aktt_tweet_time">#</a>

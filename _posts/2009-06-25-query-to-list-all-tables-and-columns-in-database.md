@@ -27,4 +27,4 @@ This query fires query to the system table that stores all the information about
 <pre name="code" class="sql">select table_name, column_name, data_type, character_maximum_length, is_nullable from information_schema.columns where table_name in (select name from sysobjects where xtype='U') order by table_name
 </pre>
 
-Hope this helps, enjoy <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Hope this helps, enjoy 

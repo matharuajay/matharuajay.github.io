@@ -32,4 +32,4 @@ Aamir Khan, has stressed on choosing a profession, in which you have passion. If
 
 If you choose a profession in which you have the passion, you will have fun, you will enjoy working, you will strive for excellence, you&#8217;ll be happy and this is what real success is.
 
-So don&#8217;t run behind success, run behind excellence and success will run behind you <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+So don&#8217;t run behind success, run behind excellence and success will run behind you 

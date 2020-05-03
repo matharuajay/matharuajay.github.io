@@ -31,4 +31,4 @@ Last night while developing an event listener custom list, I ran into this error
 
 The solution to this problem is, Restart your visual studio. And it will be back to normal.
 
-Hope this helps <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Hope this helps 

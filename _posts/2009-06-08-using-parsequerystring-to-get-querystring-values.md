@@ -63,4 +63,4 @@ This is the front end code ,
 
 <pre name="code" class="html"></pre>
 
-Hope this helps <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Hope this helps 

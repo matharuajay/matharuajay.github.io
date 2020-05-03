@@ -277,5 +277,5 @@ I really like to work on Firefox than on any other browser. It is extremely deve
             </ul>
             
             <p>
-              If you have more please share it with me and everyone <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+              If you have more please share it with me and everyone 
             </p>

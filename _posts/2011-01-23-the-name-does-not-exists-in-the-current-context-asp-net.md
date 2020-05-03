@@ -42,8 +42,8 @@ There are three possible solutions for this error,
 
 3 &#8211; The designer file is not refreshed.
 
-<div id="attachment_2570" style="width: 888px" class="wp-caption aligncenter">
-  <a rel="attachment wp-att-2570" href="https://www.ajaymatharu.com/the-name-does-not-exists-in-the-current-context-asp-net/control_does_not_exists_in_current_context_designer/"><img class="size-full wp-image-2570" title="control does not exists in current context designer file" src="https://blog.ajaymatharu.com/wp-content/uploads/2011/01/control_does_not_exists_in_current_context_designer.png" alt="control does not exists in current context designer file" width="878" height="508" /></a>
+<div id="attachment_2570" style="width: 700px" class="wp-caption aligncenter">
+  <a rel="attachment wp-att-2570" href="https://www.ajaymatharu.com/the-name-does-not-exists-in-the-current-context-asp-net/control_does_not_exists_in_current_context_designer/"><img class="size-full wp-image-2570" title="control does not exists in current context designer file" src="https://blog.ajaymatharu.com/wp-content/uploads/2011/01/control_does_not_exists_in_current_context_designer.png" alt="control does not exists in current context designer file" width="700" height="508" /></a>
   
   <p class="wp-caption-text">
     control does not exists in current context designer file
@@ -92,8 +92,8 @@ There are three possible solutions for this error,
       Once converted you can see the added control declaration in the designer file.
     </p>
     
-    <div id="attachment_2574" style="width: 865px" class="wp-caption aligncenter">
-      <a rel="attachment wp-att-2574" href="https://www.ajaymatharu.com/the-name-does-not-exists-in-the-current-context-asp-net/control_does_not_exists_in_current_context_designer4/"><img class="size-full wp-image-2574" title="New designer file after converting page to web application" src="https://blog.ajaymatharu.com/wp-content/uploads/2011/01/control_does_not_exists_in_current_context_designer4.png" alt="New designer file after converting page to web application" width="855" height="529" /></a>
+    <div id="attachment_2574" style="width: 700px" class="wp-caption aligncenter">
+      <a rel="attachment wp-att-2574" href="https://www.ajaymatharu.com/the-name-does-not-exists-in-the-current-context-asp-net/control_does_not_exists_in_current_context_designer4/"><img class="size-full wp-image-2574" title="New designer file after converting page to web application" src="https://blog.ajaymatharu.com/wp-content/uploads/2011/01/control_does_not_exists_in_current_context_designer4.png" alt="New designer file after converting page to web application" width="700" height="529" /></a>
       
       <p class="wp-caption-text">
         New designer file after converting page to web application
@@ -106,5 +106,5 @@ There are three possible solutions for this error,
       </p>
       
       <p>
-        Enjoy coding <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+        Enjoy coding!!
       </p>

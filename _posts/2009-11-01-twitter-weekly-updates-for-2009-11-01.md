@@ -52,13 +52,13 @@ tags:
     RT: @HemalRadia: There are no mistakes,you are always growing & expanding from your now.There is no going back, but expanding & growing from <a href="https://twitter.com/matharuajay/statuses/5222194983" class="aktt_tweet_time">#</a>
   </li>
   <li>
-    #Faith is a bird that sings when the dawn is still dark &#8211; Good Morning Twitter World <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/matharuajay/statuses/5222174493" class="aktt_tweet_time">#</a>
+    #Faith is a bird that sings when the dawn is still dark &#8211; Good Morning Twitter World  <a href="https://twitter.com/matharuajay/statuses/5222174493" class="aktt_tweet_time">#</a>
   </li>
   <li>
     "I would thank you from the bottom of my heart, but for you my heart has no bottom."- #<a href="https://search.twitter.com/search?q=%23Quote" class="aktt_hashtag">Quote</a> <a href="https://twitter.com/matharuajay/statuses/5198504833" class="aktt_tweet_time">#</a>
   </li>
   <li>
-    Good morning twitter world have a great day ahead <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/matharuajay/statuses/5194392463" class="aktt_tweet_time">#</a>
+    Good morning twitter world have a great day ahead  <a href="https://twitter.com/matharuajay/statuses/5194392463" class="aktt_tweet_time">#</a>
   </li>
   <li>
     RT: @JoyBing: “Always bear in mind that your own resolution to succeed is more important than any other.” by Abraham Lincoln <a href="https://twitter.com/matharuajay/statuses/5171527478" class="aktt_tweet_time">#</a>
@@ -70,7 +70,7 @@ tags:
     "Silent gratitude isn't much use to anyone." &#8211; G.B. Stern Let 3 people know today that you are grateful for them today. <a href="https://twitter.com/matharuajay/statuses/5169134815" class="aktt_tweet_time">#</a>
   </li>
   <li>
-    Good Morning Twitter World, have a great day ahead <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/matharuajay/statuses/5164493845" class="aktt_tweet_time">#</a>
+    Good Morning Twitter World, have a great day ahead  <a href="https://twitter.com/matharuajay/statuses/5164493845" class="aktt_tweet_time">#</a>
   </li>
   <li>
     Thought &#8211; #<a href="https://search.twitter.com/search?q=%2316" class="aktt_hashtag">16</a>:<br /> &#8220;When I was young, I used to admire intelligent people; as I grow older, I admire k.. <a href="https://bit.ly/izs3z" rel="nofollow">https://bit.ly/izs3z</a> <a href="https://twitter.com/matharuajay/statuses/5154540325" class="aktt_tweet_time">#</a>

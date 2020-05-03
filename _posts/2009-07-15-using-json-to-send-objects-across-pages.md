@@ -63,4 +63,4 @@ JavaScriptArray list = (JavaScriptArray)JavaScriptConvert.DeserializeObject(arra
 
 You can download sample code from [here](https://www.box.net/shared/g0nahe7979).
 
-Enjoy Coding <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Enjoy Coding 

@@ -25,7 +25,7 @@ tags:
     Good Morning Twitter world <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/matharuajay/statuses/5116324040" class="aktt_tweet_time">#</a>
   </li>
   <li>
-    @JeanyPutri, @betanio, @<a href="https://twitter.com/julianlacey" class="aktt_username">julianlacey</a> thanks for #<a href="https://search.twitter.com/search?q=%23FollowFriday" class="aktt_hashtag">FollowFriday</a> <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/matharuajay/statuses/5100506416" class="aktt_tweet_time">#</a>
+    @JeanyPutri, @betanio, @<a href="https://twitter.com/julianlacey" class="aktt_username">julianlacey</a> thanks for #<a href="https://search.twitter.com/search?q=%23FollowFriday" class="aktt_hashtag">FollowFriday</a>  <a href="https://twitter.com/matharuajay/statuses/5100506416" class="aktt_tweet_time">#</a>
   </li>
   <li>
     How will you be feeling Gratitude today? <a href="https://twitter.com/matharuajay/statuses/5092919002" class="aktt_tweet_time">#</a>
@@ -112,7 +112,7 @@ tags:
     "Gratitude is riches. Complaint is poverty." Are you Rich today? Or are you in Poverty? <a href="https://twitter.com/matharuajay/statuses/5036714050" class="aktt_tweet_time">#</a>
   </li>
   <li>
-    Good Morning twitter world, back to office <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/matharuajay/statuses/5036695921" class="aktt_tweet_time">#</a>
+    Good Morning twitter world, back to office  <a href="https://twitter.com/matharuajay/statuses/5036695921" class="aktt_tweet_time">#</a>
   </li>
   <li>
     waiting for 7' o clock to leave office <a href="https://twitter.com/matharuajay/statuses/5018409866" class="aktt_tweet_time">#</a>

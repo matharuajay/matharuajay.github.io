@@ -37,4 +37,4 @@ web = site.OpenWeb();
 
 Here username is the name username of the user who you want to impersonate as.
 
-Hope this helps <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Hope this helps 

@@ -39,4 +39,4 @@ Also some times the hover menus don&#8217;t work on IE8 to make it work on IE8 y
 
 in DynamicMenuStyle property of the menu control.
 
-Hope this helps <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Hope this helps 

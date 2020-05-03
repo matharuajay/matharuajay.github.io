@@ -46,4 +46,4 @@ The following line check if the Dept of particular employee has been updated, If
 <pre name="code" class="sql">if update (Dept) 
 </pre>
 
-Hope this helps <img src="https://www.ajaymatharu.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Hope this helps 
